@@ -37,11 +37,13 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init):
     t = 0
 
     # Fire Initialization
-    while True:
-        f_x, f_y = random.randint(1, n-2), random.randint(1, n-2)
-        if grid[f_x][f_y] == 0:
-            grid[f_x][f_y] = 2
-            break
+    # while True:
+    #     f_x, f_y = random.randint(1, n-2), random.randint(1, n-2)
+    #     if grid[f_x][f_y] == 0:
+    #         grid[f_x][f_y] = 2
+    #         break
+    f_x, f_y = fire_init
+    grid[f_x, f_y] = 2
     frames.append(np.copy(grid))  # Append a deep copy of the grid
 
     while True:

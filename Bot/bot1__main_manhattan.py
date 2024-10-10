@@ -99,6 +99,10 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init):
 
         t += 1
 
+    log_data['steps'] = t
+    log_results(log_data)
+    # Save the final frame
+    save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
     visualize_simulation(frames)
 
 def track_path_bot1(cell_details, dest):
