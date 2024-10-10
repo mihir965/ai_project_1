@@ -21,6 +21,7 @@ fire_init = fire_init_fn(grid, n, 2)
 frames_bot1 = []
 frames_bot2 = []
 frames_bot3 = []
+frames_bot4 = []
 
 print("Bot 1")
 random.seed(seed_value)
@@ -36,3 +37,8 @@ print("Bot 3")
 random.seed(seed_value)
 np.random.seed(seed_value)
 time_lapse_fn_bot3(grid.copy(), q, n, frames_bot3, bot_pos, button_pos, fire_init)
+
+# print("Bot 4")
+# random.seed(seed_value)
+# np.random.seed(seed_value)
+# time_lapse_fn_bot4(grid.copy(), q, n, frames_bot4, bot_pos, button_pos, fire_init)
