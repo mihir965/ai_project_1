@@ -6,9 +6,10 @@ import numpy as np
 import random
 
 n = 40
-q = 1.0
+q = 0.6
 
-seed_value = 42 
+seed_value = random.randrange(1, 100)
+print(seed_value)
 random.seed(seed_value)
 np.random.seed(seed_value)
 
