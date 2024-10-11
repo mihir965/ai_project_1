@@ -6,7 +6,7 @@ import numpy as np
 import random
 
 n = 40
-q = 0.6
+q = 0.3
 
 seed_value = random.randrange(1, 100)
 print(seed_value)
@@ -23,22 +23,22 @@ frames_bot2 = []
 frames_bot3 = []
 frames_bot4 = []
 
-print("Bot 1")
-random.seed(seed_value)
-np.random.seed(seed_value)
-time_lapse_fn_bot_1(grid.copy(), q, n, frames_bot1, bot_pos, button_pos, fire_init)
-
-print("Bot 2")
-random.seed(seed_value)
-np.random.seed(seed_value)
-time_lapse_fn_bot2(grid.copy(), q, n, frames_bot2, bot_pos, button_pos, fire_init)
-
-print("Bot 3")
-random.seed(seed_value)
-np.random.seed(seed_value)
-time_lapse_fn_bot3(grid.copy(), q, n, frames_bot3, bot_pos, button_pos, fire_init)
-
-# print("Bot 4")
+# print("Bot 1")
 # random.seed(seed_value)
 # np.random.seed(seed_value)
-# time_lapse_fn_bot4(grid.copy(), q, n, frames_bot4, bot_pos, button_pos, fire_init)
+# time_lapse_fn_bot_1(grid.copy(), q, n, frames_bot1, bot_pos, button_pos, fire_init)
+
+# print("Bot 2")
+# random.seed(seed_value)
+# np.random.seed(seed_value)
+# time_lapse_fn_bot2(grid.copy(), q, n, frames_bot2, bot_pos, button_pos, fire_init)
+
+# print("Bot 3")
+# random.seed(seed_value)
+# np.random.seed(seed_value)
+# time_lapse_fn_bot3(grid.copy(), q, n, frames_bot3, bot_pos, button_pos, fire_init)
+
+print("Bot 4")
+random.seed(seed_value)
+np.random.seed(seed_value)
+time_lapse_fn_bot4(grid.copy(), q, n, frames_bot4, bot_pos, button_pos, fire_init)
