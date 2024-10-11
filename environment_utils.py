@@ -113,7 +113,7 @@ def fire_spread(grid, n, q):
     new_grid = grid.copy()
     for x in range(1, n-1):
         for y in range(1, n-1):
-            if grid[x][y] == 0:
+            if grid[x][y] == 0 or grid[x][y]==3 or grid[x][y]==4:
                 k = sum(1 for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]
                         if grid[x + dx][y + dy] == 2)
                 if k > 0:

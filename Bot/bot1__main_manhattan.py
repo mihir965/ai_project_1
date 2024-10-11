@@ -133,7 +133,7 @@ def bot_planning_bot1(closed_list, cell_details, open_list, src, dest, grid, fou
                     return cell_details, found_dest
                 if not closed_list[new_i][new_j] and is_unblocked_bot_1(grid, new_i, new_j, t):
                     g_new = cell_details[i][j].g + 1.0
-                    h_new = calculate_h_value(new_i, new_j, dest)
+                    h_new = calculate_euclidean_distance(new_i, new_j, dest)
                     f_new = g_new + h_new
                     if cell_details[new_i][new_j].f == float('inf') or cell_details[new_i][new_j].f > f_new:
                         heapq.heappush(open_list, (f_new, (new_i, new_j)))
@@ -143,3 +143,7 @@ def bot_planning_bot1(closed_list, cell_details, open_list, src, dest, grid, fou
                         cell_details[new_i][new_j].parent_i = i
                         cell_details[new_i][new_j].parent_j = j
     return cell_details, found_dest
+
+def calculate_euclidean_distance(row, col, dest):
+    # Euclidean distance = sqrt((x1 - x2)^2 + (y1 - y2)^2)
+    return ((row - dest[0])**2 + (col - dest[1])**2)**0.5
