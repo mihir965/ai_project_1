@@ -125,7 +125,7 @@ def fire_spread(grid, n, q):
 def log_results(log_data, filename='/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/simulation_results.csv'):
     file_exists = os.path.isfile(filename)
     with open(filename, 'a', newline='') as csvfile:
-        fieldnames = ['Bot Type','run_id' ,'q', 'bot_pos_init', 'button_pos_init', 'fire_init', 'steps', 'result', 'final_frame']
+        fieldnames = ['Bot Type','run_id' ,'q', 'bot_pos_init', 'button_pos_init', 'fire_init', 'steps', 'result', 'final_frame', 'seed_value']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if not file_exists:
             writer.writeheader()

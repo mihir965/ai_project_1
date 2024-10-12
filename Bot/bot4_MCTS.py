@@ -116,7 +116,7 @@ def mcts(root_state, dest, q, n, max_iterations=100):
         return None
 
 
-def time_lapse_fn_bot4(grid, q, n, frames, src, dest, fire_init):
+def time_lapse_fn_bot4(grid, q, n, frames, src, dest, fire_init, seed_value):
     run_id = str(uuid.uuid4())
 
     # For logging results
@@ -129,7 +129,8 @@ def time_lapse_fn_bot4(grid, q, n, frames, src, dest, fire_init):
         'fire_init': fire_init,
         'steps': 0,
         'result': '',
-        'final_frame': f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png'
+        'final_frame': f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png',
+        'seed_value': seed_value
     }
 
     print(f"The bot is placed in position: {src}, button position is: {dest}")
