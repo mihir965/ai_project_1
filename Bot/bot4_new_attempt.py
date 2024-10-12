@@ -1,10 +1,17 @@
-# from environment_utils import *
 from env_utils import *
 import numpy as np
-import copy
 import uuid
 
-class MCTSNode:
+#We have
+#Simulation
+#Rollout
+#Rollout policy
+#From what positions do we start the playouts, and how many playouts do we allocate to each position?
+#Selection Plocy:
+#1. Exploitation
+#2. Exploration
+
+class MCTSCell:
     def __init__(self, state, parent=None, action=None):
         self.state = state
         self.parent = parent
@@ -13,40 +20,49 @@ class MCTSNode:
         self.visits = 0
         self.reward = 0.0
 
-    def is_fully_expanded(self, n):
+    def fully_expanded(self, n):
         bot_pos, grid = self.state
-        possible_actions = get_possible_actions(bot_pos, grid, n)
-        return len(self.children) == len(possible_actions)
+        actions_possible = possible_actions(bot_pos, grid, n)
+        return len(self.children) == len(actions_possible)
     
     def expand(self, q, n):
         bot_pos, grid = self.state
         tried_actions = [child.action for child in self.children]
-        possible_actions = get_possible_actions(bot_pos, grid, n)
-        for action in possible_actions:
+        actions_possible = possible_actions(bot_pos, grid, n)
+        for action in actions_possible:
             if action not in tried_actions:
                 new_state = apply_action(self.state, action, q, n)
-                child_node = MCTSNode(new_state, parent=self, action=action)
+                child_node = MCTSCell(new_state, self, action)
                 self.children.append(child_node)
                 return child_node
         return None
-    
+        
     def best_child(self, c_param = 1.4):
         choices_weights = [
-            (child.reward / child.visits) + c_param * np.sqrt((2*np.log(self.visits) / child.visits)) for child in self.children
+            (child.reward / child.visits) + c_param * np.sqrt((np.log(self.visits)/child.visits)) for child in self.children
         ]
         return self.children[np.argmax(choices_weights)]
+    
+def rollout_policy(bot_pos, possible_actions, dest):
+    distances_action = []
+    for action in possible_actions:
+        new_pos = (bot_pos[0] + action[0], bot_pos[1] + action[1])
+        dist = abs(new_pos[0]-dest[0]) + abs(new_pos[1]-dest[1]) #Manhattan distances
+        distances_action.append((dist, action))
+    # print(distances_action)
+    distances_action.sort()
+    return distances_action[0][1]
 
-def get_possible_actions(bot_pos, grid, n):
+
+def possible_actions(bot_pos, grid, n):
     actions = []
     directions = [(-1,0), (1,0), (0,-1), (0,1)]
-    for dx, dy in directions:
-        # print(dx, "and", dy)
-        new_x, new_y = bot_pos[0] + dx, bot_pos[1] + dy
+    for d_x, d_y in directions:
+        new_x , new_y = bot_pos[0] + d_x, bot_pos[1] + d_y
         if is_valid(new_x, new_y, n):
             cell_value = grid[new_x][new_y]
-            if cell_value!=1 and cell_value != 2:
-                actions.append((dx, dy))
-    # print(actions)
+            if cell_value !=1 and cell_value!=2:
+                actions.append((d_x, d_y))
     return actions
 
 def apply_action(state, action, q, n):
@@ -61,31 +77,20 @@ def apply_action(state, action, q, n):
     
     return (new_bot_pos, new_grid)
 
-def rollout_policy(bot_pos, possible_actions, dest):
-    distances = []
-    for action in possible_actions:
-        new_pos = (bot_pos[0] + action[0], bot_pos[1]+action[1])
-        distance = abs(new_pos[0] - dest[0]) + abs(new_pos[1] - dest[1])
-        distances.append((distance, action))
-    print("Prev", distances[0][1])
-    distances.sort()
-    print("After",distances[0][1])
-    return distances[0][1]
-
 def rollout(node, dest, q, n):
     current_state = node.state
     depth = 0
-    max_depth = 100
+    max_depth = 20
     while depth < max_depth:
         bot_pos, grid = current_state
         if is_destination(bot_pos[0], bot_pos[1], dest):
             return 1.0
         if grid[bot_pos[0]][bot_pos[1]] == 2:
             return -1.0
-        possible_actions = get_possible_actions(bot_pos, grid, n)
-        if not possible_actions:
+        actions_possible = possible_actions(bot_pos, grid, n)
+        if not actions_possible:
             return -1.0
-        action = rollout_policy(bot_pos, possible_actions, dest)
+        action = rollout_policy(bot_pos, actions_possible, dest)
         current_state = apply_action(current_state, action, q, n)
         depth+=1
     return 0.0
@@ -94,33 +99,31 @@ def backpropagate(node, reward):
     while node is not None:
         node.visits +=1
         node.reward += reward
-        #print(f"Backpropagating. Node action: {node.action}, Reward: {reward}, Visits: {node.visits}, Total Reward: {node.reward}")
+        print(f"Backpropagating. Node action: {node.action}, Reward: {reward}, Visits: {node.visits}, Total Reward: {node.reward}")
         node = node.parent
 
-def mcts(root_state, dest, q, n, max_iterations=5):
-    root_node = MCTSNode(root_state)
+def mcts(root_state, dest, q, n, max_iterations=100):
+    root_node = MCTSCell(root_state)
     for _ in range(max_iterations):
         node = root_node
-        while node.is_fully_expanded(n) and node.children:
+        while node.fully_expanded(n) and node.children:
             node = node.best_child()
-        if not node.is_fully_expanded(n):
+        if not node.fully_expanded(n):
             child = node.expand(q, n)
             if child is not None:
                 reward = rollout(child, dest, q, n)
                 backpropagate(child, reward)
                 continue
-        reward = rollout(node, dest, q, n)
-        backpropagate(node, reward)
-    
+            reward = rollout(node, dest, q, n)
+            backpropagate(node, reward)
     if root_node.children:
         best_child = max(root_node.children, key=lambda c: c.visits)
         print(f"Best action chosen by MCTS: {best_child.action}")
         return best_child.action
     else:
         return None
-
-
-def time_lapse_fn_bot4(grid, q, n, frames, src, dest, fire_init, seed_value):
+    
+def time_lapse_fn_bot4_new(grid, q, n, frames, src, dest, fire_init, seed_value):
     run_id = str(uuid.uuid4())
 
     # For logging results
