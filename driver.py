@@ -1,4 +1,5 @@
-from environment_utils import grid_init, button_init, bot_init, fire_init_fn
+# from environment_utils import *
+from env_utils import *
 import sys
 import os
 from Bot import *
@@ -6,9 +7,9 @@ import numpy as np
 import random
 
 n = 40
-q = 0.3
+q = 0.45
 
-seed_value = random.randrange(1, 100)
+seed_value = random.randrange(1, 1000)
 print(seed_value)
 random.seed(seed_value)
 np.random.seed(seed_value)

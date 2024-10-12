@@ -1,4 +1,5 @@
-from environment_utils import grid_init, bot_init, button_init, fire_init_fn, fire_spread, is_valid, is_destination, calculate_h_value, visualize_simulation,Cell, is_unblocked_bot_3, is_fire, log_results, save_final_frame
+# from environment_utils import grid_init, bot_init, button_init, fire_init_fn, fire_spread, is_valid, is_destination, calculate_h_value, visualize_simulation,Cell, is_unblocked_bot_3, is_fire, log_results, save_final_frame
+from env_utils import *
 import random
 import numpy as np
 import heapq
