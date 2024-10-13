@@ -213,7 +213,7 @@ def time_lapse_fn_bot4_new(grid, q, n, frames, src, dest, fire_init, seed_value)
             break
 
         t += 1
-
+        
     log_data['steps'] = t
     log_results(log_data)
     # Save the final frame

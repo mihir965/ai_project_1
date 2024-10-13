@@ -15,6 +15,9 @@ class Cell:
         self.g = float('inf')
         self.h = 0
 
+def is_blocked(grid, row, col):
+    return grid[row][col] == 1
+
 def is_valid(row, col, n):
     return (row >= 0) and (row < n) and (col >= 0) and (col < n)
 
@@ -83,7 +86,6 @@ def grid_init(n):
         i, j = random.choice(b_cells)
         grid[i][j] = 0
 
-    # Open approximately half of the dead-end cells
     d_cells = dead_end_cells(grid, n)
     num_to_open = len(d_cells) // 2
     for _ in range(num_to_open):
@@ -121,7 +123,7 @@ def fire_init_fn(grid, n, v):
     x, y = place_element(grid, n, v)
     return x, y
 
-def visualize_simulation(frames, interval=100):
+def visualize_simulation(frames, interval=500):
     cmap = ListedColormap(['white', 'black', 'red', 'blue', 'green'])
     fig, ax = plt.subplots()
     ax.set_title('Grid Simulation')
