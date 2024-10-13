@@ -3,6 +3,7 @@ import heapq
 import numpy as np
 import uuid
 
+# bot's journey through the grid (includes initializations of the environment, path planning and how the bot moves at each time step)
 def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
 
     run_id = str(uuid.uuid4())
@@ -22,20 +23,21 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     }
 
     print(f"The bot is placed in position: {src}, button position is: {dest}")
+    # if bot is already at the button 
     if is_destination(src[0], src[1], dest):
         print("The bot is placed with the button! LOL")
         log_data['result'] = 'Bot already at button'
         return
 
-    # Initialize the bot's starting position
+    # bot's starting position
     bot_pos = src
     t = 0
 
-    # Fire Initialization
+    # fire initialization
     grid[fire_init[0]][fire_init[1]] = 2
     frames.append(np.copy(grid))
 
-    # Initial path planning
+    # initial path planning
     def plan_path_bot_1():
         closed_list = [[False for _ in range(n)] for _ in range(n)]
         cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
@@ -63,27 +65,28 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     while True:
         print(f"Time step: {t}")
 
-        # Move the bot one step along the path
+        # moving the bot one step along the path
         if len(path) > 1:
             grid[bot_pos[0]][bot_pos[1]] = 0  
             bot_pos = path.pop(1)
             if grid[bot_pos[0]][bot_pos[1]] == 2:
                 print("The bot ran into the fire!")
+                log_data['result] = 'Bot ran into fire!'
                 break
             grid[bot_pos[0]][bot_pos[1]] = 4
             frames.append(np.copy(grid))
         else:
-            # Bot has reached the destination
+            # if bot has reached the destination
             print("The bot has reached the button.")
             frames.append(np.copy(grid))
             log_data['result'] = 'Success'
             break
 
-        # Spread the fire after bot moves
+        # spreading the fire after bot moves
         grid = fire_spread(grid, n, q)
         frames.append(np.copy(grid))
 
-        # Check if fire reached the bot or the button
+        # checking if fire reached the bot or the button
         if grid[bot_pos[0]][bot_pos[1]] == 2:
             print("The bot has caught fire!")
             frames.append(np.copy(grid))
@@ -99,12 +102,13 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
 
     log_data['steps'] = t
     log_results(log_data)
-    # Save the final frame
+    # saving the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
     # if trial == 0:
     #     visualize_simulation(frames)
     return log_data
 
+# to show the final path that the bot took
 def track_path_bot1(cell_details, src, dest, n):
     path = []
     i, j = dest
@@ -127,6 +131,7 @@ def track_path_bot1(cell_details, src, dest, n):
     # print("Function almost done")
     return path
 
+# defines how the bot decides which path to take
 def bot_planning_bot1(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, t):
     while len(open_list) > 0:
         p = heapq.heappop(open_list)
