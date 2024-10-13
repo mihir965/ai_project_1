@@ -4,6 +4,7 @@ import numpy as np
 import heapq
 import uuid
 
+# bot's journey through the grid (includes initializations of the environment, path planning and how the bot moves at each time step)
 def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
 
     run_id = str(uuid.uuid4())
@@ -50,24 +51,24 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
             log_data['result'] = 'Failure'
             break
 
-        # Move the bot one step along the path
+        # move the bot one step along the path
         if len(path) > 1:
             grid[bot_pos[0]][bot_pos[1]] = 0
             bot_pos = path.pop(1)
             grid[bot_pos[0]][bot_pos[1]] = 4
             frames.append(np.copy(grid))
         else:
-            # Bot has reached the destination
+            # if Bot has reached the destination
             print("The bot has reached the button.")
             frames.append(np.copy(grid))
             log_data['result'] = 'Success'
             break
 
-        # Spread the fire after bot moves
+        # spreading the fire after bot moves
         grid = fire_spread(grid, n, q)
         frames.append(np.copy(grid))
 
-        # Check if fire reached the bot or the button
+        # checking if fire reached the bot or the button
         if grid[bot_pos[0]][bot_pos[1]] == 2:
             print("The bot has caught fire!")
             frames.append(np.copy(grid))
@@ -79,7 +80,7 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
             log_data['result'] = 'Failure'
             break
 
-        # Replan if path is blocked by fire
+        # checks if path is blocked by fire. if yes, replans
         if any(grid[step[0]][step[1]] == 2 for step in path[1:]):
             print("Path blocked by fire, replanning...")
             path = plan_path_bot2(grid, bot_pos, dest, n)
@@ -97,6 +98,7 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
     # if trial == 0:
     #     visualize_simulation(frames)
     return log_data
+
 
 def plan_path_bot2(grid, bot_pos, dest, n):
     closed_list = [[False for _ in range(n)] for _ in range(n)]
@@ -116,6 +118,7 @@ def plan_path_bot2(grid, bot_pos, dest, n):
     else:
         return None
 
+# to show the final path that the bot took
 def track_path_bot2(cell_details, src, dest, n):
     path = []
     i, j = dest
