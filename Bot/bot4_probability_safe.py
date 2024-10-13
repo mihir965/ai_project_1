@@ -3,8 +3,9 @@ import random
 from env_utils import *
 import uuid
 
+# simulating spread of fire for next few time stps 
 def fire_forecast(grid, n, q, forecast_steps=10, seed_value=None):
-    probability_grid = np.zeros((n, n))  #grid storing fire probs
+    probability_grid = np.zeros((n, n))  #grid to store fire probs
     temp_grid = grid.copy()
 
     #same randomization for bot4 fix
@@ -23,10 +24,11 @@ def fire_forecast(grid, n, q, forecast_steps=10, seed_value=None):
                             new_grid[x][y] = 2  
         temp_grid = new_grid
 
-    # Normalization
+    # Normalizing as it is being calculated for each step
     probability_grid = probability_grid / forecast_steps
     return probability_grid
 
+# zones where the probabilities are less than the described threshold
 def find_safe_zones(grid, probability_grid, threshold=0.3):
     safe_zones = []
     for i in range(len(grid)):
@@ -35,11 +37,13 @@ def find_safe_zones(grid, probability_grid, threshold=0.3):
                 safe_zones.append((i, j))
     return safe_zones
 
+# adaptive heuristic - maximizes safety and minimizes distance (manhattan)
 def calculate_adaptive_h_value(row, col, dest, fire_risk_map):
     manhattan_distance = abs(row - dest[0]) + abs(col - dest[1])
     fire_risk_penalty = fire_risk_map[row][col] * 10
     return manhattan_distance + fire_risk_penalty
 
+# bot's journey through the grid (includes initializations of the environment, path planning and how the bot moves at each time step)
 def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
     run_id = str(uuid.uuid4())
 
@@ -143,6 +147,7 @@ def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
     else:
         return None
 
+# defines how the bot decides which path to take
 def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, probability_grid):
     while len(open_list) > 0:
         p = heapq.heappop(open_list)
@@ -177,7 +182,7 @@ def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, fou
                         cell_details[new_i][new_j].parent_j = j
     return cell_details, found_dest
 
-
+# to show the final path that the bot took
 def track_path_bot3(cell_details, dest, src, n):
     # print("tracking path")
     path = []
