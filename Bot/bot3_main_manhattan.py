@@ -1,4 +1,3 @@
-# from environment_utils import grid_init, bot_init, button_init, fire_init_fn, fire_spread, is_valid, is_destination, calculate_h_value, visualize_simulation,Cell, is_unblocked_bot_3, is_fire, log_results, save_final_frame
 from env_utils import *
 import random
 import numpy as np
@@ -42,7 +41,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
     frames.append(np.copy(grid))
 
     def plan_path_bot3():
-        # First attempt: Avoid cells adjacent to fire cells
+        # First attempt avoid cells adjacent to fire cells
         print("Attempting to find path avoiding adjacent fire cells.")
         closed_list = [[False for _ in range(n)] for _ in range(n)]
         cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
@@ -59,7 +58,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         if found_dest:
             return track_path_bot3(cell_details, dest, bot_pos, n)
         else:
-            # Fallback: Avoid only current fire cells
+            # Fallback thn avoid only current fire cells
             print("No path found avoiding adjacent fire cells. Trying to find path avoiding fire cells only.")
             closed_list = [[False for _ in range(n)] for _ in range(n)]
             cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
@@ -92,7 +91,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         # Move the bot one step along the path
         if len(path) >= 2:
             grid[bot_pos[0]][bot_pos[1]] = 0
-            bot_pos = path[1]  # Move to the next position
+            bot_pos = path[1]
             if grid[bot_pos[0]][bot_pos[1]] == 2:
                 print("The bot ran into the fire!")
                 frames.append(np.copy(grid))
@@ -105,11 +104,6 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
             print("The bot has reached the button.")
             frames.append(np.copy(grid))
             log_data['result'] = 'Success'
-            break
-        else:
-            # Empty path (should not occur)
-            print("Unexpected empty path.")
-            frames.append(np.copy(grid))
             break
 
         # Spread the fire after bot moves
@@ -148,15 +142,15 @@ def track_path_bot3(cell_details, dest, src, n):
         path.append((i, j))
         if (i, j) in visited:
             print("Detected loop in track_path.")
-            break  # Prevent infinite loop
+            break
         visited.add((i, j))
         temp_i = cell_details[i][j].parent_i
         temp_j = cell_details[i][j].parent_j
         if not is_valid(temp_i, temp_j, n):
             print(f"Invalid parent cell: ({temp_i}, {temp_j})")
-            break  # Prevent infinite loop
+            break
         i, j = temp_i, temp_j
-    path.append((src[0], src[1]))  # Add the source cell
+    path.append((src[0], src[1]))
     path.reverse()
     # print("Function almost done")
     return path

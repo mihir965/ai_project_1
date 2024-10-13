@@ -5,10 +5,10 @@ from env_utils import *
 import uuid
 
 def fire_forecast(grid, n, q, forecast_steps=10, seed_value=None):
-    probability_grid = np.zeros((n, n))  # Initialize a grid to store fire probabilities
+    probability_grid = np.zeros((n, n))  #grid storing fire probs
     temp_grid = grid.copy()
 
-    # Create a separate random generator instance for fire forecasting
+    #same randomization for bot4 fix
     forecast_random = random.Random(seed_value)
 
     for _ in range(forecast_steps):
@@ -38,7 +38,7 @@ def find_safe_zones(grid, probability_grid, threshold=0.3):
 
 def calculate_adaptive_h_value(row, col, dest, fire_risk_map):
     manhattan_distance = abs(row - dest[0]) + abs(col - dest[1])
-    fire_risk_penalty = fire_risk_map[row][col] * 10  # Adjust weight of fire risk
+    fire_risk_penalty = fire_risk_map[row][col] * 10
     return manhattan_distance + fire_risk_penalty
 
 def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
@@ -85,7 +85,7 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
         # Move the bot one step along the path
         if len(path) >= 2:
             grid[bot_pos[0]][bot_pos[1]] = 0
-            bot_pos = path[1]  # Move to the next position
+            bot_pos = path[1]
             if grid[bot_pos[0]][bot_pos[1]] == 2:
                 print("The bot ran into the fire!")
                 frames.append(np.copy(grid))
@@ -99,11 +99,6 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
             print("The bot has reached the button.")
             frames.append(np.copy(grid))
             log_data['result'] = 'Success'
-            break
-        else:
-            # Unexpected empty path
-            print("Unexpected empty path.")
-            frames.append(np.copy(grid))
             break
 
         # Spread the fire after bot moves
@@ -146,7 +141,8 @@ def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
     found_dest = False
     cell_details, found_dest = bot_planning_bot4(closed_list, cell_details, open_list, bot_pos, dest, grid, found_dest, n, probability_grid)
     if found_dest:
-        return track_path_bot3(cell_details, dest, bot_pos, n)  # Reuse bot 3's tracking function
+        #We can resuse bot3 tracking here
+        return track_path_bot3(cell_details, dest, bot_pos, n)
     else:
         return None
 
@@ -159,7 +155,6 @@ def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, fou
         for dir in directions:
             new_i, new_j = i + dir[0], j + dir[1]
             if is_valid(new_i, new_j, n):
-                # Avoid blocked cells
                 if is_blocked(grid, new_i, new_j):
                     continue
 
@@ -196,15 +191,15 @@ def track_path_bot3(cell_details, dest, src, n):
         path.append((i, j))
         if (i, j) in visited:
             print("Detected loop in track_path.")
-            break  # Prevent infinite loop
+            break 
         visited.add((i, j))
         temp_i = cell_details[i][j].parent_i
         temp_j = cell_details[i][j].parent_j
         if not is_valid(temp_i, temp_j, n):
             print(f"Invalid parent cell: ({temp_i}, {temp_j})")
-            break  # Prevent infinite loop
+            break 
         i, j = temp_i, temp_j
-    path.append((src[0], src[1]))  # Add the source cell
+    path.append((src[0], src[1]))
     path.reverse()
     # print("Function almost done")
     return path

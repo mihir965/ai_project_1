@@ -23,9 +23,6 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     }
 
     print(f"The bot is placed in position: {src}, button position is: {dest}")
-    if not is_valid(src[0], src[1], n) or not is_valid(dest[0], dest[1], n):
-        print("Invalid positions")
-        return
     if is_destination(src[0], src[1], dest):
         print("The bot is placed with the button! LOL")
         log_data['result'] = 'Bot already at button'
@@ -54,7 +51,7 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
         found_dest = False
         cell_details, found_dest = bot_planning_bot1(closed_list, cell_details, open_list, bot_pos, dest, grid, found_dest, n, t)
         if found_dest:
-            return track_path_bot1(cell_details, dest)
+            return track_path_bot1(cell_details, src, dest, n)
         else:
             return None
 
@@ -109,16 +106,25 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     #     visualize_simulation(frames)
     return log_data
 
-def track_path_bot1(cell_details, dest):
+def track_path_bot1(cell_details, src, dest, n):
     path = []
     i, j = dest
-    while not (cell_details[i][j].parent_i == i and cell_details[i][j].parent_j == j):
+    visited = set()
+    while not (i == src[0] and j == src[1]):
         path.append((i, j))
+        if (i, j) in visited:
+            print("Detected loop in track_path.")
+            break
+        visited.add((i, j))
         temp_i = cell_details[i][j].parent_i
         temp_j = cell_details[i][j].parent_j
+        if not is_valid(temp_i, temp_j, n):
+            print(f"Invalid parent cell: ({temp_i}, {temp_j})")
+            break 
         i, j = temp_i, temp_j
-    path.append((i, j))
+    path.append((src[0], src[1]))
     path.reverse()
+    # print("Function almost done")
     return path
 
 def bot_planning_bot1(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, t):

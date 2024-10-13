@@ -1,4 +1,3 @@
-# from environment_utils import grid_init, bot_init, button_init, fire_init_fn, fire_spread, is_valid, is_destination, calculate_h_value, visualize_simulation,Cell, is_unblocked_bot_2, log_results, save_final_frame
 from env_utils import *
 import random
 import numpy as np
@@ -40,7 +39,7 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
     
     f_x, f_y = fire_init
     grid[f_x, f_y] = 2
-    frames.append(np.copy(grid))  # Append a deep copy of the grid
+    frames.append(np.copy(grid))
 
     while True:
         print(f"Time step: {t}")
@@ -53,10 +52,10 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
 
         # Move the bot one step along the path
         if len(path) > 1:
-            grid[bot_pos[0]][bot_pos[1]] = 0  # Clear previous bot position
-            bot_pos = path.pop(1)  # Move to the next position
-            grid[bot_pos[0]][bot_pos[1]] = 4  # Mark new bot position
-            frames.append(np.copy(grid))  # Append a deep copy of the grid
+            grid[bot_pos[0]][bot_pos[1]] = 0
+            bot_pos = path.pop(1)
+            grid[bot_pos[0]][bot_pos[1]] = 4
+            frames.append(np.copy(grid))
         else:
             # Bot has reached the destination
             print("The bot has reached the button.")
@@ -66,7 +65,7 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
 
         # Spread the fire after bot moves
         grid = fire_spread(grid, n, q)
-        frames.append(np.copy(grid))  # Append a deep copy of the grid
+        frames.append(np.copy(grid))
 
         # Check if fire reached the bot or the button
         if grid[bot_pos[0]][bot_pos[1]] == 2:
@@ -113,40 +112,45 @@ def plan_path_bot2(grid, bot_pos, dest, n):
     found_dest = False
     cell_details, found_dest = bot_planning_bot2(closed_list, cell_details, open_list, bot_pos, dest, grid, found_dest, n)
     if found_dest:
-        return track_path_bot2(cell_details, dest)
+        return track_path_bot2(cell_details, bot_pos, dest, n)
     else:
         return None
 
-def track_path_bot2(cell_details, dest):
+def track_path_bot2(cell_details, src, dest, n):
     path = []
     i, j = dest
-    while not (cell_details[i][j].parent_i == i and cell_details[i][j].parent_j == j):
+    visited = set()
+    while not (i == src[0] and j == src[1]):
         path.append((i, j))
+        if (i, j) in visited:
+            print("Detected loop in track_path.")
+            break
+        visited.add((i, j))
         temp_i = cell_details[i][j].parent_i
         temp_j = cell_details[i][j].parent_j
+        if not is_valid(temp_i, temp_j, n):
+            print(f"Invalid parent cell: ({temp_i}, {temp_j})")
+            break
         i, j = temp_i, temp_j
-    path.append((i, j))  # Include the start cell
+    path.append((src[0], src[1]))
     path.reverse()
+    # print("Function almost done")
     return path
 
 def bot_planning_bot2(closed_list, cell_details, open_list, src, dest, grid, found_dest, n):
     while len(open_list) > 0:
         p = heapq.heappop(open_list)[1]
         i, j = p
-
         closed_list[i][j] = True
-
         if is_destination(i, j, dest):
             found_dest = True
             break
-
         for x, y in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
             if is_valid(i + x, j + y, n):
                 if is_unblocked_bot_2(grid, i + x, j + y) and not closed_list[i + x][j + y]:
                     g_new = cell_details[i][j].g + 1
                     h_new = calculate_h_value(i + x, j + y, dest)
                     f_new = g_new + h_new
-
                     if cell_details[i + x][j + y].f > f_new:
                         cell_details[i + x][j + y].f = f_new
                         cell_details[i + x][j + y].g = g_new
