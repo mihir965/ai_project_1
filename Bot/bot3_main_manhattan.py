@@ -4,6 +4,7 @@ import numpy as np
 import heapq
 import uuid
 
+# bot's journey through the grid (includes initializations of the environment, path planning and how the bot moves at each time step)
 def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
 
     run_id = str(uuid.uuid4())
@@ -32,16 +33,16 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         log_data['result'] = 'Success'
         return
 
-    # Initialize the bot's starting position
+    # bot's starting position
     bot_pos = src
     t = 0
 
-    # Fire Initialization
+    # fire initialization
     grid[fire_init[0]][fire_init[1]] = 2
     frames.append(np.copy(grid))
 
     def plan_path_bot3():
-        # First attempt avoid cells adjacent to fire cells
+        # attempting avoid cells adjacent to fire cells
         print("Attempting to find path avoiding adjacent fire cells.")
         closed_list = [[False for _ in range(n)] for _ in range(n)]
         cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
@@ -58,7 +59,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         if found_dest:
             return track_path_bot3(cell_details, dest, bot_pos, n)
         else:
-            # Fallback thn avoid only current fire cells
+            # fallback thn avoid only current fire cells
             print("No path found avoiding adjacent fire cells. Trying to find path avoiding fire cells only.")
             closed_list = [[False for _ in range(n)] for _ in range(n)]
             cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
@@ -133,6 +134,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
     #     visualize_simulation(frames)
     return log_data
 
+# to show the final path that the bot took
 def track_path_bot3(cell_details, dest, src, n):
     # print("tracking path")
     path = []
@@ -156,6 +158,7 @@ def track_path_bot3(cell_details, dest, src, n):
     # print("Function almost done")
     return path
 
+# defines how the bot decides which path to take
 def bot_planning_bot3(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, avoid_adjacent_cells):
     while len(open_list) > 0:
         p = heapq.heappop(open_list)
