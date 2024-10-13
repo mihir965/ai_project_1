@@ -1,0 +1,837 @@
+bot_type,run_id,q,bot_pos_init,button_pos_init,fire_init,steps,result,final_frame,seed_value
+Bot 1,90495570-2c83-4483-8c86-fd7a3741520f,0.0,"(4, 31)","(28, 27)","(8, 12)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/90495570-2c83-4483-8c86-fd7a3741520f.png,188
+Bot 2,13db5d89-9cf8-473a-997f-99f04614b0e1,0.0,"(4, 31)","(28, 27)","(8, 12)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/13db5d89-9cf8-473a-997f-99f04614b0e1.png,188
+Bot 3,8d167568-0468-48b8-8acb-bd94ff0737a2,0.0,"(4, 31)","(28, 27)","(8, 12)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8d167568-0468-48b8-8acb-bd94ff0737a2.png,188
+Bot 4,dcfaa18a-9015-4630-bbaf-d4a40d403d7d,0.0,"(4, 31)","(28, 27)","(8, 12)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dcfaa18a-9015-4630-bbaf-d4a40d403d7d.png,188
+Bot 1,e109b304-d742-4e87-a6a4-fad4f79f54cb,0.0,"(7, 12)","(26, 35)","(13, 29)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e109b304-d742-4e87-a6a4-fad4f79f54cb.png,5691
+Bot 2,39f91353-ba79-4f09-b6c5-39f50ecb0d68,0.0,"(7, 12)","(26, 35)","(13, 29)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/39f91353-ba79-4f09-b6c5-39f50ecb0d68.png,5691
+Bot 3,3e9b4a20-3e8f-4f46-addd-4d69fc19f25f,0.0,"(7, 12)","(26, 35)","(13, 29)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3e9b4a20-3e8f-4f46-addd-4d69fc19f25f.png,5691
+Bot 4,034cc1b9-9f04-4d05-ad50-29d98ad3a460,0.0,"(7, 12)","(26, 35)","(13, 29)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/034cc1b9-9f04-4d05-ad50-29d98ad3a460.png,5691
+Bot 1,42264f73-8d35-48da-9606-c2259f32fa27,0.0,"(29, 6)","(3, 12)","(16, 29)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/42264f73-8d35-48da-9606-c2259f32fa27.png,245
+Bot 2,92c378e7-f683-40e1-95a6-4ac33afb2bc1,0.0,"(29, 6)","(3, 12)","(16, 29)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/92c378e7-f683-40e1-95a6-4ac33afb2bc1.png,245
+Bot 3,9bd58540-9e9b-4421-b3b6-5fa729d3cb0e,0.0,"(29, 6)","(3, 12)","(16, 29)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9bd58540-9e9b-4421-b3b6-5fa729d3cb0e.png,245
+Bot 4,39c1e15b-cf78-4635-968b-58e58e4d945c,0.0,"(29, 6)","(3, 12)","(16, 29)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/39c1e15b-cf78-4635-968b-58e58e4d945c.png,245
+Bot 1,20d08e92-5891-4976-af34-fe8955176c5f,0.0,"(24, 4)","(21, 18)","(38, 7)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/20d08e92-5891-4976-af34-fe8955176c5f.png,9658
+Bot 2,3b336910-dccf-44c4-9c4c-acdd863fb7b2,0.0,"(24, 4)","(21, 18)","(38, 7)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3b336910-dccf-44c4-9c4c-acdd863fb7b2.png,9658
+Bot 3,cb765dfc-92c9-4948-a3ae-2583587b683b,0.0,"(24, 4)","(21, 18)","(38, 7)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cb765dfc-92c9-4948-a3ae-2583587b683b.png,9658
+Bot 4,7ab21084-bf77-49f5-8ea2-f6f45e7b7a16,0.0,"(24, 4)","(21, 18)","(38, 7)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7ab21084-bf77-49f5-8ea2-f6f45e7b7a16.png,9658
+Bot 1,84e0206a-6db3-4bd9-ad12-a0bc8a23e35a,0.0,"(8, 36)","(3, 25)","(8, 16)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/84e0206a-6db3-4bd9-ad12-a0bc8a23e35a.png,4819
+Bot 2,57748fb9-6d13-436b-9cf6-c8596a504393,0.0,"(8, 36)","(3, 25)","(8, 16)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/57748fb9-6d13-436b-9cf6-c8596a504393.png,4819
+Bot 3,6acbd6c7-5b4e-4ab4-b8d9-69e0dbd84a53,0.0,"(8, 36)","(3, 25)","(8, 16)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6acbd6c7-5b4e-4ab4-b8d9-69e0dbd84a53.png,4819
+Bot 4,d6a292c2-eaa1-4fa3-9105-c91e6ba6a197,0.0,"(8, 36)","(3, 25)","(8, 16)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d6a292c2-eaa1-4fa3-9105-c91e6ba6a197.png,4819
+Bot 1,bb400a4c-78ef-43db-b988-b9692896410a,0.0,"(30, 27)","(35, 11)","(20, 14)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bb400a4c-78ef-43db-b988-b9692896410a.png,3949
+Bot 2,8841465b-7729-44a9-bb46-cb3df26f5249,0.0,"(30, 27)","(35, 11)","(20, 14)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8841465b-7729-44a9-bb46-cb3df26f5249.png,3949
+Bot 3,26fec5a6-e597-4648-8dc2-84090fac8d96,0.0,"(30, 27)","(35, 11)","(20, 14)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/26fec5a6-e597-4648-8dc2-84090fac8d96.png,3949
+Bot 4,97cb4df9-4395-45c9-959d-3464f0658518,0.0,"(30, 27)","(35, 11)","(20, 14)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/97cb4df9-4395-45c9-959d-3464f0658518.png,3949
+Bot 1,c2bd5bf6-e69b-467b-9a97-fdbcbd75003a,0.0,"(4, 30)","(28, 32)","(35, 5)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c2bd5bf6-e69b-467b-9a97-fdbcbd75003a.png,1982
+Bot 2,78727422-1938-47b6-a16d-4cb54094de5e,0.0,"(4, 30)","(28, 32)","(35, 5)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/78727422-1938-47b6-a16d-4cb54094de5e.png,1982
+Bot 3,6ebadda2-6306-47c6-bafb-b00ffb7e936b,0.0,"(4, 30)","(28, 32)","(35, 5)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6ebadda2-6306-47c6-bafb-b00ffb7e936b.png,1982
+Bot 4,ef2351e7-607f-4d85-9f4a-f31261c8a38b,0.0,"(4, 30)","(28, 32)","(35, 5)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ef2351e7-607f-4d85-9f4a-f31261c8a38b.png,1982
+Bot 1,171eaf9d-6da0-460d-9baf-674c17375ad1,0.0,"(5, 18)","(12, 15)","(14, 28)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/171eaf9d-6da0-460d-9baf-674c17375ad1.png,9301
+Bot 2,7c9b7a0f-a78e-4ca8-8be3-34889cad23fa,0.0,"(5, 18)","(12, 15)","(14, 28)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7c9b7a0f-a78e-4ca8-8be3-34889cad23fa.png,9301
+Bot 3,559172ea-306c-490c-9ac2-8f216b3ed153,0.0,"(5, 18)","(12, 15)","(14, 28)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/559172ea-306c-490c-9ac2-8f216b3ed153.png,9301
+Bot 4,24423fcd-203d-4a23-9f28-ebd80a0b327a,0.0,"(5, 18)","(12, 15)","(14, 28)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/24423fcd-203d-4a23-9f28-ebd80a0b327a.png,9301
+Bot 1,b4eea87c-fc52-437e-9a5a-d6d0e1bfc230,0.0,"(31, 3)","(34, 16)","(27, 12)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b4eea87c-fc52-437e-9a5a-d6d0e1bfc230.png,4936
+Bot 2,21cad73f-2f2c-429f-9d1e-d29b7e5a9dd7,0.0,"(31, 3)","(34, 16)","(27, 12)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/21cad73f-2f2c-429f-9d1e-d29b7e5a9dd7.png,4936
+Bot 3,2f4095e1-9c96-47b2-bbbe-0bea6c12e1f4,0.0,"(31, 3)","(34, 16)","(27, 12)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2f4095e1-9c96-47b2-bbbe-0bea6c12e1f4.png,4936
+Bot 4,c95d6ce5-9015-456b-a900-92f44aeb0689,0.0,"(31, 3)","(34, 16)","(27, 12)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c95d6ce5-9015-456b-a900-92f44aeb0689.png,4936
+Bot 1,593336fc-2ad0-4d3a-bb65-d9b8bc1a6922,0.0,"(21, 18)","(8, 12)","(1, 37)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/593336fc-2ad0-4d3a-bb65-d9b8bc1a6922.png,4738
+Bot 2,fe6350b1-c941-415a-91e6-37c0c3fb588f,0.0,"(21, 18)","(8, 12)","(1, 37)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fe6350b1-c941-415a-91e6-37c0c3fb588f.png,4738
+Bot 3,e8824889-4b90-4267-a17e-4d84dd28aaa1,0.0,"(21, 18)","(8, 12)","(1, 37)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e8824889-4b90-4267-a17e-4d84dd28aaa1.png,4738
+Bot 4,15307351-3f28-4c77-b65b-577be74e7fd1,0.0,"(21, 18)","(8, 12)","(1, 37)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/15307351-3f28-4c77-b65b-577be74e7fd1.png,4738
+Bot 1,7ca16607-65be-4b17-92f5-ec4605ca8ae7,0.05,"(6, 33)","(13, 29)","(24, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7ca16607-65be-4b17-92f5-ec4605ca8ae7.png,156
+Bot 2,1afcbab0-500f-4bb1-9835-7523d4f050db,0.05,"(6, 33)","(13, 29)","(24, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1afcbab0-500f-4bb1-9835-7523d4f050db.png,156
+Bot 3,ad395eaa-a122-4cf7-ac7f-21f6d0364388,0.05,"(6, 33)","(13, 29)","(24, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ad395eaa-a122-4cf7-ac7f-21f6d0364388.png,156
+Bot 4,a42ec0bb-6ba3-433c-bde8-2bc8dd387d67,0.05,"(6, 33)","(13, 29)","(24, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a42ec0bb-6ba3-433c-bde8-2bc8dd387d67.png,156
+Bot 1,ea0b55ee-fec7-4ca1-9359-0022ff79dc86,0.05,"(1, 3)","(13, 31)","(33, 25)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ea0b55ee-fec7-4ca1-9359-0022ff79dc86.png,6220
+Bot 2,a511fbca-1145-4dd9-aee5-c0d5fc8a23e1,0.05,"(1, 3)","(13, 31)","(33, 25)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a511fbca-1145-4dd9-aee5-c0d5fc8a23e1.png,6220
+Bot 3,59cd834a-31af-45f0-bb66-fe6729b868bd,0.05,"(1, 3)","(13, 31)","(33, 25)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/59cd834a-31af-45f0-bb66-fe6729b868bd.png,6220
+Bot 4,f9336e23-d303-4ac0-a02c-98d9ccdb06bf,0.05,"(1, 3)","(13, 31)","(33, 25)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f9336e23-d303-4ac0-a02c-98d9ccdb06bf.png,6220
+Bot 1,9d61b404-acb1-4024-bbc4-8fac93a00710,0.05,"(25, 33)","(22, 13)","(6, 17)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9d61b404-acb1-4024-bbc4-8fac93a00710.png,9307
+Bot 2,0ee38d51-d2df-4716-8d29-05b1fbf92f60,0.05,"(25, 33)","(22, 13)","(6, 17)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0ee38d51-d2df-4716-8d29-05b1fbf92f60.png,9307
+Bot 3,44584cb6-785e-41af-b3c8-bf219039fa79,0.05,"(25, 33)","(22, 13)","(6, 17)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/44584cb6-785e-41af-b3c8-bf219039fa79.png,9307
+Bot 4,084b35d4-6624-4dd3-aa9c-dbf044679538,0.05,"(25, 33)","(22, 13)","(6, 17)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/084b35d4-6624-4dd3-aa9c-dbf044679538.png,9307
+Bot 1,a5704a04-a723-45f9-912b-47f36badc196,0.05,"(34, 38)","(14, 6)","(11, 3)",51,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a5704a04-a723-45f9-912b-47f36badc196.png,4276
+Bot 2,a7401572-dd83-49fb-bf0c-ef7cc7d2611f,0.05,"(34, 38)","(14, 6)","(11, 3)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a7401572-dd83-49fb-bf0c-ef7cc7d2611f.png,4276
+Bot 3,00fcaf50-5ceb-41a1-bfb1-6d31d40616c2,0.05,"(34, 38)","(14, 6)","(11, 3)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/00fcaf50-5ceb-41a1-bfb1-6d31d40616c2.png,4276
+Bot 4,08ff64a7-b55a-4793-bcca-f526ea55be75,0.05,"(34, 38)","(14, 6)","(11, 3)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/08ff64a7-b55a-4793-bcca-f526ea55be75.png,4276
+Bot 1,37d7f44a-24c1-4400-b9c1-19d9e5985274,0.05,"(19, 10)","(37, 10)","(25, 2)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/37d7f44a-24c1-4400-b9c1-19d9e5985274.png,4318
+Bot 2,2cee0f42-fb21-4c79-b044-0d2e3ffab242,0.05,"(19, 10)","(37, 10)","(25, 2)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2cee0f42-fb21-4c79-b044-0d2e3ffab242.png,4318
+Bot 3,17d5f3bf-3139-4887-a751-22cd805082a2,0.05,"(19, 10)","(37, 10)","(25, 2)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/17d5f3bf-3139-4887-a751-22cd805082a2.png,4318
+Bot 4,174d20c7-54f7-4931-ac39-f28011d94069,0.05,"(19, 10)","(37, 10)","(25, 2)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/174d20c7-54f7-4931-ac39-f28011d94069.png,4318
+Bot 1,f5bbee41-676a-49cd-a0d4-0467ed6f5c72,0.05,"(19, 4)","(21, 2)","(1, 21)",4,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f5bbee41-676a-49cd-a0d4-0467ed6f5c72.png,7885
+Bot 2,673e7fbf-55af-4d93-93a1-408bd134b1d5,0.05,"(19, 4)","(21, 2)","(1, 21)",4,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/673e7fbf-55af-4d93-93a1-408bd134b1d5.png,7885
+Bot 3,256feb53-0825-4817-b216-bc83de584d56,0.05,"(19, 4)","(21, 2)","(1, 21)",4,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/256feb53-0825-4817-b216-bc83de584d56.png,7885
+Bot 4,e4689ce8-0436-480b-9c5e-609d29fa2508,0.05,"(19, 4)","(21, 2)","(1, 21)",4,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e4689ce8-0436-480b-9c5e-609d29fa2508.png,7885
+Bot 1,ded78310-7533-4a6f-b47e-4d081366747c,0.05,"(22, 29)","(14, 1)","(24, 16)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ded78310-7533-4a6f-b47e-4d081366747c.png,2643
+Bot 2,d7dc0899-95dc-443f-ba3b-ea26b2a6384d,0.05,"(22, 29)","(14, 1)","(24, 16)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d7dc0899-95dc-443f-ba3b-ea26b2a6384d.png,2643
+Bot 3,9eddac80-2af1-4875-b1a4-c58274d99cc6,0.05,"(22, 29)","(14, 1)","(24, 16)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9eddac80-2af1-4875-b1a4-c58274d99cc6.png,2643
+Bot 4,dcaea6e8-b706-43a7-8fee-bf7a19e391f0,0.05,"(22, 29)","(14, 1)","(24, 16)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dcaea6e8-b706-43a7-8fee-bf7a19e391f0.png,2643
+Bot 1,301e050d-1619-45b8-8a4a-36f8ed1ab8db,0.05,"(16, 11)","(31, 33)","(5, 23)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/301e050d-1619-45b8-8a4a-36f8ed1ab8db.png,2199
+Bot 2,199938de-2d48-4da0-9bfd-c9c14157efa2,0.05,"(16, 11)","(31, 33)","(5, 23)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/199938de-2d48-4da0-9bfd-c9c14157efa2.png,2199
+Bot 3,423cb536-168f-4eae-a03d-1307c9b7935c,0.05,"(16, 11)","(31, 33)","(5, 23)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/423cb536-168f-4eae-a03d-1307c9b7935c.png,2199
+Bot 4,83f6ceda-e37e-48b1-bc91-6804c64556dc,0.05,"(16, 11)","(31, 33)","(5, 23)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/83f6ceda-e37e-48b1-bc91-6804c64556dc.png,2199
+Bot 1,93a79a99-dd29-41b7-b603-7c3692b18a8d,0.05,"(27, 14)","(33, 36)","(33, 17)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/93a79a99-dd29-41b7-b603-7c3692b18a8d.png,733
+Bot 2,faa4c3bf-b43c-451c-be7f-fffc11fe9261,0.05,"(27, 14)","(33, 36)","(33, 17)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/faa4c3bf-b43c-451c-be7f-fffc11fe9261.png,733
+Bot 3,79a016e0-439f-47b6-a064-453564dd967a,0.05,"(27, 14)","(33, 36)","(33, 17)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/79a016e0-439f-47b6-a064-453564dd967a.png,733
+Bot 4,d64cf512-2f07-4ac6-8dd0-41205be44f89,0.05,"(27, 14)","(33, 36)","(33, 17)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d64cf512-2f07-4ac6-8dd0-41205be44f89.png,733
+Bot 1,5c9f70dd-9a61-4c19-b656-d979172f7a02,0.05,"(16, 23)","(22, 14)","(15, 25)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5c9f70dd-9a61-4c19-b656-d979172f7a02.png,3435
+Bot 2,faf480bf-0fc6-4b72-8584-05d7da2d6dcf,0.05,"(16, 23)","(22, 14)","(15, 25)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/faf480bf-0fc6-4b72-8584-05d7da2d6dcf.png,3435
+Bot 3,1774ef09-2a22-4c84-a7f3-d38dedfa8de9,0.05,"(16, 23)","(22, 14)","(15, 25)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1774ef09-2a22-4c84-a7f3-d38dedfa8de9.png,3435
+Bot 4,41c17a1e-890f-4e52-8126-499accbcd4e4,0.05,"(16, 23)","(22, 14)","(15, 25)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/41c17a1e-890f-4e52-8126-499accbcd4e4.png,3435
+Bot 1,c496e5d5-2f1a-442f-8d1a-f3e37d08da44,0.1,"(7, 32)","(5, 16)","(7, 32)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c496e5d5-2f1a-442f-8d1a-f3e37d08da44.png,1857
+Bot 3,49bfb157-7dd8-4088-ad72-2332010bdead,0.1,"(7, 32)","(5, 16)","(7, 32)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/49bfb157-7dd8-4088-ad72-2332010bdead.png,1857
+Bot 4,6549bdd3-3ca6-424f-bd6b-28010dbb6609,0.1,"(7, 32)","(5, 16)","(7, 32)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6549bdd3-3ca6-424f-bd6b-28010dbb6609.png,1857
+Bot 1,d9e0ab44-4627-45da-9904-926bbca74d6b,0.1,"(22, 6)","(24, 10)","(35, 26)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d9e0ab44-4627-45da-9904-926bbca74d6b.png,340
+Bot 2,9adc87c1-e84a-4344-9558-1520780a0842,0.1,"(22, 6)","(24, 10)","(35, 26)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9adc87c1-e84a-4344-9558-1520780a0842.png,340
+Bot 3,ece83cf4-9b3f-4e92-b48e-8bc6618733d0,0.1,"(22, 6)","(24, 10)","(35, 26)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ece83cf4-9b3f-4e92-b48e-8bc6618733d0.png,340
+Bot 4,79afbced-6154-4233-9e10-341b14f27580,0.1,"(22, 6)","(24, 10)","(35, 26)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/79afbced-6154-4233-9e10-341b14f27580.png,340
+Bot 1,c2ffc47b-349f-40e2-a7f1-4d313201b7ef,0.1,"(14, 3)","(34, 5)","(4, 35)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c2ffc47b-349f-40e2-a7f1-4d313201b7ef.png,5427
+Bot 2,0ac4ff93-927c-4136-af39-cb0463c3e6cd,0.1,"(14, 3)","(34, 5)","(4, 35)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0ac4ff93-927c-4136-af39-cb0463c3e6cd.png,5427
+Bot 3,27b1caa1-ce3d-46ca-a02f-91ce89d9354c,0.1,"(14, 3)","(34, 5)","(4, 35)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/27b1caa1-ce3d-46ca-a02f-91ce89d9354c.png,5427
+Bot 4,62fc4f36-12cb-4afe-b16f-11e20e2e0ea1,0.1,"(14, 3)","(34, 5)","(4, 35)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/62fc4f36-12cb-4afe-b16f-11e20e2e0ea1.png,5427
+Bot 1,0cb9583d-b3ec-48f6-8d9e-2fe623be822c,0.1,"(29, 32)","(12, 22)","(22, 9)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0cb9583d-b3ec-48f6-8d9e-2fe623be822c.png,4681
+Bot 2,8187f198-0c07-466b-b02b-0ff8a829f80f,0.1,"(29, 32)","(12, 22)","(22, 9)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8187f198-0c07-466b-b02b-0ff8a829f80f.png,4681
+Bot 3,8ac47f77-86f6-4cb1-b4a2-a060cde8de9a,0.1,"(29, 32)","(12, 22)","(22, 9)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8ac47f77-86f6-4cb1-b4a2-a060cde8de9a.png,4681
+Bot 4,379640c5-b3b3-4e5e-9d6b-f14d784d71be,0.1,"(29, 32)","(12, 22)","(22, 9)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/379640c5-b3b3-4e5e-9d6b-f14d784d71be.png,4681
+Bot 1,252cb855-9d86-4db0-9a48-00660f443f76,0.1,"(3, 18)","(18, 9)","(16, 34)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/252cb855-9d86-4db0-9a48-00660f443f76.png,1147
+Bot 2,330580db-5c83-46d9-97ba-eb5f033c9c9e,0.1,"(3, 18)","(18, 9)","(16, 34)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/330580db-5c83-46d9-97ba-eb5f033c9c9e.png,1147
+Bot 3,26f467cf-a932-49ee-979c-3f7b58175a9e,0.1,"(3, 18)","(18, 9)","(16, 34)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/26f467cf-a932-49ee-979c-3f7b58175a9e.png,1147
+Bot 4,2be4941b-5234-4814-8264-79927b8a6443,0.1,"(3, 18)","(18, 9)","(16, 34)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2be4941b-5234-4814-8264-79927b8a6443.png,1147
+Bot 1,545a8d40-09e9-456c-9a61-54c35942e60e,0.1,"(35, 27)","(11, 10)","(29, 20)",11,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/545a8d40-09e9-456c-9a61-54c35942e60e.png,8619
+Bot 2,ff424f36-f36f-48c7-a62e-85747d6ac9f7,0.1,"(35, 27)","(11, 10)","(29, 20)",41,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ff424f36-f36f-48c7-a62e-85747d6ac9f7.png,8619
+Bot 3,64a7d090-ae45-422d-b359-1257aa66c135,0.1,"(35, 27)","(11, 10)","(29, 20)",43,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/64a7d090-ae45-422d-b359-1257aa66c135.png,8619
+Bot 4,a1d163a3-d760-4ffc-84b0-78406e2cf27f,0.1,"(35, 27)","(11, 10)","(29, 20)",41,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a1d163a3-d760-4ffc-84b0-78406e2cf27f.png,8619
+Bot 1,490c688d-7a36-404d-85b4-56ab6f6c5bc6,0.1,"(16, 6)","(14, 19)","(16, 11)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/490c688d-7a36-404d-85b4-56ab6f6c5bc6.png,1640
+Bot 2,f6045934-8c08-4d56-846a-7635f0c39905,0.1,"(16, 6)","(14, 19)","(16, 11)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f6045934-8c08-4d56-846a-7635f0c39905.png,1640
+Bot 3,d1901fcd-f6f0-42cd-a58f-33c37cf88d22,0.1,"(16, 6)","(14, 19)","(16, 11)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d1901fcd-f6f0-42cd-a58f-33c37cf88d22.png,1640
+Bot 4,8c8430c7-8ad4-4d5e-8ff6-1d36240627b7,0.1,"(16, 6)","(14, 19)","(16, 11)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8c8430c7-8ad4-4d5e-8ff6-1d36240627b7.png,1640
+Bot 1,747e4182-20c8-4815-a362-a0fe361eb7fe,0.1,"(38, 32)","(34, 14)","(26, 16)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/747e4182-20c8-4815-a362-a0fe361eb7fe.png,89
+Bot 2,c1205ef3-c810-4fe2-a997-f869fc7ef2dc,0.1,"(38, 32)","(34, 14)","(26, 16)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c1205ef3-c810-4fe2-a997-f869fc7ef2dc.png,89
+Bot 3,c0ba2a14-cb82-4958-ac2b-15cab6fd93f8,0.1,"(38, 32)","(34, 14)","(26, 16)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c0ba2a14-cb82-4958-ac2b-15cab6fd93f8.png,89
+Bot 4,2f73a82b-4a9b-4562-b678-13cbb3651584,0.1,"(38, 32)","(34, 14)","(26, 16)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2f73a82b-4a9b-4562-b678-13cbb3651584.png,89
+Bot 1,234c1107-f653-4a32-a7b6-2036c1f51634,0.1,"(18, 38)","(32, 2)","(7, 37)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/234c1107-f653-4a32-a7b6-2036c1f51634.png,6290
+Bot 2,ff4073f2-5a80-4528-a622-64fc00ba6c8d,0.1,"(18, 38)","(32, 2)","(7, 37)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ff4073f2-5a80-4528-a622-64fc00ba6c8d.png,6290
+Bot 3,26c4d1f3-4406-484e-bb89-6b7a1b290398,0.1,"(18, 38)","(32, 2)","(7, 37)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/26c4d1f3-4406-484e-bb89-6b7a1b290398.png,6290
+Bot 4,3cbabcae-3209-47a9-9832-05704e781367,0.1,"(18, 38)","(32, 2)","(7, 37)",52,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3cbabcae-3209-47a9-9832-05704e781367.png,6290
+Bot 1,97a1d3b5-ca9f-440c-8a81-9aed311317f3,0.1,"(38, 19)","(13, 10)","(32, 18)",11,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/97a1d3b5-ca9f-440c-8a81-9aed311317f3.png,9422
+Bot 2,48d5c6bc-6580-451d-984f-352f58261dc4,0.1,"(38, 19)","(13, 10)","(32, 18)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/48d5c6bc-6580-451d-984f-352f58261dc4.png,9422
+Bot 3,7ff1fdc8-7d2f-4125-9861-91ccdb354a35,0.1,"(38, 19)","(13, 10)","(32, 18)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7ff1fdc8-7d2f-4125-9861-91ccdb354a35.png,9422
+Bot 4,102faa00-c0af-46f6-b16b-5da7cbf7241c,0.1,"(38, 19)","(13, 10)","(32, 18)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/102faa00-c0af-46f6-b16b-5da7cbf7241c.png,9422
+Bot 1,154f713a-0e37-47ed-a07c-c85c865ea6df,0.15000000000000002,"(14, 4)","(2, 2)","(9, 19)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/154f713a-0e37-47ed-a07c-c85c865ea6df.png,6933
+Bot 2,ca49071f-9908-4f65-aae9-b30a810eeba4,0.15000000000000002,"(14, 4)","(2, 2)","(9, 19)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ca49071f-9908-4f65-aae9-b30a810eeba4.png,6933
+Bot 3,f198aafa-6f73-4e53-9b19-a6e54caced1f,0.15000000000000002,"(14, 4)","(2, 2)","(9, 19)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f198aafa-6f73-4e53-9b19-a6e54caced1f.png,6933
+Bot 4,7101ce34-7baf-4bce-a405-544509555185,0.15000000000000002,"(14, 4)","(2, 2)","(9, 19)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7101ce34-7baf-4bce-a405-544509555185.png,6933
+Bot 1,68315f6e-ab19-449c-a681-d0c16d7f7460,0.15000000000000002,"(24, 37)","(28, 3)","(5, 36)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/68315f6e-ab19-449c-a681-d0c16d7f7460.png,9721
+Bot 2,27d28560-c98d-4175-9bf5-966a83ee139d,0.15000000000000002,"(24, 37)","(28, 3)","(5, 36)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/27d28560-c98d-4175-9bf5-966a83ee139d.png,9721
+Bot 3,82abff58-f4bb-4e64-9507-85a4627aa023,0.15000000000000002,"(24, 37)","(28, 3)","(5, 36)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/82abff58-f4bb-4e64-9507-85a4627aa023.png,9721
+Bot 4,f3a42d9d-3c73-4f71-a521-06648771ae0c,0.15000000000000002,"(24, 37)","(28, 3)","(5, 36)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f3a42d9d-3c73-4f71-a521-06648771ae0c.png,9721
+Bot 1,6de0104c-0697-41a2-b3d3-79afdcb7663c,0.15000000000000002,"(23, 10)","(35, 26)","(23, 34)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6de0104c-0697-41a2-b3d3-79afdcb7663c.png,9034
+Bot 2,2542a8b8-ee51-4f82-b831-0176d73dd135,0.15000000000000002,"(23, 10)","(35, 26)","(23, 34)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2542a8b8-ee51-4f82-b831-0176d73dd135.png,9034
+Bot 3,1647461c-5cee-490b-aa83-1ecd37ffc9f2,0.15000000000000002,"(23, 10)","(35, 26)","(23, 34)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1647461c-5cee-490b-aa83-1ecd37ffc9f2.png,9034
+Bot 4,54145388-81b2-40ff-aa3a-d1af78ba07a3,0.15000000000000002,"(23, 10)","(35, 26)","(23, 34)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/54145388-81b2-40ff-aa3a-d1af78ba07a3.png,9034
+Bot 1,24ec5942-ac34-4e50-9579-becadae64791,0.15000000000000002,"(15, 10)","(10, 14)","(2, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/24ec5942-ac34-4e50-9579-becadae64791.png,7791
+Bot 2,de86600c-3546-44d2-90a1-3c751121962e,0.15000000000000002,"(15, 10)","(10, 14)","(2, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/de86600c-3546-44d2-90a1-3c751121962e.png,7791
+Bot 3,0659a65f-0fd5-4728-a9ff-d032472e1e9a,0.15000000000000002,"(15, 10)","(10, 14)","(2, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0659a65f-0fd5-4728-a9ff-d032472e1e9a.png,7791
+Bot 4,0b37749b-e7bc-4daf-9e7c-0bfc8cbf55b9,0.15000000000000002,"(15, 10)","(10, 14)","(2, 38)",11,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0b37749b-e7bc-4daf-9e7c-0bfc8cbf55b9.png,7791
+Bot 1,4bcc7dd2-940b-4974-afde-6a7675717d4d,0.15000000000000002,"(37, 37)","(4, 21)","(21, 27)",22,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4bcc7dd2-940b-4974-afde-6a7675717d4d.png,5680
+Bot 2,fee68659-e364-46af-bd39-7817028d9b9a,0.15000000000000002,"(37, 37)","(4, 21)","(21, 27)",55,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fee68659-e364-46af-bd39-7817028d9b9a.png,5680
+Bot 3,5b7302c6-244a-4191-98ad-941c02607c0b,0.15000000000000002,"(37, 37)","(4, 21)","(21, 27)",61,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5b7302c6-244a-4191-98ad-941c02607c0b.png,5680
+Bot 4,4b6945a4-f4ee-49de-99ef-593374676433,0.15000000000000002,"(37, 37)","(4, 21)","(21, 27)",55,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4b6945a4-f4ee-49de-99ef-593374676433.png,5680
+Bot 1,18428ab1-98a1-4da7-ac2c-71509f1fd485,0.15000000000000002,"(25, 2)","(1, 16)","(11, 22)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/18428ab1-98a1-4da7-ac2c-71509f1fd485.png,4929
+Bot 2,894512b2-5568-47bf-86dc-891793e0c489,0.15000000000000002,"(25, 2)","(1, 16)","(11, 22)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/894512b2-5568-47bf-86dc-891793e0c489.png,4929
+Bot 3,c6f20f19-0cc1-4044-bf78-ba2bf7ca65ff,0.15000000000000002,"(25, 2)","(1, 16)","(11, 22)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c6f20f19-0cc1-4044-bf78-ba2bf7ca65ff.png,4929
+Bot 4,0d5858f0-a865-48aa-a1ab-96b60c315a03,0.15000000000000002,"(25, 2)","(1, 16)","(11, 22)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0d5858f0-a865-48aa-a1ab-96b60c315a03.png,4929
+Bot 4,8fcf8db1-2bea-44f4-b68e-81d0097c2440,0.15000000000000002,"(23, 18)","(23, 18)","(24, 35)",0,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8fcf8db1-2bea-44f4-b68e-81d0097c2440.png,219
+Bot 1,3087026b-df32-4aa6-a377-55c2bbeef85a,0.15000000000000002,"(22, 24)","(29, 21)","(35, 26)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3087026b-df32-4aa6-a377-55c2bbeef85a.png,6176
+Bot 2,8f24adb2-da4b-46cd-bb39-dd526299a1d2,0.15000000000000002,"(22, 24)","(29, 21)","(35, 26)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8f24adb2-da4b-46cd-bb39-dd526299a1d2.png,6176
+Bot 3,6c5bb0ad-fd0a-4553-8d91-7df209c41448,0.15000000000000002,"(22, 24)","(29, 21)","(35, 26)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6c5bb0ad-fd0a-4553-8d91-7df209c41448.png,6176
+Bot 4,7e61553c-469a-429a-82a0-a81ab10bc02f,0.15000000000000002,"(22, 24)","(29, 21)","(35, 26)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7e61553c-469a-429a-82a0-a81ab10bc02f.png,6176
+Bot 1,3335adbf-9a75-4946-8e20-f000aaf0553f,0.15000000000000002,"(2, 4)","(34, 31)","(37, 18)",61,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3335adbf-9a75-4946-8e20-f000aaf0553f.png,9625
+Bot 2,7b06fa92-057e-4152-8507-de3b235475da,0.15000000000000002,"(2, 4)","(34, 31)","(37, 18)",61,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7b06fa92-057e-4152-8507-de3b235475da.png,9625
+Bot 3,fb8b8833-f127-4f94-819d-e17f88d28314,0.15000000000000002,"(2, 4)","(34, 31)","(37, 18)",61,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fb8b8833-f127-4f94-819d-e17f88d28314.png,9625
+Bot 4,5a618dc4-0a36-44c4-abf3-82f62f0ee47a,0.15000000000000002,"(2, 4)","(34, 31)","(37, 18)",61,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5a618dc4-0a36-44c4-abf3-82f62f0ee47a.png,9625
+Bot 1,1b45ffe9-edeb-48a3-a95d-b5a05ee3a66c,0.15000000000000002,"(16, 12)","(38, 9)","(31, 31)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1b45ffe9-edeb-48a3-a95d-b5a05ee3a66c.png,658
+Bot 2,7652e0a1-f549-4665-be00-7f15402688f2,0.15000000000000002,"(16, 12)","(38, 9)","(31, 31)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7652e0a1-f549-4665-be00-7f15402688f2.png,658
+Bot 3,b26b3585-d66e-45e6-b4c3-ade7908c0c36,0.15000000000000002,"(16, 12)","(38, 9)","(31, 31)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b26b3585-d66e-45e6-b4c3-ade7908c0c36.png,658
+Bot 4,dcb4a57c-dee7-4502-87c4-050df2cc9344,0.15000000000000002,"(16, 12)","(38, 9)","(31, 31)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dcb4a57c-dee7-4502-87c4-050df2cc9344.png,658
+Bot 1,870a57ff-e931-4017-a008-375c5bdc3693,0.2,"(37, 38)","(20, 9)","(14, 27)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/870a57ff-e931-4017-a008-375c5bdc3693.png,2685
+Bot 2,11f1bd92-d1bd-4a99-9245-49f5474733b3,0.2,"(37, 38)","(20, 9)","(14, 27)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/11f1bd92-d1bd-4a99-9245-49f5474733b3.png,2685
+Bot 3,14456e5e-f5c0-4fdb-966c-fb98673e96a9,0.2,"(37, 38)","(20, 9)","(14, 27)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/14456e5e-f5c0-4fdb-966c-fb98673e96a9.png,2685
+Bot 4,fb3167f0-3c2d-4b37-9502-ebc83121eb84,0.2,"(37, 38)","(20, 9)","(14, 27)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fb3167f0-3c2d-4b37-9502-ebc83121eb84.png,2685
+Bot 1,8d9e8ba4-4625-4c18-848e-b25378412d4b,0.2,"(1, 12)","(24, 10)","(21, 33)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8d9e8ba4-4625-4c18-848e-b25378412d4b.png,8989
+Bot 2,32b4a3ba-6ad7-4b98-b25e-08f06addd166,0.2,"(1, 12)","(24, 10)","(21, 33)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/32b4a3ba-6ad7-4b98-b25e-08f06addd166.png,8989
+Bot 3,6b8a9a33-d55a-410f-b87e-5fb89302e383,0.2,"(1, 12)","(24, 10)","(21, 33)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6b8a9a33-d55a-410f-b87e-5fb89302e383.png,8989
+Bot 4,0242c53a-b43c-4e31-b26a-2dd0f43493fc,0.2,"(1, 12)","(24, 10)","(21, 33)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0242c53a-b43c-4e31-b26a-2dd0f43493fc.png,8989
+Bot 1,b880bf36-4b03-4368-8970-69a459a0e22c,0.2,"(19, 24)","(32, 24)","(2, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b880bf36-4b03-4368-8970-69a459a0e22c.png,1330
+Bot 2,26602be9-30db-4815-94b0-096de820c4fe,0.2,"(19, 24)","(32, 24)","(2, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/26602be9-30db-4815-94b0-096de820c4fe.png,1330
+Bot 3,02540027-dd8b-45ea-991d-3cd167939f78,0.2,"(19, 24)","(32, 24)","(2, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/02540027-dd8b-45ea-991d-3cd167939f78.png,1330
+Bot 4,6a3b6747-f197-4eb9-a1bb-b7e6c2457224,0.2,"(19, 24)","(32, 24)","(2, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6a3b6747-f197-4eb9-a1bb-b7e6c2457224.png,1330
+Bot 1,ba4b9902-568c-45c6-9766-90a6ebaf4c3e,0.2,"(15, 27)","(12, 6)","(28, 22)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ba4b9902-568c-45c6-9766-90a6ebaf4c3e.png,2941
+Bot 2,24447a52-0854-44fd-b169-801cda3ac5cf,0.2,"(15, 27)","(12, 6)","(28, 22)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/24447a52-0854-44fd-b169-801cda3ac5cf.png,2941
+Bot 3,3e51161c-b4ec-4f7a-bcc5-0bde472431d3,0.2,"(15, 27)","(12, 6)","(28, 22)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3e51161c-b4ec-4f7a-bcc5-0bde472431d3.png,2941
+Bot 4,d5a67f34-5274-43af-a1ef-1b4dd30f6ab8,0.2,"(15, 27)","(12, 6)","(28, 22)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d5a67f34-5274-43af-a1ef-1b4dd30f6ab8.png,2941
+Bot 1,87bf18b8-48e9-40ff-b813-263474e058d9,0.2,"(34, 21)","(30, 29)","(6, 4)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/87bf18b8-48e9-40ff-b813-263474e058d9.png,403
+Bot 2,7b73f484-e350-4153-ba83-2be1a8e5a5c9,0.2,"(34, 21)","(30, 29)","(6, 4)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7b73f484-e350-4153-ba83-2be1a8e5a5c9.png,403
+Bot 3,9ecf50d6-2467-41e6-a2bd-08953f846a1f,0.2,"(34, 21)","(30, 29)","(6, 4)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9ecf50d6-2467-41e6-a2bd-08953f846a1f.png,403
+Bot 4,dc807243-d073-433a-835e-21b4a8ea7018,0.2,"(34, 21)","(30, 29)","(6, 4)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dc807243-d073-433a-835e-21b4a8ea7018.png,403
+Bot 1,94f082d4-43d6-4951-a936-2d1530717b4e,0.2,"(20, 8)","(15, 3)","(18, 3)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/94f082d4-43d6-4951-a936-2d1530717b4e.png,3423
+Bot 2,c893a57f-ade0-4467-b472-397ae3d828a4,0.2,"(20, 8)","(15, 3)","(18, 3)",11,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c893a57f-ade0-4467-b472-397ae3d828a4.png,3423
+Bot 3,8d016fc8-4c91-46cf-a328-776a6b9d2872,0.2,"(20, 8)","(15, 3)","(18, 3)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8d016fc8-4c91-46cf-a328-776a6b9d2872.png,3423
+Bot 4,50480fee-cb92-465f-9288-2d58e29dfe8a,0.2,"(20, 8)","(15, 3)","(18, 3)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/50480fee-cb92-465f-9288-2d58e29dfe8a.png,3423
+Bot 1,0af20095-cb92-48bc-b2e3-bde12afd4174,0.2,"(3, 28)","(14, 34)","(18, 9)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0af20095-cb92-48bc-b2e3-bde12afd4174.png,2783
+Bot 2,588b9bb5-e633-4d98-aa6b-ccbd386c35e2,0.2,"(3, 28)","(14, 34)","(18, 9)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/588b9bb5-e633-4d98-aa6b-ccbd386c35e2.png,2783
+Bot 3,4f3187a9-8765-4f7c-a660-cf099eca3fff,0.2,"(3, 28)","(14, 34)","(18, 9)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4f3187a9-8765-4f7c-a660-cf099eca3fff.png,2783
+Bot 4,b64d9549-e4ab-4af7-8361-aedb8e3fffb5,0.2,"(3, 28)","(14, 34)","(18, 9)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b64d9549-e4ab-4af7-8361-aedb8e3fffb5.png,2783
+Bot 1,724ea9e2-e408-477b-bf3b-461fb6b0b701,0.2,"(18, 2)","(1, 13)","(6, 38)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/724ea9e2-e408-477b-bf3b-461fb6b0b701.png,3817
+Bot 2,52c83eb7-808d-45cc-82d5-e83b2918b15d,0.2,"(18, 2)","(1, 13)","(6, 38)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/52c83eb7-808d-45cc-82d5-e83b2918b15d.png,3817
+Bot 3,be439d94-8675-4e04-9467-fa77b5cf8ec3,0.2,"(18, 2)","(1, 13)","(6, 38)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/be439d94-8675-4e04-9467-fa77b5cf8ec3.png,3817
+Bot 4,3be4c254-cb5e-44cc-a85f-c09f3d8033eb,0.2,"(18, 2)","(1, 13)","(6, 38)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3be4c254-cb5e-44cc-a85f-c09f3d8033eb.png,3817
+Bot 1,0f7fd1b3-fdb8-4b5b-a4de-78b3a86b4883,0.2,"(25, 12)","(6, 37)","(22, 37)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0f7fd1b3-fdb8-4b5b-a4de-78b3a86b4883.png,1078
+Bot 2,72a9725a-d0c2-4c3f-b4a8-73301b4432d4,0.2,"(25, 12)","(6, 37)","(22, 37)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/72a9725a-d0c2-4c3f-b4a8-73301b4432d4.png,1078
+Bot 3,858840ae-f91b-4a1a-8600-1365aa3c9344,0.2,"(25, 12)","(6, 37)","(22, 37)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/858840ae-f91b-4a1a-8600-1365aa3c9344.png,1078
+Bot 4,46a8aaef-bb74-4b58-b587-871448a17189,0.2,"(25, 12)","(6, 37)","(22, 37)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/46a8aaef-bb74-4b58-b587-871448a17189.png,1078
+Bot 1,a095f4e7-8714-48a3-9ed8-15341dc7487c,0.2,"(8, 2)","(8, 20)","(15, 10)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a095f4e7-8714-48a3-9ed8-15341dc7487c.png,6555
+Bot 2,58d0cb95-1b5f-462a-bc20-96ed95954a6f,0.2,"(8, 2)","(8, 20)","(15, 10)",10,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/58d0cb95-1b5f-462a-bc20-96ed95954a6f.png,6555
+Bot 3,63434c66-ba3f-4d88-b751-94102a44d12f,0.2,"(8, 2)","(8, 20)","(15, 10)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/63434c66-ba3f-4d88-b751-94102a44d12f.png,6555
+Bot 4,47234233-0f1e-447c-b3dd-fdd268e54c1e,0.2,"(8, 2)","(8, 20)","(15, 10)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/47234233-0f1e-447c-b3dd-fdd268e54c1e.png,6555
+Bot 1,d452ee18-dfd6-4043-b00e-81467aa1164d,0.25,"(35, 18)","(37, 9)","(32, 36)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d452ee18-dfd6-4043-b00e-81467aa1164d.png,1042
+Bot 2,0fd99698-5fee-4bb0-a680-ebd5fb5a550a,0.25,"(35, 18)","(37, 9)","(32, 36)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0fd99698-5fee-4bb0-a680-ebd5fb5a550a.png,1042
+Bot 3,89406da3-5072-4211-9a18-7e156517a14c,0.25,"(35, 18)","(37, 9)","(32, 36)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/89406da3-5072-4211-9a18-7e156517a14c.png,1042
+Bot 4,1f792264-6620-488b-8bf1-0b0c264f50dd,0.25,"(35, 18)","(37, 9)","(32, 36)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1f792264-6620-488b-8bf1-0b0c264f50dd.png,1042
+Bot 1,0e4530d7-09e1-4e2b-8341-b48846514994,0.25,"(31, 10)","(13, 20)","(23, 3)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0e4530d7-09e1-4e2b-8341-b48846514994.png,7210
+Bot 2,14b07132-1904-404c-82c9-2874a77185f4,0.25,"(31, 10)","(13, 20)","(23, 3)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/14b07132-1904-404c-82c9-2874a77185f4.png,7210
+Bot 3,46a5c43b-0424-4e07-b63e-ce550a5e9c97,0.25,"(31, 10)","(13, 20)","(23, 3)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/46a5c43b-0424-4e07-b63e-ce550a5e9c97.png,7210
+Bot 4,e19d6e29-a0b7-447c-81d3-0c5eca220713,0.25,"(31, 10)","(13, 20)","(23, 3)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e19d6e29-a0b7-447c-81d3-0c5eca220713.png,7210
+Bot 1,8477845d-75cd-4f95-820a-7c1fefdb3385,0.25,"(21, 23)","(11, 14)","(37, 38)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8477845d-75cd-4f95-820a-7c1fefdb3385.png,2472
+Bot 2,82bfd6ad-99a2-4af8-a02e-f3f891de6c40,0.25,"(21, 23)","(11, 14)","(37, 38)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/82bfd6ad-99a2-4af8-a02e-f3f891de6c40.png,2472
+Bot 3,f4f53684-fa1b-467f-b20b-a85c83107e50,0.25,"(21, 23)","(11, 14)","(37, 38)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f4f53684-fa1b-467f-b20b-a85c83107e50.png,2472
+Bot 4,ec9f6cca-a7bd-455b-a9ab-5161a1272d4c,0.25,"(21, 23)","(11, 14)","(37, 38)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ec9f6cca-a7bd-455b-a9ab-5161a1272d4c.png,2472
+Bot 1,cdd965a5-04e5-467a-9fca-6c7eef67573a,0.25,"(1, 28)","(2, 32)","(27, 30)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cdd965a5-04e5-467a-9fca-6c7eef67573a.png,7374
+Bot 2,2a57b5fb-49c8-480d-9529-a527ec18603c,0.25,"(1, 28)","(2, 32)","(27, 30)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2a57b5fb-49c8-480d-9529-a527ec18603c.png,7374
+Bot 3,399a8dbb-eee7-4e56-929d-184a0f11dfbd,0.25,"(1, 28)","(2, 32)","(27, 30)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/399a8dbb-eee7-4e56-929d-184a0f11dfbd.png,7374
+Bot 4,4f3f0ebc-05a6-4cb6-95b1-737590c1eaab,0.25,"(1, 28)","(2, 32)","(27, 30)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4f3f0ebc-05a6-4cb6-95b1-737590c1eaab.png,7374
+Bot 1,e60344a1-601a-45f3-bf7d-a8cde8e73047,0.25,"(38, 15)","(34, 17)","(17, 15)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e60344a1-601a-45f3-bf7d-a8cde8e73047.png,8686
+Bot 2,16b113ee-81ad-4783-8751-ae62f793c292,0.25,"(38, 15)","(34, 17)","(17, 15)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/16b113ee-81ad-4783-8751-ae62f793c292.png,8686
+Bot 3,9083189c-9368-4cef-b9f5-880199f95ad5,0.25,"(38, 15)","(34, 17)","(17, 15)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9083189c-9368-4cef-b9f5-880199f95ad5.png,8686
+Bot 4,d617a9fb-d198-4438-95cd-1cf348c78c30,0.25,"(38, 15)","(34, 17)","(17, 15)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d617a9fb-d198-4438-95cd-1cf348c78c30.png,8686
+Bot 1,e8dd25f8-467a-4ff8-87bb-ec06c12cda88,0.25,"(17, 36)","(2, 24)","(29, 31)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e8dd25f8-467a-4ff8-87bb-ec06c12cda88.png,9911
+Bot 2,a52bcf2f-24db-4ba6-b140-32799d869129,0.25,"(17, 36)","(2, 24)","(29, 31)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a52bcf2f-24db-4ba6-b140-32799d869129.png,9911
+Bot 3,f7f90512-fac4-4f14-a44e-12aded85535e,0.25,"(17, 36)","(2, 24)","(29, 31)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f7f90512-fac4-4f14-a44e-12aded85535e.png,9911
+Bot 4,64522f88-5ae5-4b31-80a9-35d5f65eb11c,0.25,"(17, 36)","(2, 24)","(29, 31)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/64522f88-5ae5-4b31-80a9-35d5f65eb11c.png,9911
+Bot 1,4c8296d3-d9b9-48d6-981d-478391306e1c,0.25,"(2, 16)","(4, 30)","(35, 13)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4c8296d3-d9b9-48d6-981d-478391306e1c.png,2744
+Bot 2,3b8bd4c2-b320-4f54-a465-a4fbb32116fc,0.25,"(2, 16)","(4, 30)","(35, 13)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3b8bd4c2-b320-4f54-a465-a4fbb32116fc.png,2744
+Bot 3,2840daa3-a653-43d1-92c1-523a8eb48778,0.25,"(2, 16)","(4, 30)","(35, 13)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2840daa3-a653-43d1-92c1-523a8eb48778.png,2744
+Bot 4,f6aa9119-33d9-4e58-a4e3-c08f52d50b17,0.25,"(2, 16)","(4, 30)","(35, 13)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f6aa9119-33d9-4e58-a4e3-c08f52d50b17.png,2744
+Bot 1,7e7b7ab5-a65c-4ad8-b0cf-e768e097ee98,0.25,"(37, 7)","(4, 11)","(7, 32)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7e7b7ab5-a65c-4ad8-b0cf-e768e097ee98.png,4902
+Bot 2,f4e7d7a0-2b86-4a53-9655-0bd6e6460d82,0.25,"(37, 7)","(4, 11)","(7, 32)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f4e7d7a0-2b86-4a53-9655-0bd6e6460d82.png,4902
+Bot 3,4ab21403-389d-4eb4-b44d-d6ed0777cdf6,0.25,"(37, 7)","(4, 11)","(7, 32)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4ab21403-389d-4eb4-b44d-d6ed0777cdf6.png,4902
+Bot 4,d1b1ac38-4faa-4ab2-a9ff-10d9c13720a3,0.25,"(37, 7)","(4, 11)","(7, 32)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d1b1ac38-4faa-4ab2-a9ff-10d9c13720a3.png,4902
+Bot 1,f91f67d5-5431-43ed-ac30-496de5271c4c,0.25,"(13, 30)","(1, 18)","(2, 5)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f91f67d5-5431-43ed-ac30-496de5271c4c.png,1291
+Bot 2,a4583f4b-1cbe-415a-8da8-23f097d75a6f,0.25,"(13, 30)","(1, 18)","(2, 5)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a4583f4b-1cbe-415a-8da8-23f097d75a6f.png,1291
+Bot 3,5957b813-887e-4b83-9ff3-d3e4cd5ac2d8,0.25,"(13, 30)","(1, 18)","(2, 5)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5957b813-887e-4b83-9ff3-d3e4cd5ac2d8.png,1291
+Bot 4,cff88e21-3c3b-49ce-bbf4-d8d7929110d5,0.25,"(13, 30)","(1, 18)","(2, 5)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cff88e21-3c3b-49ce-bbf4-d8d7929110d5.png,1291
+Bot 1,88afa217-21e4-47ea-84b1-b88b7a77813f,0.25,"(11, 15)","(6, 18)","(5, 32)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/88afa217-21e4-47ea-84b1-b88b7a77813f.png,2647
+Bot 2,0dc67ce6-1ba1-4ef1-b96d-0c91692e2ac9,0.25,"(11, 15)","(6, 18)","(5, 32)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0dc67ce6-1ba1-4ef1-b96d-0c91692e2ac9.png,2647
+Bot 3,17e3461f-0d2e-4ad7-a342-a946416b54e9,0.25,"(11, 15)","(6, 18)","(5, 32)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/17e3461f-0d2e-4ad7-a342-a946416b54e9.png,2647
+Bot 4,6ef36f94-95ce-48a8-93de-09f8d5ebd439,0.25,"(11, 15)","(6, 18)","(5, 32)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6ef36f94-95ce-48a8-93de-09f8d5ebd439.png,2647
+Bot 1,a8f4fbee-35b4-4f7d-bd4d-056a2ca6ed8b,0.30000000000000004,"(9, 5)","(7, 20)","(29, 15)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a8f4fbee-35b4-4f7d-bd4d-056a2ca6ed8b.png,1342
+Bot 2,37dc49d3-673d-49e7-b542-69f6f54e2b47,0.30000000000000004,"(9, 5)","(7, 20)","(29, 15)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/37dc49d3-673d-49e7-b542-69f6f54e2b47.png,1342
+Bot 3,4a09cc9f-c2c8-439e-ae91-7abe1d7d4883,0.30000000000000004,"(9, 5)","(7, 20)","(29, 15)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4a09cc9f-c2c8-439e-ae91-7abe1d7d4883.png,1342
+Bot 4,53a4da09-bae0-4e86-a30b-a7b123c988fc,0.30000000000000004,"(9, 5)","(7, 20)","(29, 15)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/53a4da09-bae0-4e86-a30b-a7b123c988fc.png,1342
+Bot 1,1e4be2aa-d55c-49de-a488-0ebe30a4ec32,0.30000000000000004,"(20, 7)","(5, 3)","(4, 11)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1e4be2aa-d55c-49de-a488-0ebe30a4ec32.png,2496
+Bot 2,1da7beaa-3401-40f4-910b-b59787c5bee3,0.30000000000000004,"(20, 7)","(5, 3)","(4, 11)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1da7beaa-3401-40f4-910b-b59787c5bee3.png,2496
+Bot 3,7082a0e3-bc52-4369-8597-4933d2f401f7,0.30000000000000004,"(20, 7)","(5, 3)","(4, 11)",22,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7082a0e3-bc52-4369-8597-4933d2f401f7.png,2496
+Bot 4,a0d7d071-d950-46d6-8759-300ee36e1591,0.30000000000000004,"(20, 7)","(5, 3)","(4, 11)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a0d7d071-d950-46d6-8759-300ee36e1591.png,2496
+Bot 1,9e0131be-45b3-4b1e-9fba-f3b4d69c7f9a,0.30000000000000004,"(3, 3)","(13, 6)","(18, 17)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9e0131be-45b3-4b1e-9fba-f3b4d69c7f9a.png,1023
+Bot 2,f99e65e5-1f5e-409e-be31-fb42a2655750,0.30000000000000004,"(3, 3)","(13, 6)","(18, 17)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f99e65e5-1f5e-409e-be31-fb42a2655750.png,1023
+Bot 3,2acf4cdf-feae-49fc-b020-b631f5e299c5,0.30000000000000004,"(3, 3)","(13, 6)","(18, 17)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2acf4cdf-feae-49fc-b020-b631f5e299c5.png,1023
+Bot 4,29b16da6-92e8-4261-9a16-9da7002646af,0.30000000000000004,"(3, 3)","(13, 6)","(18, 17)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/29b16da6-92e8-4261-9a16-9da7002646af.png,1023
+Bot 1,4f3e1815-84c5-4f5f-8934-2abcc8a91996,0.30000000000000004,"(1, 20)","(35, 5)","(14, 1)",51,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4f3e1815-84c5-4f5f-8934-2abcc8a91996.png,8154
+Bot 2,a37041e4-0050-4e52-abe2-f99f5ce66b22,0.30000000000000004,"(1, 20)","(35, 5)","(14, 1)",51,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a37041e4-0050-4e52-abe2-f99f5ce66b22.png,8154
+Bot 3,9a8026ba-a27c-42ab-891e-daf90d2d149d,0.30000000000000004,"(1, 20)","(35, 5)","(14, 1)",51,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9a8026ba-a27c-42ab-891e-daf90d2d149d.png,8154
+Bot 4,3c813d79-430c-4c44-8613-a326767d3359,0.30000000000000004,"(1, 20)","(35, 5)","(14, 1)",51,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3c813d79-430c-4c44-8613-a326767d3359.png,8154
+Bot 1,717565e6-7593-4646-8bce-423ba834751a,0.30000000000000004,"(35, 22)","(29, 9)","(38, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/717565e6-7593-4646-8bce-423ba834751a.png,5167
+Bot 2,e05e9c5b-e13a-48f9-9630-d944940593a2,0.30000000000000004,"(35, 22)","(29, 9)","(38, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e05e9c5b-e13a-48f9-9630-d944940593a2.png,5167
+Bot 3,bd88d400-f945-4348-9021-cfcf7c6d4ccb,0.30000000000000004,"(35, 22)","(29, 9)","(38, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bd88d400-f945-4348-9021-cfcf7c6d4ccb.png,5167
+Bot 4,7f799938-f789-4b6a-b16d-28c2d5af1c5a,0.30000000000000004,"(35, 22)","(29, 9)","(38, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7f799938-f789-4b6a-b16d-28c2d5af1c5a.png,5167
+Bot 1,bbe38d0b-6c3f-4743-9db3-7629f212f262,0.30000000000000004,"(17, 28)","(14, 37)","(36, 2)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bbe38d0b-6c3f-4743-9db3-7629f212f262.png,7344
+Bot 2,7cf04d81-14e0-4d89-8f14-e2e5a04c15b2,0.30000000000000004,"(17, 28)","(14, 37)","(36, 2)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7cf04d81-14e0-4d89-8f14-e2e5a04c15b2.png,7344
+Bot 3,f66a0b47-85b7-44fb-bbc4-ec5cf19681ef,0.30000000000000004,"(17, 28)","(14, 37)","(36, 2)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f66a0b47-85b7-44fb-bbc4-ec5cf19681ef.png,7344
+Bot 4,f1eb8086-8f03-4d96-b32f-2415f0239119,0.30000000000000004,"(17, 28)","(14, 37)","(36, 2)",14,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f1eb8086-8f03-4d96-b32f-2415f0239119.png,7344
+Bot 1,2e31a2a2-872e-4011-bbed-9444f0fbe0dd,0.30000000000000004,"(34, 2)","(23, 25)","(38, 11)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2e31a2a2-872e-4011-bbed-9444f0fbe0dd.png,9726
+Bot 2,f463042b-f3b3-4347-bf51-028fb56c686c,0.30000000000000004,"(34, 2)","(23, 25)","(38, 11)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f463042b-f3b3-4347-bf51-028fb56c686c.png,9726
+Bot 3,262f869b-27e2-4575-81ac-618bcfb857bc,0.30000000000000004,"(34, 2)","(23, 25)","(38, 11)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/262f869b-27e2-4575-81ac-618bcfb857bc.png,9726
+Bot 4,d626a1aa-6aac-4c94-ba64-cfc115db7697,0.30000000000000004,"(34, 2)","(23, 25)","(38, 11)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d626a1aa-6aac-4c94-ba64-cfc115db7697.png,9726
+Bot 1,fc3ec640-5a86-45b8-9184-59760d33916b,0.30000000000000004,"(30, 28)","(15, 12)","(5, 28)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fc3ec640-5a86-45b8-9184-59760d33916b.png,1266
+Bot 2,6f7291c5-a970-442e-bb66-20a4df081d43,0.30000000000000004,"(30, 28)","(15, 12)","(5, 28)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6f7291c5-a970-442e-bb66-20a4df081d43.png,1266
+Bot 3,2fa01a21-f956-4d26-acce-893bff21fd6c,0.30000000000000004,"(30, 28)","(15, 12)","(5, 28)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2fa01a21-f956-4d26-acce-893bff21fd6c.png,1266
+Bot 4,09d22af3-9893-42b1-9723-07dc396d1b2f,0.30000000000000004,"(30, 28)","(15, 12)","(5, 28)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/09d22af3-9893-42b1-9723-07dc396d1b2f.png,1266
+Bot 1,f7d1f240-800d-4032-945a-d09311d5f475,0.30000000000000004,"(36, 32)","(38, 37)","(38, 33)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f7d1f240-800d-4032-945a-d09311d5f475.png,9388
+Bot 2,cab5b59e-c1c7-49b6-be5a-61261c563af5,0.30000000000000004,"(36, 32)","(38, 37)","(38, 33)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cab5b59e-c1c7-49b6-be5a-61261c563af5.png,9388
+Bot 3,9753d7e1-9944-409e-8f09-8c1d70c41f5c,0.30000000000000004,"(36, 32)","(38, 37)","(38, 33)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9753d7e1-9944-409e-8f09-8c1d70c41f5c.png,9388
+Bot 4,76dc1e7a-af3b-44e7-98c6-c220d624ba84,0.30000000000000004,"(36, 32)","(38, 37)","(38, 33)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/76dc1e7a-af3b-44e7-98c6-c220d624ba84.png,9388
+Bot 1,468db7ec-ef53-4619-8d74-e74eae1a3f41,0.30000000000000004,"(27, 32)","(26, 27)","(17, 1)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/468db7ec-ef53-4619-8d74-e74eae1a3f41.png,9403
+Bot 2,34e4f548-a8e7-4b30-aeba-15f109f58629,0.30000000000000004,"(27, 32)","(26, 27)","(17, 1)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/34e4f548-a8e7-4b30-aeba-15f109f58629.png,9403
+Bot 3,4a080ae7-4490-4121-a7d7-4a024843f571,0.30000000000000004,"(27, 32)","(26, 27)","(17, 1)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4a080ae7-4490-4121-a7d7-4a024843f571.png,9403
+Bot 4,ee45fa60-54b4-4ad5-b849-a3e3b92e8762,0.30000000000000004,"(27, 32)","(26, 27)","(17, 1)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ee45fa60-54b4-4ad5-b849-a3e3b92e8762.png,9403
+Bot 1,76431f86-ee2b-4ece-a8e1-0b29c461fbb5,0.35000000000000003,"(4, 32)","(16, 8)","(15, 30)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/76431f86-ee2b-4ece-a8e1-0b29c461fbb5.png,4405
+Bot 2,dbfb2339-972b-4f2e-90c0-700f2a8ad386,0.35000000000000003,"(4, 32)","(16, 8)","(15, 30)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dbfb2339-972b-4f2e-90c0-700f2a8ad386.png,4405
+Bot 3,3bb0dd47-1a45-4c95-b744-8df78bb7a24b,0.35000000000000003,"(4, 32)","(16, 8)","(15, 30)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3bb0dd47-1a45-4c95-b744-8df78bb7a24b.png,4405
+Bot 4,c3a1a2ce-2640-4197-8905-503aa11b8d75,0.35000000000000003,"(4, 32)","(16, 8)","(15, 30)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c3a1a2ce-2640-4197-8905-503aa11b8d75.png,4405
+Bot 1,33967f0e-8986-46e8-bc3d-1bfa4d6788d6,0.35000000000000003,"(29, 12)","(24, 35)","(9, 13)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/33967f0e-8986-46e8-bc3d-1bfa4d6788d6.png,2861
+Bot 2,47e9aa37-ba48-4561-a6b3-cd10f8e5552a,0.35000000000000003,"(29, 12)","(24, 35)","(9, 13)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/47e9aa37-ba48-4561-a6b3-cd10f8e5552a.png,2861
+Bot 3,7b8e8f57-f9ca-4f88-a369-490aef661461,0.35000000000000003,"(29, 12)","(24, 35)","(9, 13)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7b8e8f57-f9ca-4f88-a369-490aef661461.png,2861
+Bot 4,c3f668fa-802d-4ecc-8d1c-13a1a040f465,0.35000000000000003,"(29, 12)","(24, 35)","(9, 13)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c3f668fa-802d-4ecc-8d1c-13a1a040f465.png,2861
+Bot 1,54e13476-d33a-4f13-a77d-ee6a98b80d57,0.35000000000000003,"(1, 25)","(28, 34)","(36, 27)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/54e13476-d33a-4f13-a77d-ee6a98b80d57.png,1128
+Bot 2,e711b040-94ba-4e67-b24f-c2916e1a4916,0.35000000000000003,"(1, 25)","(28, 34)","(36, 27)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e711b040-94ba-4e67-b24f-c2916e1a4916.png,1128
+Bot 3,f33bf5ae-de45-4b68-9ec0-ef2bcdd2318e,0.35000000000000003,"(1, 25)","(28, 34)","(36, 27)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f33bf5ae-de45-4b68-9ec0-ef2bcdd2318e.png,1128
+Bot 4,eb8ea69b-6185-41b0-843c-0d0e000cc375,0.35000000000000003,"(1, 25)","(28, 34)","(36, 27)",36,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/eb8ea69b-6185-41b0-843c-0d0e000cc375.png,1128
+Bot 1,db27bc4c-69cb-4718-8ffd-57af0d0d43a7,0.35000000000000003,"(23, 23)","(30, 37)","(12, 3)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/db27bc4c-69cb-4718-8ffd-57af0d0d43a7.png,189
+Bot 2,ffb82ee3-a439-40e3-a9b1-1541fa68199d,0.35000000000000003,"(23, 23)","(30, 37)","(12, 3)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ffb82ee3-a439-40e3-a9b1-1541fa68199d.png,189
+Bot 3,1154b3aa-9e1a-4722-a214-a8bb5a7fc79d,0.35000000000000003,"(23, 23)","(30, 37)","(12, 3)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1154b3aa-9e1a-4722-a214-a8bb5a7fc79d.png,189
+Bot 4,c4d59740-4d8a-450f-abfa-843d10e86e38,0.35000000000000003,"(23, 23)","(30, 37)","(12, 3)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c4d59740-4d8a-450f-abfa-843d10e86e38.png,189
+Bot 1,835dffab-7761-45ae-ab75-3fac308d87e3,0.35000000000000003,"(24, 25)","(32, 30)","(19, 1)",13,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/835dffab-7761-45ae-ab75-3fac308d87e3.png,9889
+Bot 2,f8f1223d-e480-4739-bb8a-1c5aa5de9293,0.35000000000000003,"(24, 25)","(32, 30)","(19, 1)",13,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f8f1223d-e480-4739-bb8a-1c5aa5de9293.png,9889
+Bot 3,12b4b93f-b386-4610-98d8-b386c88c772a,0.35000000000000003,"(24, 25)","(32, 30)","(19, 1)",13,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/12b4b93f-b386-4610-98d8-b386c88c772a.png,9889
+Bot 4,245b8e36-5733-488e-a919-fd12642483f0,0.35000000000000003,"(24, 25)","(32, 30)","(19, 1)",13,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/245b8e36-5733-488e-a919-fd12642483f0.png,9889
+Bot 1,8eff03b9-01e8-4a3b-a52b-bbc94813eca6,0.35000000000000003,"(8, 35)","(37, 21)","(13, 7)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8eff03b9-01e8-4a3b-a52b-bbc94813eca6.png,970
+Bot 2,8ba597c4-35a1-4f3d-9ed5-a6cebee1bc66,0.35000000000000003,"(8, 35)","(37, 21)","(13, 7)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8ba597c4-35a1-4f3d-9ed5-a6cebee1bc66.png,970
+Bot 3,0847cd01-4864-491b-8ee7-5a1fcfb8825d,0.35000000000000003,"(8, 35)","(37, 21)","(13, 7)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0847cd01-4864-491b-8ee7-5a1fcfb8825d.png,970
+Bot 4,caa3b0ac-c8b5-4092-a04c-f5e001dd4c81,0.35000000000000003,"(8, 35)","(37, 21)","(13, 7)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/caa3b0ac-c8b5-4092-a04c-f5e001dd4c81.png,970
+Bot 1,ae5a226d-b114-4e06-baac-cf05a4d976e0,0.35000000000000003,"(11, 27)","(1, 17)","(24, 2)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ae5a226d-b114-4e06-baac-cf05a4d976e0.png,2540
+Bot 2,91eedb94-d42e-40bb-89d3-a455493bab37,0.35000000000000003,"(11, 27)","(1, 17)","(24, 2)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/91eedb94-d42e-40bb-89d3-a455493bab37.png,2540
+Bot 3,3c9f11e8-fafc-4316-afb7-20c43922bab0,0.35000000000000003,"(11, 27)","(1, 17)","(24, 2)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3c9f11e8-fafc-4316-afb7-20c43922bab0.png,2540
+Bot 4,624835ce-28a2-4f7a-91eb-dec6c3c0ddfc,0.35000000000000003,"(11, 27)","(1, 17)","(24, 2)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/624835ce-28a2-4f7a-91eb-dec6c3c0ddfc.png,2540
+Bot 1,8a4ce2e5-1971-4807-8cda-208c2862fefa,0.35000000000000003,"(8, 37)","(5, 1)","(8, 11)",24,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8a4ce2e5-1971-4807-8cda-208c2862fefa.png,2012
+Bot 2,f1991a7b-ec9b-47ef-b1b8-be908bbef156,0.35000000000000003,"(8, 37)","(5, 1)","(8, 11)",19,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f1991a7b-ec9b-47ef-b1b8-be908bbef156.png,2012
+Bot 3,b579ea19-9e80-475f-8f71-f004ba14ed6f,0.35000000000000003,"(8, 37)","(5, 1)","(8, 11)",21,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b579ea19-9e80-475f-8f71-f004ba14ed6f.png,2012
+Bot 4,4bfd598d-e399-4946-8f11-a3eb360c1cf6,0.35000000000000003,"(8, 37)","(5, 1)","(8, 11)",29,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4bfd598d-e399-4946-8f11-a3eb360c1cf6.png,2012
+Bot 1,4ced77d4-d47b-4676-b397-51e3672a299b,0.35000000000000003,"(1, 1)","(9, 19)","(23, 17)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4ced77d4-d47b-4676-b397-51e3672a299b.png,2662
+Bot 2,184664f9-9eae-4458-9a97-522551e21fdb,0.35000000000000003,"(1, 1)","(9, 19)","(23, 17)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/184664f9-9eae-4458-9a97-522551e21fdb.png,2662
+Bot 3,d168aae8-cedb-4b5f-bdf7-f28b38eb1caf,0.35000000000000003,"(1, 1)","(9, 19)","(23, 17)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d168aae8-cedb-4b5f-bdf7-f28b38eb1caf.png,2662
+Bot 4,6af0b69c-0951-4fe3-a6a2-884079650235,0.35000000000000003,"(1, 1)","(9, 19)","(23, 17)",26,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6af0b69c-0951-4fe3-a6a2-884079650235.png,2662
+Bot 1,2c302a75-bc6b-4fe9-8496-5272019423dd,0.35000000000000003,"(16, 35)","(11, 20)","(10, 1)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2c302a75-bc6b-4fe9-8496-5272019423dd.png,4931
+Bot 2,c2d3b198-df4a-4eff-a1ef-adde8b32241d,0.35000000000000003,"(16, 35)","(11, 20)","(10, 1)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c2d3b198-df4a-4eff-a1ef-adde8b32241d.png,4931
+Bot 3,e215b33b-b98b-46a8-8699-3dc5cd9eb860,0.35000000000000003,"(16, 35)","(11, 20)","(10, 1)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e215b33b-b98b-46a8-8699-3dc5cd9eb860.png,4931
+Bot 4,3b593d97-db9f-464e-80df-c7044d22dffa,0.35000000000000003,"(16, 35)","(11, 20)","(10, 1)",24,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3b593d97-db9f-464e-80df-c7044d22dffa.png,4931
+Bot 1,3fb07e01-ab54-4212-8368-ec0d765af37e,0.4,"(12, 36)","(4, 8)","(37, 15)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3fb07e01-ab54-4212-8368-ec0d765af37e.png,8613
+Bot 2,c07253c1-3779-4416-a5c1-3c86e5935edf,0.4,"(12, 36)","(4, 8)","(37, 15)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c07253c1-3779-4416-a5c1-3c86e5935edf.png,8613
+Bot 3,a16ba06c-a98f-4f8c-bcd0-385d0ce04108,0.4,"(12, 36)","(4, 8)","(37, 15)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a16ba06c-a98f-4f8c-bcd0-385d0ce04108.png,8613
+Bot 4,36a16815-bbf0-448d-a9b1-dd1b398574bb,0.4,"(12, 36)","(4, 8)","(37, 15)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/36a16815-bbf0-448d-a9b1-dd1b398574bb.png,8613
+Bot 1,9f4a6a9c-5f84-4892-9285-8e997a439ea0,0.4,"(19, 14)","(32, 10)","(13, 34)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9f4a6a9c-5f84-4892-9285-8e997a439ea0.png,8847
+Bot 2,5526d009-1f3d-4713-bc8b-e49c6610ea8c,0.4,"(19, 14)","(32, 10)","(13, 34)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5526d009-1f3d-4713-bc8b-e49c6610ea8c.png,8847
+Bot 3,601e275e-5fdc-4378-92b3-3be39bb2d9ee,0.4,"(19, 14)","(32, 10)","(13, 34)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/601e275e-5fdc-4378-92b3-3be39bb2d9ee.png,8847
+Bot 4,6e314b83-30ac-4dd5-89c2-bd1543bf551a,0.4,"(19, 14)","(32, 10)","(13, 34)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6e314b83-30ac-4dd5-89c2-bd1543bf551a.png,8847
+Bot 1,981f5de3-8551-469f-9396-2b6faa923d64,0.4,"(24, 27)","(19, 33)","(22, 31)",5,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/981f5de3-8551-469f-9396-2b6faa923d64.png,7588
+Bot 2,c35014de-235b-4e1a-8a98-61bb0ae69c84,0.4,"(24, 27)","(19, 33)","(22, 31)",4,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c35014de-235b-4e1a-8a98-61bb0ae69c84.png,7588
+Bot 3,0ce0e156-3562-46f0-85a9-0da2f0d1b3f8,0.4,"(24, 27)","(19, 33)","(22, 31)",8,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0ce0e156-3562-46f0-85a9-0da2f0d1b3f8.png,7588
+Bot 4,c063515e-12db-4330-a9a3-b12fbd176d6e,0.4,"(24, 27)","(19, 33)","(22, 31)",8,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c063515e-12db-4330-a9a3-b12fbd176d6e.png,7588
+Bot 1,2321d92f-80f9-488e-b969-e7c730d7b286,0.4,"(10, 35)","(21, 37)","(32, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2321d92f-80f9-488e-b969-e7c730d7b286.png,1067
+Bot 2,9b0df8ed-787e-434e-b2b3-fc15b1bc8bde,0.4,"(10, 35)","(21, 37)","(32, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9b0df8ed-787e-434e-b2b3-fc15b1bc8bde.png,1067
+Bot 3,346dced8-b077-44ed-a824-b52706ba5e39,0.4,"(10, 35)","(21, 37)","(32, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/346dced8-b077-44ed-a824-b52706ba5e39.png,1067
+Bot 4,9a08c316-95da-40b5-8be8-fb423536b95f,0.4,"(10, 35)","(21, 37)","(32, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9a08c316-95da-40b5-8be8-fb423536b95f.png,1067
+Bot 1,1515d9ff-9a72-4b69-8233-f29aa5fe1198,0.4,"(16, 13)","(32, 20)","(21, 36)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1515d9ff-9a72-4b69-8233-f29aa5fe1198.png,3518
+Bot 2,9c5c2734-c8b3-4f7a-a139-a03ab358de54,0.4,"(16, 13)","(32, 20)","(21, 36)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9c5c2734-c8b3-4f7a-a139-a03ab358de54.png,3518
+Bot 3,91949520-5850-4720-8932-38e3ac1b60cc,0.4,"(16, 13)","(32, 20)","(21, 36)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/91949520-5850-4720-8932-38e3ac1b60cc.png,3518
+Bot 4,b9a94acc-a4c2-47ea-8f83-4c3116fc0d89,0.4,"(16, 13)","(32, 20)","(21, 36)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b9a94acc-a4c2-47ea-8f83-4c3116fc0d89.png,3518
+Bot 1,63e863a0-b193-4fb1-94f3-6b40d2baed82,0.4,"(9, 18)","(14, 2)","(14, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/63e863a0-b193-4fb1-94f3-6b40d2baed82.png,5194
+Bot 2,e3569ba8-a228-4276-adc1-b0719a8bdcd3,0.4,"(9, 18)","(14, 2)","(14, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e3569ba8-a228-4276-adc1-b0719a8bdcd3.png,5194
+Bot 3,76aa32a8-a7a3-4566-84b1-9b725accf59d,0.4,"(9, 18)","(14, 2)","(14, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/76aa32a8-a7a3-4566-84b1-9b725accf59d.png,5194
+Bot 4,cb416ca3-5547-4191-89c6-c421b76a17dc,0.4,"(9, 18)","(14, 2)","(14, 24)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cb416ca3-5547-4191-89c6-c421b76a17dc.png,5194
+Bot 1,cb4bea3f-df2c-46b7-9d55-dd0410d79112,0.4,"(29, 9)","(23, 33)","(37, 26)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cb4bea3f-df2c-46b7-9d55-dd0410d79112.png,8012
+Bot 2,2dc5c431-c3d5-4931-bf58-121211702633,0.4,"(29, 9)","(23, 33)","(37, 26)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2dc5c431-c3d5-4931-bf58-121211702633.png,8012
+Bot 3,33ea5822-0ada-4894-85d4-f33759bfca81,0.4,"(29, 9)","(23, 33)","(37, 26)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/33ea5822-0ada-4894-85d4-f33759bfca81.png,8012
+Bot 4,ee68e9fd-6a86-45ac-b439-8d3365808dab,0.4,"(29, 9)","(23, 33)","(37, 26)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ee68e9fd-6a86-45ac-b439-8d3365808dab.png,8012
+Bot 1,4e082466-0288-46c0-9221-5dcea52c43dc,0.4,"(19, 9)","(11, 23)","(32, 33)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4e082466-0288-46c0-9221-5dcea52c43dc.png,8417
+Bot 2,f520fde3-282a-4a4c-86a6-717d56d73c62,0.4,"(19, 9)","(11, 23)","(32, 33)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f520fde3-282a-4a4c-86a6-717d56d73c62.png,8417
+Bot 3,9d5ea337-22ea-47c6-9988-3a57ac04c220,0.4,"(19, 9)","(11, 23)","(32, 33)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9d5ea337-22ea-47c6-9988-3a57ac04c220.png,8417
+Bot 4,12d7baed-cebd-4f2c-ad1c-681bcac4f4f0,0.4,"(19, 9)","(11, 23)","(32, 33)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/12d7baed-cebd-4f2c-ad1c-681bcac4f4f0.png,8417
+Bot 1,edb02d6b-57da-467e-9398-521d5ceb158c,0.4,"(30, 20)","(24, 28)","(28, 6)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/edb02d6b-57da-467e-9398-521d5ceb158c.png,2814
+Bot 2,0e76404c-bc54-4340-abed-8b315eed7b62,0.4,"(30, 20)","(24, 28)","(28, 6)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0e76404c-bc54-4340-abed-8b315eed7b62.png,2814
+Bot 3,f69e87a7-670a-421f-815d-b29c068515f7,0.4,"(30, 20)","(24, 28)","(28, 6)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f69e87a7-670a-421f-815d-b29c068515f7.png,2814
+Bot 4,9b702746-8044-48b8-909f-6d7c0194b52d,0.4,"(30, 20)","(24, 28)","(28, 6)",20,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9b702746-8044-48b8-909f-6d7c0194b52d.png,2814
+Bot 1,3080ee47-07c4-4f05-a002-ad1c76321452,0.4,"(38, 26)","(16, 3)","(12, 38)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3080ee47-07c4-4f05-a002-ad1c76321452.png,5577
+Bot 2,4b6673c6-03d0-42d3-9204-d42ff82baf05,0.4,"(38, 26)","(16, 3)","(12, 38)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4b6673c6-03d0-42d3-9204-d42ff82baf05.png,5577
+Bot 3,6fa04a9a-77b1-4016-b4e0-d996425dfa58,0.4,"(38, 26)","(16, 3)","(12, 38)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6fa04a9a-77b1-4016-b4e0-d996425dfa58.png,5577
+Bot 4,081a1cd2-8797-43fe-b1da-0d9e4d66234f,0.4,"(38, 26)","(16, 3)","(12, 38)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/081a1cd2-8797-43fe-b1da-0d9e4d66234f.png,5577
+Bot 1,4ed251a4-054a-4b4e-bc51-1384659593e2,0.45,"(15, 30)","(17, 20)","(22, 11)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4ed251a4-054a-4b4e-bc51-1384659593e2.png,5700
+Bot 2,5b1a25a9-1de4-4ec5-98bf-09fe83e77a89,0.45,"(15, 30)","(17, 20)","(22, 11)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5b1a25a9-1de4-4ec5-98bf-09fe83e77a89.png,5700
+Bot 3,300eafce-c3a8-4006-b715-8f261ce999f5,0.45,"(15, 30)","(17, 20)","(22, 11)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/300eafce-c3a8-4006-b715-8f261ce999f5.png,5700
+Bot 4,3ccbd44e-1cea-4c02-b9dc-7d9dcce85da0,0.45,"(15, 30)","(17, 20)","(22, 11)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3ccbd44e-1cea-4c02-b9dc-7d9dcce85da0.png,5700
+Bot 1,50266b7f-881c-4802-bfbe-7acc2181bb3e,0.45,"(34, 33)","(4, 2)","(38, 34)",63,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/50266b7f-881c-4802-bfbe-7acc2181bb3e.png,6879
+Bot 2,06c1ff24-a958-451c-806a-c1c4bed98a88,0.45,"(34, 33)","(4, 2)","(38, 34)",63,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/06c1ff24-a958-451c-806a-c1c4bed98a88.png,6879
+Bot 3,00eeac40-451d-490b-96f2-b597d861ffbd,0.45,"(34, 33)","(4, 2)","(38, 34)",63,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/00eeac40-451d-490b-96f2-b597d861ffbd.png,6879
+Bot 4,88ee23e0-95c0-4146-b527-5c33dbae767d,0.45,"(34, 33)","(4, 2)","(38, 34)",63,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/88ee23e0-95c0-4146-b527-5c33dbae767d.png,6879
+Bot 1,4623037e-9a21-4bee-bc5b-ea991af95ae0,0.45,"(5, 2)","(3, 16)","(4, 31)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4623037e-9a21-4bee-bc5b-ea991af95ae0.png,1804
+Bot 2,f79a22b9-af74-4e6e-ae63-3775119bbd05,0.45,"(5, 2)","(3, 16)","(4, 31)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f79a22b9-af74-4e6e-ae63-3775119bbd05.png,1804
+Bot 3,a918c754-f2c5-4fd9-8f5d-72b8f65df3ba,0.45,"(5, 2)","(3, 16)","(4, 31)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a918c754-f2c5-4fd9-8f5d-72b8f65df3ba.png,1804
+Bot 4,13ba7ab7-29c3-4adc-ae34-8155b9b1388f,0.45,"(5, 2)","(3, 16)","(4, 31)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/13ba7ab7-29c3-4adc-ae34-8155b9b1388f.png,1804
+Bot 1,ac7e907a-f252-4484-b5c9-1da46f296776,0.45,"(16, 37)","(7, 2)","(29, 12)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ac7e907a-f252-4484-b5c9-1da46f296776.png,8774
+Bot 2,0074d14a-b0f3-41e4-bf54-cde06bf5d666,0.45,"(16, 37)","(7, 2)","(29, 12)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0074d14a-b0f3-41e4-bf54-cde06bf5d666.png,8774
+Bot 3,f911d5b6-fb45-4d7f-8640-5e137b2ec790,0.45,"(16, 37)","(7, 2)","(29, 12)",46,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f911d5b6-fb45-4d7f-8640-5e137b2ec790.png,8774
+Bot 4,75b7d967-5d09-471d-a5b1-d4d4a57be291,0.45,"(16, 37)","(7, 2)","(29, 12)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/75b7d967-5d09-471d-a5b1-d4d4a57be291.png,8774
+Bot 1,665b0a52-b50b-4853-a767-75774b056d23,0.45,"(19, 22)","(5, 13)","(23, 31)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/665b0a52-b50b-4853-a767-75774b056d23.png,1938
+Bot 2,63976054-1d59-440c-97fa-ed8f263ba3b8,0.45,"(19, 22)","(5, 13)","(23, 31)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/63976054-1d59-440c-97fa-ed8f263ba3b8.png,1938
+Bot 3,65798411-a46f-441a-bcf8-8b618456b3e2,0.45,"(19, 22)","(5, 13)","(23, 31)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/65798411-a46f-441a-bcf8-8b618456b3e2.png,1938
+Bot 4,8ce26239-c77e-4806-8cce-59b84a7b0b49,0.45,"(19, 22)","(5, 13)","(23, 31)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8ce26239-c77e-4806-8cce-59b84a7b0b49.png,1938
+Bot 1,5b728956-683f-4bac-9b94-f145164371f0,0.45,"(31, 7)","(28, 5)","(19, 6)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5b728956-683f-4bac-9b94-f145164371f0.png,9181
+Bot 2,5719acd7-4337-42d4-ab07-cdedbb91351c,0.45,"(31, 7)","(28, 5)","(19, 6)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5719acd7-4337-42d4-ab07-cdedbb91351c.png,9181
+Bot 3,cb32b7e0-d97d-49cc-a31e-824e7ca5d102,0.45,"(31, 7)","(28, 5)","(19, 6)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cb32b7e0-d97d-49cc-a31e-824e7ca5d102.png,9181
+Bot 4,a416a700-02e5-414c-8273-2d9c38d62cc7,0.45,"(31, 7)","(28, 5)","(19, 6)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a416a700-02e5-414c-8273-2d9c38d62cc7.png,9181
+Bot 1,1c9e6bcf-1133-422e-a29e-20e71d9b03b4,0.45,"(24, 5)","(2, 9)","(32, 11)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1c9e6bcf-1133-422e-a29e-20e71d9b03b4.png,8826
+Bot 2,e1c290b5-5369-45a5-9556-40b90af91ec6,0.45,"(24, 5)","(2, 9)","(32, 11)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e1c290b5-5369-45a5-9556-40b90af91ec6.png,8826
+Bot 3,d031e1fb-95ef-42b2-a008-dc6a8b48d67e,0.45,"(24, 5)","(2, 9)","(32, 11)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d031e1fb-95ef-42b2-a008-dc6a8b48d67e.png,8826
+Bot 4,7475d4b2-02ee-49de-9071-1ab3b4c1a2b8,0.45,"(24, 5)","(2, 9)","(32, 11)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7475d4b2-02ee-49de-9071-1ab3b4c1a2b8.png,8826
+Bot 1,b9bc1211-3f06-428c-93f5-4b0289b9c0a4,0.45,"(8, 37)","(37, 29)","(23, 2)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b9bc1211-3f06-428c-93f5-4b0289b9c0a4.png,5880
+Bot 2,65566df9-115f-4aed-955c-415d4f78b948,0.45,"(8, 37)","(37, 29)","(23, 2)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/65566df9-115f-4aed-955c-415d4f78b948.png,5880
+Bot 3,cc3478f6-cc0a-41a9-867f-4b0bdbbaf5bc,0.45,"(8, 37)","(37, 29)","(23, 2)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cc3478f6-cc0a-41a9-867f-4b0bdbbaf5bc.png,5880
+Bot 4,dce18076-3457-49dc-b1c7-7cb1611a6cc2,0.45,"(8, 37)","(37, 29)","(23, 2)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dce18076-3457-49dc-b1c7-7cb1611a6cc2.png,5880
+Bot 1,81b1178e-6ff9-48e9-b02a-615cf09b08bf,0.45,"(36, 15)","(3, 3)","(4, 8)",19,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/81b1178e-6ff9-48e9-b02a-615cf09b08bf.png,7050
+Bot 2,6da86b00-3993-4aba-a471-4d287fbb44ff,0.45,"(36, 15)","(3, 3)","(4, 8)",4,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6da86b00-3993-4aba-a471-4d287fbb44ff.png,7050
+Bot 3,543ac5ed-88cb-4a6f-a621-331e563e5230,0.45,"(36, 15)","(3, 3)","(4, 8)",5,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/543ac5ed-88cb-4a6f-a621-331e563e5230.png,7050
+Bot 4,0f7adeb3-2fe2-45dc-ac6a-143064e405a1,0.45,"(36, 15)","(3, 3)","(4, 8)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0f7adeb3-2fe2-45dc-ac6a-143064e405a1.png,7050
+Bot 1,c4828da4-112d-4fc5-857e-bb86f1200d0e,0.45,"(15, 18)","(20, 13)","(35, 9)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c4828da4-112d-4fc5-857e-bb86f1200d0e.png,8642
+Bot 2,6d95a170-83d5-4bc9-a931-f246c565bcf5,0.45,"(15, 18)","(20, 13)","(35, 9)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6d95a170-83d5-4bc9-a931-f246c565bcf5.png,8642
+Bot 3,a1ad9148-c1c3-4619-9d40-715ce3054259,0.45,"(15, 18)","(20, 13)","(35, 9)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a1ad9148-c1c3-4619-9d40-715ce3054259.png,8642
+Bot 4,c02a0986-2be6-4da1-b9a6-1ce07fdebca2,0.45,"(15, 18)","(20, 13)","(35, 9)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c02a0986-2be6-4da1-b9a6-1ce07fdebca2.png,8642
+Bot 1,d5905c7f-bcfd-4b8e-9108-40f7d4eb9838,0.5,"(15, 33)","(1, 19)","(21, 37)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d5905c7f-bcfd-4b8e-9108-40f7d4eb9838.png,3973
+Bot 2,fd6057b9-9860-40fd-938c-a03f6b3ecf9d,0.5,"(15, 33)","(1, 19)","(21, 37)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fd6057b9-9860-40fd-938c-a03f6b3ecf9d.png,3973
+Bot 3,c5807923-4bbc-4037-84b6-310e1cfb2c76,0.5,"(15, 33)","(1, 19)","(21, 37)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c5807923-4bbc-4037-84b6-310e1cfb2c76.png,3973
+Bot 4,2d36a2c9-c836-443d-baf6-8f0356f698c4,0.5,"(15, 33)","(1, 19)","(21, 37)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2d36a2c9-c836-443d-baf6-8f0356f698c4.png,3973
+Bot 1,76c3d256-3416-4926-bdae-7ae4184bdeff,0.5,"(18, 9)","(8, 8)","(6, 3)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/76c3d256-3416-4926-bdae-7ae4184bdeff.png,9153
+Bot 2,059f7d3c-26d3-4776-adbf-46e63781bd87,0.5,"(18, 9)","(8, 8)","(6, 3)",14,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/059f7d3c-26d3-4776-adbf-46e63781bd87.png,9153
+Bot 3,02e53554-cf26-4e03-aaac-5d7344959852,0.5,"(18, 9)","(8, 8)","(6, 3)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/02e53554-cf26-4e03-aaac-5d7344959852.png,9153
+Bot 4,3a3d77fc-aab3-4442-9784-6d9aba61937e,0.5,"(18, 9)","(8, 8)","(6, 3)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3a3d77fc-aab3-4442-9784-6d9aba61937e.png,9153
+Bot 1,d231c866-f075-49d7-b325-bafcf7c5334b,0.5,"(21, 15)","(20, 37)","(16, 8)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d231c866-f075-49d7-b325-bafcf7c5334b.png,1349
+Bot 2,4f85c066-6491-4d33-94d9-857543cfbeb2,0.5,"(21, 15)","(20, 37)","(16, 8)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4f85c066-6491-4d33-94d9-857543cfbeb2.png,1349
+Bot 3,429106c0-3bce-49b7-8f59-798dd3a19031,0.5,"(21, 15)","(20, 37)","(16, 8)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/429106c0-3bce-49b7-8f59-798dd3a19031.png,1349
+Bot 4,0cfb8221-b123-4936-a3f1-0bf4c4d28dd3,0.5,"(21, 15)","(20, 37)","(16, 8)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0cfb8221-b123-4936-a3f1-0bf4c4d28dd3.png,1349
+Bot 1,b64413da-18cf-481d-a022-6e49dd90e829,0.5,"(19, 26)","(20, 28)","(35, 32)",3,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b64413da-18cf-481d-a022-6e49dd90e829.png,5098
+Bot 2,eaca0c25-9958-4e46-b6b2-5f1cb72468d7,0.5,"(19, 26)","(20, 28)","(35, 32)",3,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/eaca0c25-9958-4e46-b6b2-5f1cb72468d7.png,5098
+Bot 3,3171ea15-e119-479a-8b82-7ec0302ca706,0.5,"(19, 26)","(20, 28)","(35, 32)",3,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3171ea15-e119-479a-8b82-7ec0302ca706.png,5098
+Bot 4,9f742a68-67d8-411b-a7a2-1bc8cbc32cdf,0.5,"(19, 26)","(20, 28)","(35, 32)",3,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9f742a68-67d8-411b-a7a2-1bc8cbc32cdf.png,5098
+Bot 1,54d79253-a357-4051-9722-8d46b7cce33e,0.5,"(10, 24)","(26, 1)","(36, 9)",28,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/54d79253-a357-4051-9722-8d46b7cce33e.png,3069
+Bot 2,dd3e39bb-0c6e-4797-a549-acebd189b5b4,0.5,"(10, 24)","(26, 1)","(36, 9)",24,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dd3e39bb-0c6e-4797-a549-acebd189b5b4.png,3069
+Bot 3,9dccc6a5-b5d8-4e7c-b38e-8ae9f3c7e8a6,0.5,"(10, 24)","(26, 1)","(36, 9)",31,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9dccc6a5-b5d8-4e7c-b38e-8ae9f3c7e8a6.png,3069
+Bot 4,73f3609e-4fd9-47ef-8039-3b0a65cf338e,0.5,"(10, 24)","(26, 1)","(36, 9)",27,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/73f3609e-4fd9-47ef-8039-3b0a65cf338e.png,3069
+Bot 1,302883af-501f-43db-ab8e-089d58b5cee5,0.5,"(23, 11)","(28, 36)","(11, 37)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/302883af-501f-43db-ab8e-089d58b5cee5.png,9707
+Bot 2,c1806c6f-d41b-44f8-b899-dd317cde2a94,0.5,"(23, 11)","(28, 36)","(11, 37)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c1806c6f-d41b-44f8-b899-dd317cde2a94.png,9707
+Bot 3,021412e5-d7a3-44ff-a6ba-defe94e3a4d8,0.5,"(23, 11)","(28, 36)","(11, 37)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/021412e5-d7a3-44ff-a6ba-defe94e3a4d8.png,9707
+Bot 4,29616542-e50b-4428-ae81-12bf31875303,0.5,"(23, 11)","(28, 36)","(11, 37)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/29616542-e50b-4428-ae81-12bf31875303.png,9707
+Bot 1,9f17b872-15ca-4d8f-a400-e5161eb5732a,0.5,"(1, 1)","(23, 37)","(22, 14)",41,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9f17b872-15ca-4d8f-a400-e5161eb5732a.png,6960
+Bot 2,1ca419ee-c816-4d98-93dc-20f3cb2cb68f,0.5,"(1, 1)","(23, 37)","(22, 14)",33,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1ca419ee-c816-4d98-93dc-20f3cb2cb68f.png,6960
+Bot 3,a9124783-a2aa-4f3d-9593-09feff729730,0.5,"(1, 1)","(23, 37)","(22, 14)",42,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a9124783-a2aa-4f3d-9593-09feff729730.png,6960
+Bot 4,5d08640c-0352-4ded-ad67-088989dd55d3,0.5,"(1, 1)","(23, 37)","(22, 14)",58,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5d08640c-0352-4ded-ad67-088989dd55d3.png,6960
+Bot 1,723d826c-dc94-419b-be21-42b87e917a52,0.5,"(10, 22)","(38, 10)","(14, 19)",4,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/723d826c-dc94-419b-be21-42b87e917a52.png,4914
+Bot 2,749a230a-df6a-445b-9081-4c4b8de94839,0.5,"(10, 22)","(38, 10)","(14, 19)",12,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/749a230a-df6a-445b-9081-4c4b8de94839.png,4914
+Bot 3,e7f5c1c8-79ca-4e9d-821e-386509d8d626,0.5,"(10, 22)","(38, 10)","(14, 19)",31,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e7f5c1c8-79ca-4e9d-821e-386509d8d626.png,4914
+Bot 4,01004c18-d9d7-44f4-ad22-a3728ffe4a5a,0.5,"(10, 22)","(38, 10)","(14, 19)",13,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/01004c18-d9d7-44f4-ad22-a3728ffe4a5a.png,4914
+Bot 1,d2fb75a6-907b-430e-9ff4-72957393dd21,0.5,"(33, 29)","(28, 24)","(28, 6)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d2fb75a6-907b-430e-9ff4-72957393dd21.png,8289
+Bot 2,572b0d22-a351-4683-9bd7-bfb56b6f3f2f,0.5,"(33, 29)","(28, 24)","(28, 6)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/572b0d22-a351-4683-9bd7-bfb56b6f3f2f.png,8289
+Bot 3,bb2e26bd-71c4-4829-b1e6-0f5befbca90d,0.5,"(33, 29)","(28, 24)","(28, 6)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bb2e26bd-71c4-4829-b1e6-0f5befbca90d.png,8289
+Bot 4,847c85c0-6a27-4255-a755-d07cb4544cad,0.5,"(33, 29)","(28, 24)","(28, 6)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/847c85c0-6a27-4255-a755-d07cb4544cad.png,8289
+Bot 1,05980a29-341b-4e1b-b749-d05e0d1e6a29,0.5,"(35, 21)","(35, 11)","(16, 29)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/05980a29-341b-4e1b-b749-d05e0d1e6a29.png,4611
+Bot 2,dbd2c79c-a802-49f7-bcc0-ee25b0ed1742,0.5,"(35, 21)","(35, 11)","(16, 29)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dbd2c79c-a802-49f7-bcc0-ee25b0ed1742.png,4611
+Bot 3,67d50fd2-0d0d-494a-afbf-23a4e440c439,0.5,"(35, 21)","(35, 11)","(16, 29)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/67d50fd2-0d0d-494a-afbf-23a4e440c439.png,4611
+Bot 4,ce6e3cfa-130a-43bc-8f26-0cce8c1fc8ac,0.5,"(35, 21)","(35, 11)","(16, 29)",32,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ce6e3cfa-130a-43bc-8f26-0cce8c1fc8ac.png,4611
+Bot 1,28bc371f-05b5-44be-a6f5-a28ceb2922af,0.55,"(28, 34)","(32, 36)","(38, 38)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/28bc371f-05b5-44be-a6f5-a28ceb2922af.png,859
+Bot 2,25c9597d-4580-49ad-b39d-2297958fe64f,0.55,"(28, 34)","(32, 36)","(38, 38)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/25c9597d-4580-49ad-b39d-2297958fe64f.png,859
+Bot 3,66adcc68-bc6c-48ee-a150-c32fb066945b,0.55,"(28, 34)","(32, 36)","(38, 38)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/66adcc68-bc6c-48ee-a150-c32fb066945b.png,859
+Bot 4,48cab87f-3fdf-4ff0-b8a3-90f0ca997646,0.55,"(28, 34)","(32, 36)","(38, 38)",6,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/48cab87f-3fdf-4ff0-b8a3-90f0ca997646.png,859
+Bot 1,b081b02e-8239-419d-b218-d8ee62bd9304,0.55,"(9, 35)","(36, 36)","(23, 2)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b081b02e-8239-419d-b218-d8ee62bd9304.png,4004
+Bot 2,d17bc7da-a0d7-4a2f-972f-e3b5d6262a7a,0.55,"(9, 35)","(36, 36)","(23, 2)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d17bc7da-a0d7-4a2f-972f-e3b5d6262a7a.png,4004
+Bot 3,af89972d-4889-4686-8bbe-f413821d1c2a,0.55,"(9, 35)","(36, 36)","(23, 2)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/af89972d-4889-4686-8bbe-f413821d1c2a.png,4004
+Bot 4,7e739665-2ce6-49bc-8f4f-e36430658d3a,0.55,"(9, 35)","(36, 36)","(23, 2)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7e739665-2ce6-49bc-8f4f-e36430658d3a.png,4004
+Bot 1,9ca14840-450f-497a-ad53-10dd9f4d2b0b,0.55,"(25, 34)","(3, 13)","(7, 17)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9ca14840-450f-497a-ad53-10dd9f4d2b0b.png,8212
+Bot 2,7ea80e6d-dcae-4343-91a4-af7abeef8f91,0.55,"(25, 34)","(3, 13)","(7, 17)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7ea80e6d-dcae-4343-91a4-af7abeef8f91.png,8212
+Bot 3,f5306d81-1197-4fd7-a3b3-b77781e71bdd,0.55,"(25, 34)","(3, 13)","(7, 17)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f5306d81-1197-4fd7-a3b3-b77781e71bdd.png,8212
+Bot 4,dbc59e35-bc68-46a3-87bb-df5c09461b04,0.55,"(25, 34)","(3, 13)","(7, 17)",17,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dbc59e35-bc68-46a3-87bb-df5c09461b04.png,8212
+Bot 1,8502e49f-8622-457f-9acc-6dc7585e0033,0.55,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8502e49f-8622-457f-9acc-6dc7585e0033.png,210
+Bot 2,1ff43c4f-267e-4456-a902-a4b0b9ea3052,0.55,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1ff43c4f-267e-4456-a902-a4b0b9ea3052.png,210
+Bot 3,d4360e7d-9b1d-469f-9a23-d86f1f29bfac,0.55,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d4360e7d-9b1d-469f-9a23-d86f1f29bfac.png,210
+Bot 4,a36064dd-7e58-4407-a430-82ee9ff2514e,0.55,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a36064dd-7e58-4407-a430-82ee9ff2514e.png,210
+Bot 1,14a8612e-8d52-43c5-aed8-4f756f71029a,0.55,"(36, 24)","(3, 23)","(34, 32)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/14a8612e-8d52-43c5-aed8-4f756f71029a.png,8661
+Bot 2,8abd030b-0c7e-41fc-93fe-4d5b0f1ea5ba,0.55,"(36, 24)","(3, 23)","(34, 32)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8abd030b-0c7e-41fc-93fe-4d5b0f1ea5ba.png,8661
+Bot 3,52c1f97e-a6bc-4e81-afc7-6f72ec509aaa,0.55,"(36, 24)","(3, 23)","(34, 32)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/52c1f97e-a6bc-4e81-afc7-6f72ec509aaa.png,8661
+Bot 4,e036910e-f12b-4d93-aefa-d587b7032e5d,0.55,"(36, 24)","(3, 23)","(34, 32)",44,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e036910e-f12b-4d93-aefa-d587b7032e5d.png,8661
+Bot 1,38b0ad9a-4489-4362-becb-1934a3cf07d0,0.55,"(23, 1)","(16, 29)","(4, 21)",29,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/38b0ad9a-4489-4362-becb-1934a3cf07d0.png,298
+Bot 2,67f905cb-8157-4ce7-9796-929ec58fa887,0.55,"(23, 1)","(16, 29)","(4, 21)",28,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/67f905cb-8157-4ce7-9796-929ec58fa887.png,298
+Bot 3,fd5de6fb-25e8-45ae-864c-caf74c10d99d,0.55,"(23, 1)","(16, 29)","(4, 21)",26,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fd5de6fb-25e8-45ae-864c-caf74c10d99d.png,298
+Bot 4,abc2264b-89bd-4aac-8dfe-a3f2c014e600,0.55,"(23, 1)","(16, 29)","(4, 21)",32,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/abc2264b-89bd-4aac-8dfe-a3f2c014e600.png,298
+Bot 1,d1c435b2-7bb3-4edf-9585-373e383fdef1,0.55,"(36, 6)","(23, 5)","(13, 13)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d1c435b2-7bb3-4edf-9585-373e383fdef1.png,1780
+Bot 2,2f552db8-1933-4a76-9d6e-8a1efa7adc54,0.55,"(36, 6)","(23, 5)","(13, 13)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2f552db8-1933-4a76-9d6e-8a1efa7adc54.png,1780
+Bot 3,7c1289b9-1f7c-418d-9b36-f5dc3dd1148d,0.55,"(36, 6)","(23, 5)","(13, 13)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7c1289b9-1f7c-418d-9b36-f5dc3dd1148d.png,1780
+Bot 4,231921f4-4325-4380-8ba1-1737e02a5b5c,0.55,"(36, 6)","(23, 5)","(13, 13)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/231921f4-4325-4380-8ba1-1737e02a5b5c.png,1780
+Bot 1,e7b49b5c-df05-4dd7-ab00-ec07106b8423,0.55,"(38, 13)","(7, 3)","(35, 24)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e7b49b5c-df05-4dd7-ab00-ec07106b8423.png,7469
+Bot 2,44e291a7-53d2-47bd-bd53-e5646c182651,0.55,"(38, 13)","(7, 3)","(35, 24)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/44e291a7-53d2-47bd-bd53-e5646c182651.png,7469
+Bot 3,e9feaac5-4122-4e82-b48f-5b941f0bce53,0.55,"(38, 13)","(7, 3)","(35, 24)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e9feaac5-4122-4e82-b48f-5b941f0bce53.png,7469
+Bot 4,21702f2a-f829-44a0-9c34-6db32c5b6d43,0.55,"(38, 13)","(7, 3)","(35, 24)",47,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/21702f2a-f829-44a0-9c34-6db32c5b6d43.png,7469
+Bot 1,a5d8dfdc-1787-4f22-94ce-fea88131ac9b,0.55,"(37, 29)","(17, 22)","(13, 26)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a5d8dfdc-1787-4f22-94ce-fea88131ac9b.png,1156
+Bot 2,beff88d8-1ae4-43ac-a397-becdc7572c70,0.55,"(37, 29)","(17, 22)","(13, 26)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/beff88d8-1ae4-43ac-a397-becdc7572c70.png,1156
+Bot 3,dd16478c-6606-4bd7-96e1-f91f7f34894d,0.55,"(37, 29)","(17, 22)","(13, 26)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dd16478c-6606-4bd7-96e1-f91f7f34894d.png,1156
+Bot 4,ffac2fe6-2947-4481-91a4-16ef5afcf696,0.55,"(37, 29)","(17, 22)","(13, 26)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ffac2fe6-2947-4481-91a4-16ef5afcf696.png,1156
+Bot 1,fcf7d87f-1215-4e31-bb13-edaee6e8974f,0.55,"(26, 18)","(25, 12)","(6, 18)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fcf7d87f-1215-4e31-bb13-edaee6e8974f.png,5676
+Bot 2,ebdec53e-99dd-4d54-ab22-b4c09acd368e,0.55,"(26, 18)","(25, 12)","(6, 18)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ebdec53e-99dd-4d54-ab22-b4c09acd368e.png,5676
+Bot 3,d56765d5-46e8-4b7f-a379-25cc28a18166,0.55,"(26, 18)","(25, 12)","(6, 18)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d56765d5-46e8-4b7f-a379-25cc28a18166.png,5676
+Bot 4,d341a51e-e11d-4a26-8ef3-4e8aca6c6910,0.55,"(26, 18)","(25, 12)","(6, 18)",9,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d341a51e-e11d-4a26-8ef3-4e8aca6c6910.png,5676
+Bot 1,73d991a5-26ee-43f4-8e64-cbdade730a23,0.6000000000000001,"(23, 37)","(6, 31)","(18, 30)",12,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/73d991a5-26ee-43f4-8e64-cbdade730a23.png,1341
+Bot 2,86c3a865-976b-4259-90fc-b1790a708260,0.6000000000000001,"(23, 37)","(6, 31)","(18, 30)",25,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/86c3a865-976b-4259-90fc-b1790a708260.png,1341
+Bot 3,939d53b2-28cc-43f3-90bf-e3f706995d56,0.6000000000000001,"(23, 37)","(6, 31)","(18, 30)",21,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/939d53b2-28cc-43f3-90bf-e3f706995d56.png,1341
+Bot 4,0ed88590-ff1a-402a-bd44-e5765c17b911,0.6000000000000001,"(23, 37)","(6, 31)","(18, 30)",12,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0ed88590-ff1a-402a-bd44-e5765c17b911.png,1341
+Bot 1,14772783-7309-40a0-b976-00f2fa5e8f5a,0.6000000000000001,"(32, 11)","(14, 28)","(13, 26)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/14772783-7309-40a0-b976-00f2fa5e8f5a.png,8645
+Bot 2,bcee81fc-e872-478f-86fc-d3730494b5da,0.6000000000000001,"(32, 11)","(14, 28)","(13, 26)",8,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bcee81fc-e872-478f-86fc-d3730494b5da.png,8645
+Bot 3,dd4b2b46-8d15-4bbb-9b74-22731f4d6c4a,0.6000000000000001,"(32, 11)","(14, 28)","(13, 26)",8,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dd4b2b46-8d15-4bbb-9b74-22731f4d6c4a.png,8645
+Bot 4,26d679ac-2af5-4477-993a-6e83fce86ecb,0.6000000000000001,"(32, 11)","(14, 28)","(13, 26)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/26d679ac-2af5-4477-993a-6e83fce86ecb.png,8645
+Bot 1,e177ece3-ecaa-4193-a3f4-50c1a7b4c2c1,0.6000000000000001,"(7, 5)","(25, 2)","(14, 18)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e177ece3-ecaa-4193-a3f4-50c1a7b4c2c1.png,4504
+Bot 2,8d99d8fb-74c1-4e53-a24f-6c9929d6fc75,0.6000000000000001,"(7, 5)","(25, 2)","(14, 18)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8d99d8fb-74c1-4e53-a24f-6c9929d6fc75.png,4504
+Bot 3,1476d794-3818-47e7-a9b9-1f391cce9636,0.6000000000000001,"(7, 5)","(25, 2)","(14, 18)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1476d794-3818-47e7-a9b9-1f391cce9636.png,4504
+Bot 4,870de7b7-5be9-4766-956e-09511ca8e0aa,0.6000000000000001,"(7, 5)","(25, 2)","(14, 18)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/870de7b7-5be9-4766-956e-09511ca8e0aa.png,4504
+Bot 1,f1e3879e-7e19-4fdf-9c62-77abdf8c0be2,0.6000000000000001,"(34, 38)","(7, 22)","(3, 19)",20,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f1e3879e-7e19-4fdf-9c62-77abdf8c0be2.png,8246
+Bot 2,ec7a07d0-5d15-49a2-890e-504e0dbdf038,0.6000000000000001,"(34, 38)","(7, 22)","(3, 19)",19,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ec7a07d0-5d15-49a2-890e-504e0dbdf038.png,8246
+Bot 3,1768e427-752c-408f-ad01-d022b72f32bd,0.6000000000000001,"(34, 38)","(7, 22)","(3, 19)",20,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1768e427-752c-408f-ad01-d022b72f32bd.png,8246
+Bot 4,8dc44321-328a-4979-a700-4f2761318634,0.6000000000000001,"(34, 38)","(7, 22)","(3, 19)",22,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8dc44321-328a-4979-a700-4f2761318634.png,8246
+Bot 1,51a1d07d-728c-4501-846e-c51f49cc8240,0.6000000000000001,"(5, 21)","(26, 6)","(31, 22)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/51a1d07d-728c-4501-846e-c51f49cc8240.png,5001
+Bot 2,de8e21e0-8e72-4c9b-ae6d-ae41c1919e72,0.6000000000000001,"(5, 21)","(26, 6)","(31, 22)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/de8e21e0-8e72-4c9b-ae6d-ae41c1919e72.png,5001
+Bot 3,20a036ec-4107-4cd0-af1f-f0929433bad7,0.6000000000000001,"(5, 21)","(26, 6)","(31, 22)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/20a036ec-4107-4cd0-af1f-f0929433bad7.png,5001
+Bot 4,a6c5c48e-cb0d-4805-8e5c-52ff2d6e6a0e,0.6000000000000001,"(5, 21)","(26, 6)","(31, 22)",38,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a6c5c48e-cb0d-4805-8e5c-52ff2d6e6a0e.png,5001
+Bot 1,0c1851fa-93c2-43a0-8afa-a05cd8d01d74,0.6000000000000001,"(36, 38)","(12, 25)","(28, 31)",8,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0c1851fa-93c2-43a0-8afa-a05cd8d01d74.png,7431
+Bot 2,06256e78-d2d9-4e56-8793-20748b02be34,0.6000000000000001,"(36, 38)","(12, 25)","(28, 31)",10,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/06256e78-d2d9-4e56-8793-20748b02be34.png,7431
+Bot 3,d8270c87-586c-4137-a6f4-255d869ed88c,0.6000000000000001,"(36, 38)","(12, 25)","(28, 31)",14,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d8270c87-586c-4137-a6f4-255d869ed88c.png,7431
+Bot 4,db35ffe5-14d5-478c-8816-2c65880b47cb,0.6000000000000001,"(36, 38)","(12, 25)","(28, 31)",20,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/db35ffe5-14d5-478c-8816-2c65880b47cb.png,7431
+Bot 1,f6da128e-e0af-4f34-b99a-c79961004177,0.6000000000000001,"(26, 17)","(38, 10)","(27, 6)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f6da128e-e0af-4f34-b99a-c79961004177.png,4501
+Bot 2,9100381b-924e-47be-8125-b8acefdeff65,0.6000000000000001,"(26, 17)","(38, 10)","(27, 6)",16,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9100381b-924e-47be-8125-b8acefdeff65.png,4501
+Bot 3,9c82202a-2f14-4787-8701-8e57a40574cc,0.6000000000000001,"(26, 17)","(38, 10)","(27, 6)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9c82202a-2f14-4787-8701-8e57a40574cc.png,4501
+Bot 4,3e2ce4a9-1123-4a00-8b19-8b4f69df79ce,0.6000000000000001,"(26, 17)","(38, 10)","(27, 6)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3e2ce4a9-1123-4a00-8b19-8b4f69df79ce.png,4501
+Bot 1,7e7bcea9-1933-4ac7-8440-4e8234734ba1,0.6000000000000001,"(38, 17)","(33, 1)","(29, 35)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7e7bcea9-1933-4ac7-8440-4e8234734ba1.png,6279
+Bot 2,635497a7-e0d1-47f8-8331-6dc9b88f6ccc,0.6000000000000001,"(38, 17)","(33, 1)","(29, 35)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/635497a7-e0d1-47f8-8331-6dc9b88f6ccc.png,6279
+Bot 3,84ebe998-b533-456d-b06e-103c55a434dc,0.6000000000000001,"(38, 17)","(33, 1)","(29, 35)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/84ebe998-b533-456d-b06e-103c55a434dc.png,6279
+Bot 4,b78adb44-5c89-469a-bba9-2cc473183661,0.6000000000000001,"(38, 17)","(33, 1)","(29, 35)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b78adb44-5c89-469a-bba9-2cc473183661.png,6279
+Bot 1,80fcdfee-83d7-4350-a8ec-c3f096040006,0.6000000000000001,"(29, 24)","(35, 4)","(28, 3)",15,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/80fcdfee-83d7-4350-a8ec-c3f096040006.png,6812
+Bot 2,c18ccbc9-7f15-4741-8d2d-fdb87ffa22c1,0.6000000000000001,"(29, 24)","(35, 4)","(28, 3)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c18ccbc9-7f15-4741-8d2d-fdb87ffa22c1.png,6812
+Bot 3,bae30629-9d53-4003-ac15-b6a7a9a02bb9,0.6000000000000001,"(29, 24)","(35, 4)","(28, 3)",17,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bae30629-9d53-4003-ac15-b6a7a9a02bb9.png,6812
+Bot 4,5acf8c57-fe4d-493b-9051-44604d3475b0,0.6000000000000001,"(29, 24)","(35, 4)","(28, 3)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5acf8c57-fe4d-493b-9051-44604d3475b0.png,6812
+Bot 1,7887dadc-6ac4-4cd9-b969-b32026b6707b,0.6000000000000001,"(17, 36)","(11, 15)","(2, 15)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7887dadc-6ac4-4cd9-b969-b32026b6707b.png,8309
+Bot 2,fe5fb6cd-cb2f-4183-9df8-17947c43af3f,0.6000000000000001,"(17, 36)","(11, 15)","(2, 15)",19,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fe5fb6cd-cb2f-4183-9df8-17947c43af3f.png,8309
+Bot 3,d9f428cd-3053-4d1f-a9ec-7d2d97e2af6d,0.6000000000000001,"(17, 36)","(11, 15)","(2, 15)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d9f428cd-3053-4d1f-a9ec-7d2d97e2af6d.png,8309
+Bot 4,9f89b2df-af9f-40df-8d2b-9d5f9726deed,0.6000000000000001,"(17, 36)","(11, 15)","(2, 15)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9f89b2df-af9f-40df-8d2b-9d5f9726deed.png,8309
+Bot 1,c6dad966-f679-436b-9044-100c8f804bfd,0.65,"(9, 25)","(18, 11)","(23, 37)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c6dad966-f679-436b-9044-100c8f804bfd.png,9620
+Bot 2,e109606f-6a5a-45c9-b696-419d2436cc7f,0.65,"(9, 25)","(18, 11)","(23, 37)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e109606f-6a5a-45c9-b696-419d2436cc7f.png,9620
+Bot 3,58643b6a-7c91-4da7-be65-fa0cbb4c0437,0.65,"(9, 25)","(18, 11)","(23, 37)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/58643b6a-7c91-4da7-be65-fa0cbb4c0437.png,9620
+Bot 4,f53f0f75-cfb1-4742-8d0c-86b209483036,0.65,"(9, 25)","(18, 11)","(23, 37)",27,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f53f0f75-cfb1-4742-8d0c-86b209483036.png,9620
+Bot 1,0136f8e0-cd7f-4ef7-b436-4639d09df8a2,0.65,"(10, 38)","(28, 8)","(19, 6)",28,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0136f8e0-cd7f-4ef7-b436-4639d09df8a2.png,9675
+Bot 2,4f77720a-8876-45a7-975c-048ce1d1d248,0.65,"(10, 38)","(28, 8)","(19, 6)",30,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4f77720a-8876-45a7-975c-048ce1d1d248.png,9675
+Bot 3,7d6781a4-4dcc-460f-976c-5af3a935a587,0.65,"(10, 38)","(28, 8)","(19, 6)",22,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7d6781a4-4dcc-460f-976c-5af3a935a587.png,9675
+Bot 4,f494cbad-e3a7-4231-9ab7-429476aa9c81,0.65,"(10, 38)","(28, 8)","(19, 6)",22,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f494cbad-e3a7-4231-9ab7-429476aa9c81.png,9675
+Bot 1,0eeff3f5-7482-444a-a599-7aa4918e9b44,0.65,"(10, 24)","(33, 23)","(34, 35)",20,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0eeff3f5-7482-444a-a599-7aa4918e9b44.png,9086
+Bot 2,cccbce96-0fd5-40d3-9270-2dc4c64a1aec,0.65,"(10, 24)","(33, 23)","(34, 35)",21,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cccbce96-0fd5-40d3-9270-2dc4c64a1aec.png,9086
+Bot 3,4e53bb49-5114-44ae-afc0-d319947ab62d,0.65,"(10, 24)","(33, 23)","(34, 35)",21,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4e53bb49-5114-44ae-afc0-d319947ab62d.png,9086
+Bot 4,f1097956-c2fe-464b-ab8e-4352399a824d,0.65,"(10, 24)","(33, 23)","(34, 35)",24,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f1097956-c2fe-464b-ab8e-4352399a824d.png,9086
+Bot 1,02955d2b-0dd9-4b19-9469-8c37f9fe0475,0.65,"(19, 16)","(25, 33)","(8, 37)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/02955d2b-0dd9-4b19-9469-8c37f9fe0475.png,1813
+Bot 2,787ff276-267e-41d4-ab2d-8217969c0ba3,0.65,"(19, 16)","(25, 33)","(8, 37)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/787ff276-267e-41d4-ab2d-8217969c0ba3.png,1813
+Bot 3,2f9e8c73-209d-40a9-b85a-06676028e9e6,0.65,"(19, 16)","(25, 33)","(8, 37)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2f9e8c73-209d-40a9-b85a-06676028e9e6.png,1813
+Bot 4,14131a3b-92ec-4e57-8591-9512c538f27e,0.65,"(19, 16)","(25, 33)","(8, 37)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/14131a3b-92ec-4e57-8591-9512c538f27e.png,1813
+Bot 1,9fab9db3-ea8d-4476-b8bf-74ef62ab9b6a,0.65,"(8, 19)","(28, 21)","(25, 10)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9fab9db3-ea8d-4476-b8bf-74ef62ab9b6a.png,6643
+Bot 2,942a5729-26c0-48f4-b7dd-4d422109cfce,0.65,"(8, 19)","(28, 21)","(25, 10)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/942a5729-26c0-48f4-b7dd-4d422109cfce.png,6643
+Bot 3,0a93cab5-b0e9-4d89-9c97-d3f813e9b552,0.65,"(8, 19)","(28, 21)","(25, 10)",20,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0a93cab5-b0e9-4d89-9c97-d3f813e9b552.png,6643
+Bot 4,70cd2168-cc2b-4e60-9d98-4e5114a11ac1,0.65,"(8, 19)","(28, 21)","(25, 10)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/70cd2168-cc2b-4e60-9d98-4e5114a11ac1.png,6643
+Bot 1,8f865139-0160-446c-a08c-4068c151a0a0,0.65,"(10, 35)","(34, 22)","(28, 14)",21,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8f865139-0160-446c-a08c-4068c151a0a0.png,950
+Bot 2,73a30e6a-dd88-4247-8fdf-c3775b0098db,0.65,"(10, 35)","(34, 22)","(28, 14)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/73a30e6a-dd88-4247-8fdf-c3775b0098db.png,950
+Bot 3,dfb1fc20-9d11-41ba-87b2-65a50894fc96,0.65,"(10, 35)","(34, 22)","(28, 14)",20,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dfb1fc20-9d11-41ba-87b2-65a50894fc96.png,950
+Bot 4,c5feef35-1af5-440a-9d3c-fa1272ddc8e4,0.65,"(10, 35)","(34, 22)","(28, 14)",23,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c5feef35-1af5-440a-9d3c-fa1272ddc8e4.png,950
+Bot 1,3968f2ae-8acc-4183-b916-f99c5b831363,0.65,"(27, 25)","(26, 20)","(13, 16)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3968f2ae-8acc-4183-b916-f99c5b831363.png,6167
+Bot 2,a8855a70-dc35-4dd4-8d5e-7b0cb3dec7dc,0.65,"(27, 25)","(26, 20)","(13, 16)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a8855a70-dc35-4dd4-8d5e-7b0cb3dec7dc.png,6167
+Bot 3,656378cd-9389-4fea-9df4-d257862645db,0.65,"(27, 25)","(26, 20)","(13, 16)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/656378cd-9389-4fea-9df4-d257862645db.png,6167
+Bot 4,f9bc61b4-10b0-42f0-9e5f-934ac3145bc7,0.65,"(27, 25)","(26, 20)","(13, 16)",8,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f9bc61b4-10b0-42f0-9e5f-934ac3145bc7.png,6167
+Bot 1,edbb0757-15b7-4056-a15b-60e72c364cd7,0.65,"(32, 4)","(13, 10)","(35, 13)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/edbb0757-15b7-4056-a15b-60e72c364cd7.png,8353
+Bot 2,b9559208-d9bf-4d5a-af75-c6b4d76dbd0c,0.65,"(32, 4)","(13, 10)","(35, 13)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b9559208-d9bf-4d5a-af75-c6b4d76dbd0c.png,8353
+Bot 3,73badc01-73d2-4733-a223-bbb333e77f60,0.65,"(32, 4)","(13, 10)","(35, 13)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/73badc01-73d2-4733-a223-bbb333e77f60.png,8353
+Bot 4,fc86c8f1-8762-46c4-b3f3-9081710fc7c7,0.65,"(32, 4)","(13, 10)","(35, 13)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fc86c8f1-8762-46c4-b3f3-9081710fc7c7.png,8353
+Bot 1,2a4cd30f-3de1-485d-a380-60ccc71208ed,0.65,"(28, 20)","(20, 1)","(24, 7)",11,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2a4cd30f-3de1-485d-a380-60ccc71208ed.png,6588
+Bot 2,4840a050-ca86-4f7f-b963-6b88f103fb99,0.65,"(28, 20)","(20, 1)","(24, 7)",11,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4840a050-ca86-4f7f-b963-6b88f103fb99.png,6588
+Bot 3,12d64735-d667-4070-ab0c-4cbb05b6bbc5,0.65,"(28, 20)","(20, 1)","(24, 7)",10,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/12d64735-d667-4070-ab0c-4cbb05b6bbc5.png,6588
+Bot 4,1701e177-2991-4a8c-b88a-26a859dadb16,0.65,"(28, 20)","(20, 1)","(24, 7)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1701e177-2991-4a8c-b88a-26a859dadb16.png,6588
+Bot 1,ec00790a-d54c-4e06-8a40-20531698aa12,0.65,"(1, 26)","(25, 6)","(5, 7)",19,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ec00790a-d54c-4e06-8a40-20531698aa12.png,4218
+Bot 2,32eb5120-47fa-449a-b62a-414d5d3c0073,0.65,"(1, 26)","(25, 6)","(5, 7)",34,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/32eb5120-47fa-449a-b62a-414d5d3c0073.png,4218
+Bot 3,421c184e-a93b-4392-917e-f33146fb1a8d,0.65,"(1, 26)","(25, 6)","(5, 7)",31,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/421c184e-a93b-4392-917e-f33146fb1a8d.png,4218
+Bot 4,1b0b1a85-4249-49ba-a2b6-7c72c94313f1,0.65,"(1, 26)","(25, 6)","(5, 7)",32,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1b0b1a85-4249-49ba-a2b6-7c72c94313f1.png,4218
+Bot 1,ec1bf869-37a6-4197-9b39-a9a8d699b98e,0.7000000000000001,"(25, 3)","(32, 25)","(35, 20)",8,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ec1bf869-37a6-4197-9b39-a9a8d699b98e.png,4073
+Bot 2,53952bdc-ac84-4bb9-82b5-7bf7c4b5700c,0.7000000000000001,"(25, 3)","(32, 25)","(35, 20)",7,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/53952bdc-ac84-4bb9-82b5-7bf7c4b5700c.png,4073
+Bot 3,ca5ea7e1-7cdc-417a-881c-1b559828cddd,0.7000000000000001,"(25, 3)","(32, 25)","(35, 20)",10,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ca5ea7e1-7cdc-417a-881c-1b559828cddd.png,4073
+Bot 4,902616a7-120f-46ce-9575-84afe1b0941d,0.7000000000000001,"(25, 3)","(32, 25)","(35, 20)",10,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/902616a7-120f-46ce-9575-84afe1b0941d.png,4073
+Bot 1,e5c65880-84e6-4aba-8e20-6ffcb9afe46b,0.7000000000000001,"(17, 20)","(6, 38)","(36, 15)",39,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e5c65880-84e6-4aba-8e20-6ffcb9afe46b.png,9490
+Bot 2,780700a3-5ff3-44ed-9621-29f4458cf35a,0.7000000000000001,"(17, 20)","(6, 38)","(36, 15)",39,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/780700a3-5ff3-44ed-9621-29f4458cf35a.png,9490
+Bot 3,20955eef-3eb3-45b3-9391-027ea90d17f0,0.7000000000000001,"(17, 20)","(6, 38)","(36, 15)",39,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/20955eef-3eb3-45b3-9391-027ea90d17f0.png,9490
+Bot 4,a4bc9d45-b69e-4327-96fa-69929f4b9dc5,0.7000000000000001,"(17, 20)","(6, 38)","(36, 15)",39,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a4bc9d45-b69e-4327-96fa-69929f4b9dc5.png,9490
+Bot 1,6870ee9c-e8a5-413a-bdb9-14f73b2c5d2e,0.7000000000000001,"(36, 14)","(17, 36)","(12, 33)",8,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6870ee9c-e8a5-413a-bdb9-14f73b2c5d2e.png,7347
+Bot 2,9c3a076e-e238-4cd0-8a81-52f65f690d4f,0.7000000000000001,"(36, 14)","(17, 36)","(12, 33)",7,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9c3a076e-e238-4cd0-8a81-52f65f690d4f.png,7347
+Bot 3,ad4030d9-f639-4d02-863f-20ba4c1fcc79,0.7000000000000001,"(36, 14)","(17, 36)","(12, 33)",9,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ad4030d9-f639-4d02-863f-20ba4c1fcc79.png,7347
+Bot 4,61705fc3-394b-4f54-9ae4-3906f3d913a3,0.7000000000000001,"(36, 14)","(17, 36)","(12, 33)",9,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/61705fc3-394b-4f54-9ae4-3906f3d913a3.png,7347
+Bot 1,2f0fbd27-2e65-4be8-82ea-c945f313373b,0.7000000000000001,"(37, 35)","(2, 17)","(25, 7)",26,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2f0fbd27-2e65-4be8-82ea-c945f313373b.png,3565
+Bot 2,ae4205fb-bbbf-4e12-a7eb-499a924e988e,0.7000000000000001,"(37, 35)","(2, 17)","(25, 7)",31,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ae4205fb-bbbf-4e12-a7eb-499a924e988e.png,3565
+Bot 3,9a9e396d-4f07-4d59-9226-731a3dd7b905,0.7000000000000001,"(37, 35)","(2, 17)","(25, 7)",27,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9a9e396d-4f07-4d59-9226-731a3dd7b905.png,3565
+Bot 4,1ed3b57e-f9e4-4a17-a953-75bde58c8d59,0.7000000000000001,"(37, 35)","(2, 17)","(25, 7)",41,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1ed3b57e-f9e4-4a17-a953-75bde58c8d59.png,3565
+Bot 1,1ce65250-5036-4a1d-af1c-8a3816f9f30e,0.7000000000000001,"(1, 27)","(28, 16)","(33, 34)",31,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1ce65250-5036-4a1d-af1c-8a3816f9f30e.png,193
+Bot 2,ec640010-e9ed-4749-a504-78d39cb51503,0.7000000000000001,"(1, 27)","(28, 16)","(33, 34)",33,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ec640010-e9ed-4749-a504-78d39cb51503.png,193
+Bot 3,c54ddc5d-712b-4bd4-860c-64e5b8236106,0.7000000000000001,"(1, 27)","(28, 16)","(33, 34)",31,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c54ddc5d-712b-4bd4-860c-64e5b8236106.png,193
+Bot 4,83dd1ee5-e787-47cd-9e35-c1079b43d3de,0.7000000000000001,"(1, 27)","(28, 16)","(33, 34)",39,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/83dd1ee5-e787-47cd-9e35-c1079b43d3de.png,193
+Bot 1,b3d58567-2048-433b-9dd1-35524f0108ac,0.7000000000000001,"(30, 16)","(38, 29)","(21, 3)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b3d58567-2048-433b-9dd1-35524f0108ac.png,5384
+Bot 2,321dea7b-fd05-460a-9215-38dce1e5bf62,0.7000000000000001,"(30, 16)","(38, 29)","(21, 3)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/321dea7b-fd05-460a-9215-38dce1e5bf62.png,5384
+Bot 3,a775afde-5e40-4510-9dba-0f4554028aae,0.7000000000000001,"(30, 16)","(38, 29)","(21, 3)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a775afde-5e40-4510-9dba-0f4554028aae.png,5384
+Bot 4,f7192a2c-3551-4176-a9c3-503bc614aebe,0.7000000000000001,"(30, 16)","(38, 29)","(21, 3)",23,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f7192a2c-3551-4176-a9c3-503bc614aebe.png,5384
+Bot 1,1a9628c5-c788-46f4-b733-50cd641197e4,0.7000000000000001,"(35, 9)","(19, 12)","(14, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1a9628c5-c788-46f4-b733-50cd641197e4.png,478
+Bot 2,e91035ac-951b-4bc6-8269-22d186f70e6d,0.7000000000000001,"(35, 9)","(19, 12)","(14, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e91035ac-951b-4bc6-8269-22d186f70e6d.png,478
+Bot 3,835af8f4-ccee-4904-8339-719e25a6910f,0.7000000000000001,"(35, 9)","(19, 12)","(14, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/835af8f4-ccee-4904-8339-719e25a6910f.png,478
+Bot 4,20c47c1c-9222-421e-b289-a6e05633870f,0.7000000000000001,"(35, 9)","(19, 12)","(14, 34)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/20c47c1c-9222-421e-b289-a6e05633870f.png,478
+Bot 1,69a40078-bcbc-480b-8f5f-437a53eed52b,0.7000000000000001,"(35, 18)","(4, 8)","(9, 14)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/69a40078-bcbc-480b-8f5f-437a53eed52b.png,2766
+Bot 2,47053df7-6fc6-4266-aee9-a6a7e50e7333,0.7000000000000001,"(35, 18)","(4, 8)","(9, 14)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/47053df7-6fc6-4266-aee9-a6a7e50e7333.png,2766
+Bot 3,5faa9390-5a69-4225-9953-5e6a052dec79,0.7000000000000001,"(35, 18)","(4, 8)","(9, 14)",11,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5faa9390-5a69-4225-9953-5e6a052dec79.png,2766
+Bot 4,c59981c6-6095-4256-a8dd-9a991cc94339,0.7000000000000001,"(35, 18)","(4, 8)","(9, 14)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c59981c6-6095-4256-a8dd-9a991cc94339.png,2766
+Bot 1,8289901b-59ba-4d3c-af22-8991932ce504,0.7000000000000001,"(26, 3)","(30, 4)","(23, 14)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8289901b-59ba-4d3c-af22-8991932ce504.png,1535
+Bot 2,d5c9d4ca-29c3-44ae-9531-0c48c79ad682,0.7000000000000001,"(26, 3)","(30, 4)","(23, 14)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d5c9d4ca-29c3-44ae-9531-0c48c79ad682.png,1535
+Bot 3,33715eb2-db32-43dd-a7cc-58481105d3d4,0.7000000000000001,"(26, 3)","(30, 4)","(23, 14)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/33715eb2-db32-43dd-a7cc-58481105d3d4.png,1535
+Bot 4,db052d68-094c-429c-9d68-f8ffe1bfce6d,0.7000000000000001,"(26, 3)","(30, 4)","(23, 14)",5,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/db052d68-094c-429c-9d68-f8ffe1bfce6d.png,1535
+Bot 1,d4ec939b-adba-4683-afb8-9c6e76854b96,0.7000000000000001,"(34, 6)","(4, 31)","(12, 31)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d4ec939b-adba-4683-afb8-9c6e76854b96.png,9004
+Bot 2,d7523c68-1371-42b2-8df8-dd65f8160416,0.7000000000000001,"(34, 6)","(4, 31)","(12, 31)",16,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d7523c68-1371-42b2-8df8-dd65f8160416.png,9004
+Bot 3,12cc3bd7-b77b-4fd7-8bc0-e2b86c60eeeb,0.7000000000000001,"(34, 6)","(4, 31)","(12, 31)",16,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/12cc3bd7-b77b-4fd7-8bc0-e2b86c60eeeb.png,9004
+Bot 4,fd248fb2-0c3b-4eac-8b7a-3fb988b3ec47,0.7000000000000001,"(34, 6)","(4, 31)","(12, 31)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fd248fb2-0c3b-4eac-8b7a-3fb988b3ec47.png,9004
+Bot 1,64b7875e-63b7-4475-8892-a4fbf7e8e88a,0.75,"(4, 35)","(35, 28)","(11, 1)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/64b7875e-63b7-4475-8892-a4fbf7e8e88a.png,4913
+Bot 2,67f55169-1e74-45a4-aea6-6b08ceee2776,0.75,"(4, 35)","(35, 28)","(11, 1)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/67f55169-1e74-45a4-aea6-6b08ceee2776.png,4913
+Bot 3,0b598bcd-600a-4cc2-b807-4ee97a6d689c,0.75,"(4, 35)","(35, 28)","(11, 1)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0b598bcd-600a-4cc2-b807-4ee97a6d689c.png,4913
+Bot 4,a08e54cd-2ac4-48f7-838e-724d3e9f5171,0.75,"(4, 35)","(35, 28)","(11, 1)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a08e54cd-2ac4-48f7-838e-724d3e9f5171.png,4913
+Bot 1,09070ef1-89db-49df-836d-bb670c7b34f8,0.75,"(7, 15)","(32, 28)","(8, 18)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/09070ef1-89db-49df-836d-bb670c7b34f8.png,1322
+Bot 2,908c8731-25d6-4056-8c3e-657c3825a5a6,0.75,"(7, 15)","(32, 28)","(8, 18)",40,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/908c8731-25d6-4056-8c3e-657c3825a5a6.png,1322
+Bot 3,fe609609-e114-418b-bfa5-585b61e6596c,0.75,"(7, 15)","(32, 28)","(8, 18)",18,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fe609609-e114-418b-bfa5-585b61e6596c.png,1322
+Bot 4,25e5582a-fb24-416f-a642-a092593baa64,0.75,"(7, 15)","(32, 28)","(8, 18)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/25e5582a-fb24-416f-a642-a092593baa64.png,1322
+Bot 1,e51a16ec-2cdd-4c9e-a1ab-29cef9581d09,0.75,"(36, 13)","(16, 24)","(31, 5)",35,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e51a16ec-2cdd-4c9e-a1ab-29cef9581d09.png,1657
+Bot 2,977d9984-cdcb-42df-89cd-50a901c3f0f2,0.75,"(36, 13)","(16, 24)","(31, 5)",35,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/977d9984-cdcb-42df-89cd-50a901c3f0f2.png,1657
+Bot 3,284285a5-2c4a-4275-894f-160a1c459c5a,0.75,"(36, 13)","(16, 24)","(31, 5)",35,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/284285a5-2c4a-4275-894f-160a1c459c5a.png,1657
+Bot 4,b1ca327b-0f07-4184-ae28-51714478f1e0,0.75,"(36, 13)","(16, 24)","(31, 5)",35,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b1ca327b-0f07-4184-ae28-51714478f1e0.png,1657
+Bot 1,24ddea8a-929a-4574-b0fc-8257d1941c85,0.75,"(26, 3)","(3, 24)","(10, 2)",26,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/24ddea8a-929a-4574-b0fc-8257d1941c85.png,2654
+Bot 2,8cea2794-6e9f-4f15-8602-9f21b4167632,0.75,"(26, 3)","(3, 24)","(10, 2)",23,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8cea2794-6e9f-4f15-8602-9f21b4167632.png,2654
+Bot 3,c4e66563-b6f9-4d39-bf19-8b0f20a95f38,0.75,"(26, 3)","(3, 24)","(10, 2)",35,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c4e66563-b6f9-4d39-bf19-8b0f20a95f38.png,2654
+Bot 4,28fc8767-ee5d-4c6f-86ec-8a4e73b395c3,0.75,"(26, 3)","(3, 24)","(10, 2)",34,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/28fc8767-ee5d-4c6f-86ec-8a4e73b395c3.png,2654
+Bot 1,176a2327-d781-43f8-a4f7-e4080d10e866,0.75,"(26, 32)","(8, 3)","(37, 21)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/176a2327-d781-43f8-a4f7-e4080d10e866.png,4376
+Bot 2,6a3ddb0f-41c7-4f90-ba0c-38536deef74e,0.75,"(26, 32)","(8, 3)","(37, 21)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6a3ddb0f-41c7-4f90-ba0c-38536deef74e.png,4376
+Bot 3,8c0da2da-5231-44af-b99e-dc344c396c06,0.75,"(26, 32)","(8, 3)","(37, 21)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8c0da2da-5231-44af-b99e-dc344c396c06.png,4376
+Bot 4,5f6be2fa-bae9-4e64-b3a3-727accccecc4,0.75,"(26, 32)","(8, 3)","(37, 21)",49,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5f6be2fa-bae9-4e64-b3a3-727accccecc4.png,4376
+Bot 1,2921ac9f-90dc-4d11-ac43-1af3a89249ef,0.75,"(34, 18)","(1, 15)","(34, 1)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2921ac9f-90dc-4d11-ac43-1af3a89249ef.png,5508
+Bot 2,2b0dd961-a60c-467a-a94b-b99ae5cefe6d,0.75,"(34, 18)","(1, 15)","(34, 1)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2b0dd961-a60c-467a-a94b-b99ae5cefe6d.png,5508
+Bot 3,b1f49df6-8660-4026-9cea-4aff1278a9f2,0.75,"(34, 18)","(1, 15)","(34, 1)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b1f49df6-8660-4026-9cea-4aff1278a9f2.png,5508
+Bot 4,3aaf3cc5-c389-411f-8ed9-a423b362cab6,0.75,"(34, 18)","(1, 15)","(34, 1)",48,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3aaf3cc5-c389-411f-8ed9-a423b362cab6.png,5508
+Bot 1,9cf211a6-24a7-428a-b9cb-d23cbad57290,0.75,"(2, 33)","(22, 34)","(7, 35)",3,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9cf211a6-24a7-428a-b9cb-d23cbad57290.png,9394
+Bot 2,c48acaa8-b55a-49e3-aafb-d2fbd396cbbc,0.75,"(2, 33)","(22, 34)","(7, 35)",19,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c48acaa8-b55a-49e3-aafb-d2fbd396cbbc.png,9394
+Bot 3,e749c803-1404-47a6-a578-359ee7e5eafd,0.75,"(2, 33)","(22, 34)","(7, 35)",28,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e749c803-1404-47a6-a578-359ee7e5eafd.png,9394
+Bot 4,1a7f540b-6b74-4cd6-a01d-04ecd0410eb6,0.75,"(2, 33)","(22, 34)","(7, 35)",28,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1a7f540b-6b74-4cd6-a01d-04ecd0410eb6.png,9394
+Bot 1,568d92f5-62d5-4205-89d4-9d07b9980883,0.75,"(1, 20)","(14, 26)","(29, 36)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/568d92f5-62d5-4205-89d4-9d07b9980883.png,5567
+Bot 2,fddec8f1-06c2-4cf9-8150-7bf72a40b19b,0.75,"(1, 20)","(14, 26)","(29, 36)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fddec8f1-06c2-4cf9-8150-7bf72a40b19b.png,5567
+Bot 3,d347af8d-4d70-496e-9e30-58b5dc41b58a,0.75,"(1, 20)","(14, 26)","(29, 36)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d347af8d-4d70-496e-9e30-58b5dc41b58a.png,5567
+Bot 4,433a734f-f1f4-47b0-ba0c-eeabc5a7ef47,0.75,"(1, 20)","(14, 26)","(29, 36)",31,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/433a734f-f1f4-47b0-ba0c-eeabc5a7ef47.png,5567
+Bot 1,bd0279d0-c824-4049-a66e-a589c44aea45,0.75,"(22, 29)","(38, 10)","(27, 18)",9,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bd0279d0-c824-4049-a66e-a589c44aea45.png,3719
+Bot 2,eb11d850-3837-49e9-98d0-96f431a77be1,0.75,"(22, 29)","(38, 10)","(27, 18)",16,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/eb11d850-3837-49e9-98d0-96f431a77be1.png,3719
+Bot 3,23aea951-2208-41fd-aa19-4f8c9949aab4,0.75,"(22, 29)","(38, 10)","(27, 18)",19,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/23aea951-2208-41fd-aa19-4f8c9949aab4.png,3719
+Bot 4,209ffaae-7176-4f70-bf47-d497e301cdce,0.75,"(22, 29)","(38, 10)","(27, 18)",19,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/209ffaae-7176-4f70-bf47-d497e301cdce.png,3719
+Bot 1,8913b49d-beae-48f2-8ccd-95ad3cf8ac5d,0.75,"(15, 34)","(13, 26)","(4, 21)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8913b49d-beae-48f2-8ccd-95ad3cf8ac5d.png,7501
+Bot 2,1f6f95f3-cd4f-4176-85cb-a503dae1a938,0.75,"(15, 34)","(13, 26)","(4, 21)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1f6f95f3-cd4f-4176-85cb-a503dae1a938.png,7501
+Bot 3,3d9ad005-0537-4b14-947d-ccc42e3571c0,0.75,"(15, 34)","(13, 26)","(4, 21)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/3d9ad005-0537-4b14-947d-ccc42e3571c0.png,7501
+Bot 4,4d0fa584-df19-478d-a7e6-464fd98497ac,0.75,"(15, 34)","(13, 26)","(4, 21)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4d0fa584-df19-478d-a7e6-464fd98497ac.png,7501
+Bot 1,88bf431b-f4a2-4a8b-bd3c-eb4999ede8fb,0.8,"(2, 23)","(18, 19)","(27, 31)",21,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/88bf431b-f4a2-4a8b-bd3c-eb4999ede8fb.png,3404
+Bot 2,2c5bf949-6f46-4b7c-b9e0-dcb4d9057f8e,0.8,"(2, 23)","(18, 19)","(27, 31)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2c5bf949-6f46-4b7c-b9e0-dcb4d9057f8e.png,3404
+Bot 3,e2e8b6fe-5ead-409e-95ad-3d3afb58cb9b,0.8,"(2, 23)","(18, 19)","(27, 31)",21,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e2e8b6fe-5ead-409e-95ad-3d3afb58cb9b.png,3404
+Bot 4,ee4f9f0f-1af8-483d-8860-735e424959cb,0.8,"(2, 23)","(18, 19)","(27, 31)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ee4f9f0f-1af8-483d-8860-735e424959cb.png,3404
+Bot 1,fa199ffa-ce2c-4f4a-a302-551609084802,0.8,"(20, 12)","(16, 1)","(31, 38)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fa199ffa-ce2c-4f4a-a302-551609084802.png,3021
+Bot 2,ac48df0c-b398-4764-8754-4cd9cec93515,0.8,"(20, 12)","(16, 1)","(31, 38)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ac48df0c-b398-4764-8754-4cd9cec93515.png,3021
+Bot 3,24f87981-ece2-4820-9332-8586939caf3c,0.8,"(20, 12)","(16, 1)","(31, 38)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/24f87981-ece2-4820-9332-8586939caf3c.png,3021
+Bot 4,87efd935-69df-4773-9d0e-b1fd4bebfced,0.8,"(20, 12)","(16, 1)","(31, 38)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/87efd935-69df-4773-9d0e-b1fd4bebfced.png,3021
+Bot 1,259951ce-a90a-4738-a6ed-28815250e01a,0.8,"(18, 13)","(21, 25)","(5, 23)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/259951ce-a90a-4738-a6ed-28815250e01a.png,8918
+Bot 2,59880169-b059-4ef3-bf2f-08144bc1b49f,0.8,"(18, 13)","(21, 25)","(5, 23)",24,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/59880169-b059-4ef3-bf2f-08144bc1b49f.png,8918
+Bot 3,7b7b84f0-c60c-49dc-912f-da6746e51533,0.8,"(18, 13)","(21, 25)","(5, 23)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7b7b84f0-c60c-49dc-912f-da6746e51533.png,8918
+Bot 4,317d4072-2cdf-4816-b952-d76f75da3b6c,0.8,"(18, 13)","(21, 25)","(5, 23)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/317d4072-2cdf-4816-b952-d76f75da3b6c.png,8918
+Bot 1,2e966ced-45d8-4a20-801f-8fa7927d92df,0.8,"(25, 29)","(29, 31)","(19, 21)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2e966ced-45d8-4a20-801f-8fa7927d92df.png,2224
+Bot 2,c7109291-c844-4d77-9618-ab08378e8d91,0.8,"(25, 29)","(29, 31)","(19, 21)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c7109291-c844-4d77-9618-ab08378e8d91.png,2224
+Bot 3,fbfed276-6ffa-417b-9b68-9c2a5d39353f,0.8,"(25, 29)","(29, 31)","(19, 21)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fbfed276-6ffa-417b-9b68-9c2a5d39353f.png,2224
+Bot 4,f6766247-1190-4f89-9bcc-ff205906ca7c,0.8,"(25, 29)","(29, 31)","(19, 21)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f6766247-1190-4f89-9bcc-ff205906ca7c.png,2224
+Bot 1,f53c24d5-3e26-47b2-a4e8-d1878e823b11,0.8,"(32, 26)","(19, 35)","(24, 9)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f53c24d5-3e26-47b2-a4e8-d1878e823b11.png,5846
+Bot 2,fba6bf78-d3d6-46a4-9ff9-da96b2821789,0.8,"(32, 26)","(19, 35)","(24, 9)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fba6bf78-d3d6-46a4-9ff9-da96b2821789.png,5846
+Bot 3,f8b7ea4c-9756-4454-974a-8a07298cb483,0.8,"(32, 26)","(19, 35)","(24, 9)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f8b7ea4c-9756-4454-974a-8a07298cb483.png,5846
+Bot 4,f69d614c-f058-431c-804b-e54884024056,0.8,"(32, 26)","(19, 35)","(24, 9)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f69d614c-f058-431c-804b-e54884024056.png,5846
+Bot 1,b9e6b62c-37a2-489d-b75e-c6a6d7a0606b,0.8,"(30, 2)","(2, 7)","(20, 17)",18,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b9e6b62c-37a2-489d-b75e-c6a6d7a0606b.png,2691
+Bot 2,a7437081-efdc-45e3-910f-982ad414b3b6,0.8,"(30, 2)","(2, 7)","(20, 17)",15,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a7437081-efdc-45e3-910f-982ad414b3b6.png,2691
+Bot 3,a75921d3-1992-4412-8e91-ea7bcc6c1899,0.8,"(30, 2)","(2, 7)","(20, 17)",16,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a75921d3-1992-4412-8e91-ea7bcc6c1899.png,2691
+Bot 4,4617d59d-b0c8-4096-a2e4-75df41a5cb73,0.8,"(30, 2)","(2, 7)","(20, 17)",17,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4617d59d-b0c8-4096-a2e4-75df41a5cb73.png,2691
+Bot 1,70afcc84-91d5-4de1-9cb3-1ec11afee8b1,0.8,"(35, 19)","(25, 16)","(10, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/70afcc84-91d5-4de1-9cb3-1ec11afee8b1.png,8927
+Bot 2,19d79f81-67dd-49b2-aae2-9235e6e0affc,0.8,"(35, 19)","(25, 16)","(10, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/19d79f81-67dd-49b2-aae2-9235e6e0affc.png,8927
+Bot 3,7e054f10-2a2d-4e97-8264-05aad4f18baf,0.8,"(35, 19)","(25, 16)","(10, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7e054f10-2a2d-4e97-8264-05aad4f18baf.png,8927
+Bot 4,8d8a3048-2570-4f36-8e7b-89057ff3176a,0.8,"(35, 19)","(25, 16)","(10, 37)",15,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8d8a3048-2570-4f36-8e7b-89057ff3176a.png,8927
+Bot 1,f9ff7913-b7a3-4e90-9501-6ad1e0ca375c,0.8,"(23, 16)","(34, 35)","(20, 15)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f9ff7913-b7a3-4e90-9501-6ad1e0ca375c.png,7043
+Bot 2,ff79ea90-7876-4ad5-abc2-2cde4a7ae726,0.8,"(23, 16)","(34, 35)","(20, 15)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ff79ea90-7876-4ad5-abc2-2cde4a7ae726.png,7043
+Bot 3,ea8ff953-bba4-4f34-97d7-a178b00de7fe,0.8,"(23, 16)","(34, 35)","(20, 15)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ea8ff953-bba4-4f34-97d7-a178b00de7fe.png,7043
+Bot 4,bf66cf89-ba33-4227-8a72-ea8151583814,0.8,"(23, 16)","(34, 35)","(20, 15)",30,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bf66cf89-ba33-4227-8a72-ea8151583814.png,7043
+Bot 1,9763064b-6b57-4a51-945e-4992252651b2,0.8,"(7, 38)","(30, 32)","(18, 29)",10,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9763064b-6b57-4a51-945e-4992252651b2.png,3050
+Bot 2,29d02ff1-907f-4393-99e2-f419d02d6639,0.8,"(7, 38)","(30, 32)","(18, 29)",7,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/29d02ff1-907f-4393-99e2-f419d02d6639.png,3050
+Bot 3,4de6db48-96be-47e9-9fb1-f8f3f9ded4c0,0.8,"(7, 38)","(30, 32)","(18, 29)",8,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4de6db48-96be-47e9-9fb1-f8f3f9ded4c0.png,3050
+Bot 4,40f34599-a692-4e2f-a8af-81e9407ffd68,0.8,"(7, 38)","(30, 32)","(18, 29)",20,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/40f34599-a692-4e2f-a8af-81e9407ffd68.png,3050
+Bot 1,ea3d5c50-735d-4d40-bf68-aeee9790a62b,0.8,"(29, 14)","(13, 13)","(6, 27)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ea3d5c50-735d-4d40-bf68-aeee9790a62b.png,8354
+Bot 2,88293d9b-883c-4fc2-9a52-f8143701eaca,0.8,"(29, 14)","(13, 13)","(6, 27)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/88293d9b-883c-4fc2-9a52-f8143701eaca.png,8354
+Bot 3,e560d2e7-3635-469f-b30c-3cf7e55caa4d,0.8,"(29, 14)","(13, 13)","(6, 27)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e560d2e7-3635-469f-b30c-3cf7e55caa4d.png,8354
+Bot 4,b80ccf10-4208-4d42-b28e-2f57b5374de0,0.8,"(29, 14)","(13, 13)","(6, 27)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b80ccf10-4208-4d42-b28e-2f57b5374de0.png,8354
+Bot 1,36a89a78-037a-418d-902e-2d908abf737b,0.8500000000000001,"(3, 3)","(13, 6)","(18, 17)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/36a89a78-037a-418d-902e-2d908abf737b.png,1023
+Bot 2,101a85d1-b9c3-47d0-a14a-f946c4538b47,0.8500000000000001,"(3, 3)","(13, 6)","(18, 17)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/101a85d1-b9c3-47d0-a14a-f946c4538b47.png,1023
+Bot 3,7c09dc1a-5baa-4ca1-8dce-42b0ef78efa6,0.8500000000000001,"(3, 3)","(13, 6)","(18, 17)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7c09dc1a-5baa-4ca1-8dce-42b0ef78efa6.png,1023
+Bot 4,8cbb3639-4418-4e3c-8cca-0beb0de0eb8c,0.8500000000000001,"(3, 3)","(13, 6)","(18, 17)",17,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8cbb3639-4418-4e3c-8cca-0beb0de0eb8c.png,1023
+Bot 1,8c4cb0a6-476e-493c-8a76-9210afe4a31e,0.8500000000000001,"(17, 29)","(20, 1)","(6, 34)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8c4cb0a6-476e-493c-8a76-9210afe4a31e.png,3273
+Bot 2,13837898-5c0c-453c-bec7-a6faa07a672f,0.8500000000000001,"(17, 29)","(20, 1)","(6, 34)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/13837898-5c0c-453c-bec7-a6faa07a672f.png,3273
+Bot 3,37f35d9f-5551-43c0-8c59-77178bce91eb,0.8500000000000001,"(17, 29)","(20, 1)","(6, 34)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/37f35d9f-5551-43c0-8c59-77178bce91eb.png,3273
+Bot 4,4c58aa27-97e0-4209-93b2-bae75779667e,0.8500000000000001,"(17, 29)","(20, 1)","(6, 34)",37,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4c58aa27-97e0-4209-93b2-bae75779667e.png,3273
+Bot 1,82c379cd-6e17-4c26-b435-e08e5e4c58b8,0.8500000000000001,"(5, 9)","(24, 1)","(15, 9)",7,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/82c379cd-6e17-4c26-b435-e08e5e4c58b8.png,2120
+Bot 2,5a0b8144-61a5-4da4-b0bf-e250611d9b50,0.8500000000000001,"(5, 9)","(24, 1)","(15, 9)",18,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5a0b8144-61a5-4da4-b0bf-e250611d9b50.png,2120
+Bot 3,586cb662-223c-47d7-84d5-d9cd847ae5bd,0.8500000000000001,"(5, 9)","(24, 1)","(15, 9)",17,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/586cb662-223c-47d7-84d5-d9cd847ae5bd.png,2120
+Bot 4,e0f448ef-e502-47a1-904e-4bdba11d02fb,0.8500000000000001,"(5, 9)","(24, 1)","(15, 9)",17,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e0f448ef-e502-47a1-904e-4bdba11d02fb.png,2120
+Bot 1,5f032efd-ec48-492c-a982-179055eac6ef,0.8500000000000001,"(19, 1)","(15, 5)","(3, 14)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5f032efd-ec48-492c-a982-179055eac6ef.png,59
+Bot 2,5b7a5ff9-33b0-4d77-843a-b41670f3876c,0.8500000000000001,"(19, 1)","(15, 5)","(3, 14)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5b7a5ff9-33b0-4d77-843a-b41670f3876c.png,59
+Bot 3,f3701c49-881a-45b4-b4da-403967bf5ce7,0.8500000000000001,"(19, 1)","(15, 5)","(3, 14)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f3701c49-881a-45b4-b4da-403967bf5ce7.png,59
+Bot 4,f5134ebd-3411-40c5-bb72-d8e537901362,0.8500000000000001,"(19, 1)","(15, 5)","(3, 14)",12,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f5134ebd-3411-40c5-bb72-d8e537901362.png,59
+Bot 1,153b88c3-1ee3-4b06-b2a6-653440aceab8,0.8500000000000001,"(17, 9)","(13, 35)","(33, 16)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/153b88c3-1ee3-4b06-b2a6-653440aceab8.png,6576
+Bot 2,55b49839-c11c-4fa8-ad46-617b38f5035a,0.8500000000000001,"(17, 9)","(13, 35)","(33, 16)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/55b49839-c11c-4fa8-ad46-617b38f5035a.png,6576
+Bot 3,dbb37773-7236-44d0-96a0-b33683c6ce3d,0.8500000000000001,"(17, 9)","(13, 35)","(33, 16)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/dbb37773-7236-44d0-96a0-b33683c6ce3d.png,6576
+Bot 4,86619eaa-5825-42e2-a8e8-f0d61fda1f4d,0.8500000000000001,"(17, 9)","(13, 35)","(33, 16)",34,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/86619eaa-5825-42e2-a8e8-f0d61fda1f4d.png,6576
+Bot 1,069e3580-2a07-4dee-8717-b35c25fddba5,0.8500000000000001,"(35, 25)","(16, 1)","(16, 38)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/069e3580-2a07-4dee-8717-b35c25fddba5.png,5464
+Bot 2,421eb062-dda7-4078-9e27-c542790eb44b,0.8500000000000001,"(35, 25)","(16, 1)","(16, 38)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/421eb062-dda7-4078-9e27-c542790eb44b.png,5464
+Bot 3,bad11839-dbe3-47d6-b78b-481d24432a24,0.8500000000000001,"(35, 25)","(16, 1)","(16, 38)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bad11839-dbe3-47d6-b78b-481d24432a24.png,5464
+Bot 4,90e26ac9-6f68-443b-adb8-3e25fec3b81d,0.8500000000000001,"(35, 25)","(16, 1)","(16, 38)",45,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/90e26ac9-6f68-443b-adb8-3e25fec3b81d.png,5464
+Bot 1,4f80f5b0-9218-4e50-8235-deb17590c2e6,0.8500000000000001,"(20, 26)","(32, 1)","(35, 34)",41,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4f80f5b0-9218-4e50-8235-deb17590c2e6.png,9575
+Bot 2,a8497d9d-8e52-4ced-b66f-f97ad2c1d5d8,0.8500000000000001,"(20, 26)","(32, 1)","(35, 34)",41,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a8497d9d-8e52-4ced-b66f-f97ad2c1d5d8.png,9575
+Bot 3,d8e97426-aefa-41e7-b3c4-c4888a2b46e0,0.8500000000000001,"(20, 26)","(32, 1)","(35, 34)",41,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d8e97426-aefa-41e7-b3c4-c4888a2b46e0.png,9575
+Bot 4,4344273c-5e89-4265-b6f4-57bb465d40d2,0.8500000000000001,"(20, 26)","(32, 1)","(35, 34)",41,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4344273c-5e89-4265-b6f4-57bb465d40d2.png,9575
+Bot 1,55fb280c-1e6f-4581-b32f-bf44ab8b1ae9,0.8500000000000001,"(6, 3)","(16, 11)","(11, 22)",13,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/55fb280c-1e6f-4581-b32f-bf44ab8b1ae9.png,1505
+Bot 2,c17f7d6a-9809-4aaa-a938-fc328cb2f6b9,0.8500000000000001,"(6, 3)","(16, 11)","(11, 22)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c17f7d6a-9809-4aaa-a938-fc328cb2f6b9.png,1505
+Bot 3,e02dd4d7-a970-4dc6-92cd-aea1814c6033,0.8500000000000001,"(6, 3)","(16, 11)","(11, 22)",15,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e02dd4d7-a970-4dc6-92cd-aea1814c6033.png,1505
+Bot 4,ac7a01e2-1a94-4ba5-9ada-be2ee6943cb0,0.8500000000000001,"(6, 3)","(16, 11)","(11, 22)",15,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ac7a01e2-1a94-4ba5-9ada-be2ee6943cb0.png,1505
+Bot 1,8645d428-dc67-4761-92f1-48ccbe54d020,0.8500000000000001,"(12, 24)","(34, 7)","(16, 28)",39,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8645d428-dc67-4761-92f1-48ccbe54d020.png,3180
+Bot 2,ad87c452-e3b2-4f7c-80f0-45da73211f1f,0.8500000000000001,"(12, 24)","(34, 7)","(16, 28)",39,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ad87c452-e3b2-4f7c-80f0-45da73211f1f.png,3180
+Bot 3,4d90620e-b48f-4a4d-b4da-3d64be158594,0.8500000000000001,"(12, 24)","(34, 7)","(16, 28)",25,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4d90620e-b48f-4a4d-b4da-3d64be158594.png,3180
+Bot 4,b64bc899-e901-4afa-a0ba-91fb9571dfd0,0.8500000000000001,"(12, 24)","(34, 7)","(16, 28)",4,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b64bc899-e901-4afa-a0ba-91fb9571dfd0.png,3180
+Bot 1,d325614d-3400-478c-91ce-f2b9821d42d1,0.8500000000000001,"(6, 24)","(25, 16)","(25, 3)",16,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d325614d-3400-478c-91ce-f2b9821d42d1.png,4425
+Bot 2,e228a655-5e10-4000-9c5c-e15cf73ca52a,0.8500000000000001,"(6, 24)","(25, 16)","(25, 3)",15,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e228a655-5e10-4000-9c5c-e15cf73ca52a.png,4425
+Bot 3,854cf8f6-ba7c-410d-8d1b-11ceea93f2ed,0.8500000000000001,"(6, 24)","(25, 16)","(25, 3)",16,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/854cf8f6-ba7c-410d-8d1b-11ceea93f2ed.png,4425
+Bot 4,a290126b-8682-4475-bc20-e2157165042e,0.8500000000000001,"(6, 24)","(25, 16)","(25, 3)",17,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a290126b-8682-4475-bc20-e2157165042e.png,4425
+Bot 1,8ef958c9-88fb-44c7-b43d-30c9ab2e3424,0.9,"(5, 37)","(12, 3)","(11, 21)",11,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8ef958c9-88fb-44c7-b43d-30c9ab2e3424.png,5791
+Bot 2,1e3e0811-732f-4540-9011-c838875dd449,0.9,"(5, 37)","(12, 3)","(11, 21)",19,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1e3e0811-732f-4540-9011-c838875dd449.png,5791
+Bot 3,27d3a916-341a-45b7-9d99-9dd421322ccc,0.9,"(5, 37)","(12, 3)","(11, 21)",23,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/27d3a916-341a-45b7-9d99-9dd421322ccc.png,5791
+Bot 4,72eeeebf-1583-4774-a64c-7b2c5a4f9409,0.9,"(5, 37)","(12, 3)","(11, 21)",14,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/72eeeebf-1583-4774-a64c-7b2c5a4f9409.png,5791
+Bot 1,afd53b6b-c1a8-415d-a041-67a65f90b01b,0.9,"(17, 22)","(22, 6)","(6, 3)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/afd53b6b-c1a8-415d-a041-67a65f90b01b.png,5947
+Bot 2,15d0f97a-1c13-411e-80ad-b6c9e8c7fb9f,0.9,"(17, 22)","(22, 6)","(6, 3)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/15d0f97a-1c13-411e-80ad-b6c9e8c7fb9f.png,5947
+Bot 3,fb6c4e81-9365-4a38-a9c5-c533abc3f878,0.9,"(17, 22)","(22, 6)","(6, 3)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fb6c4e81-9365-4a38-a9c5-c533abc3f878.png,5947
+Bot 4,70937967-65e0-4808-9cc2-a65c106c6c54,0.9,"(17, 22)","(22, 6)","(6, 3)",21,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/70937967-65e0-4808-9cc2-a65c106c6c54.png,5947
+Bot 1,20ae271d-ee7d-4a08-bda9-61c86351c93b,0.9,"(15, 25)","(4, 33)","(20, 5)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/20ae271d-ee7d-4a08-bda9-61c86351c93b.png,5160
+Bot 2,4ee41717-5bb2-4bea-9b6f-baae977a29f6,0.9,"(15, 25)","(4, 33)","(20, 5)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4ee41717-5bb2-4bea-9b6f-baae977a29f6.png,5160
+Bot 3,a20134f4-2230-4863-8251-84e28e7a803b,0.9,"(15, 25)","(4, 33)","(20, 5)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a20134f4-2230-4863-8251-84e28e7a803b.png,5160
+Bot 4,4ce270db-af65-47bb-a6ef-13d0741ce259,0.9,"(15, 25)","(4, 33)","(20, 5)",25,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4ce270db-af65-47bb-a6ef-13d0741ce259.png,5160
+Bot 1,9ac6ac0c-b261-41f6-b3a3-199fdf4e82e9,0.9,"(11, 36)","(17, 17)","(19, 16)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9ac6ac0c-b261-41f6-b3a3-199fdf4e82e9.png,9756
+Bot 2,6f460156-13c9-4b69-823d-b90073e482d2,0.9,"(11, 36)","(17, 17)","(19, 16)",7,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6f460156-13c9-4b69-823d-b90073e482d2.png,9756
+Bot 3,ae839a7b-eb57-4fab-82c7-61d5bd20bc6d,0.9,"(11, 36)","(17, 17)","(19, 16)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ae839a7b-eb57-4fab-82c7-61d5bd20bc6d.png,9756
+Bot 4,c9128c71-db46-4817-a706-2ad72a4312d4,0.9,"(11, 36)","(17, 17)","(19, 16)",7,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c9128c71-db46-4817-a706-2ad72a4312d4.png,9756
+Bot 1,ca0543a9-2a67-4e81-a05c-bbb8dbc2584d,0.9,"(25, 13)","(36, 18)","(8, 23)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ca0543a9-2a67-4e81-a05c-bbb8dbc2584d.png,4368
+Bot 2,4a792df9-f9bf-4045-be8a-a8603956db9a,0.9,"(25, 13)","(36, 18)","(8, 23)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4a792df9-f9bf-4045-be8a-a8603956db9a.png,4368
+Bot 3,c864405f-de13-4389-befe-5b1a20ef0c93,0.9,"(25, 13)","(36, 18)","(8, 23)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c864405f-de13-4389-befe-5b1a20ef0c93.png,4368
+Bot 4,e2b033bb-8b90-40fb-a016-6a619ff2b6b7,0.9,"(25, 13)","(36, 18)","(8, 23)",18,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e2b033bb-8b90-40fb-a016-6a619ff2b6b7.png,4368
+Bot 1,65315046-83db-4de3-9f6e-f73f7d4f366c,0.9,"(14, 26)","(23, 25)","(36, 1)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/65315046-83db-4de3-9f6e-f73f7d4f366c.png,7092
+Bot 2,e893269d-bd93-4205-833a-bc6ba6c39d2d,0.9,"(14, 26)","(23, 25)","(36, 1)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e893269d-bd93-4205-833a-bc6ba6c39d2d.png,7092
+Bot 3,4fbd2d86-12e6-4e20-93e8-468df3dbf012,0.9,"(14, 26)","(23, 25)","(36, 1)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4fbd2d86-12e6-4e20-93e8-468df3dbf012.png,7092
+Bot 4,38eea339-20cb-4b6e-bd5b-683d2924eaee,0.9,"(14, 26)","(23, 25)","(36, 1)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/38eea339-20cb-4b6e-bd5b-683d2924eaee.png,7092
+Bot 1,58b21e5d-279d-4eb1-a02c-0d5676862913,0.9,"(14, 6)","(25, 2)","(6, 3)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/58b21e5d-279d-4eb1-a02c-0d5676862913.png,1627
+Bot 2,548fe67c-213b-4305-8bc3-307bd4ece3a5,0.9,"(14, 6)","(25, 2)","(6, 3)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/548fe67c-213b-4305-8bc3-307bd4ece3a5.png,1627
+Bot 3,874e2148-ce1b-4cfc-940f-46063cd05093,0.9,"(14, 6)","(25, 2)","(6, 3)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/874e2148-ce1b-4cfc-940f-46063cd05093.png,1627
+Bot 4,ca825689-83a2-40ff-997d-28f4f5b37dcb,0.9,"(14, 6)","(25, 2)","(6, 3)",19,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ca825689-83a2-40ff-997d-28f4f5b37dcb.png,1627
+Bot 1,c5cd06c1-d78d-4348-8ddc-c0982a72b827,0.9,"(22, 9)","(12, 3)","(10, 38)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c5cd06c1-d78d-4348-8ddc-c0982a72b827.png,6323
+Bot 2,fb58b981-84a0-451c-a377-bf3799baf857,0.9,"(22, 9)","(12, 3)","(10, 38)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fb58b981-84a0-451c-a377-bf3799baf857.png,6323
+Bot 3,97138a66-17b7-4dc3-88af-e3d4d1b22130,0.9,"(22, 9)","(12, 3)","(10, 38)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/97138a66-17b7-4dc3-88af-e3d4d1b22130.png,6323
+Bot 4,67422047-0573-4664-819e-20cd86b8b475,0.9,"(22, 9)","(12, 3)","(10, 38)",16,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/67422047-0573-4664-819e-20cd86b8b475.png,6323
+Bot 1,1c10809d-f533-40b4-9f4e-0ea05bcf5798,0.9,"(28, 11)","(7, 7)","(36, 33)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1c10809d-f533-40b4-9f4e-0ea05bcf5798.png,2740
+Bot 2,46b60552-99cc-4d83-b648-3ea622dcc891,0.9,"(28, 11)","(7, 7)","(36, 33)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/46b60552-99cc-4d83-b648-3ea622dcc891.png,2740
+Bot 3,02ddfaea-c89f-45b9-a7e2-e2a6d22226f1,0.9,"(28, 11)","(7, 7)","(36, 33)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/02ddfaea-c89f-45b9-a7e2-e2a6d22226f1.png,2740
+Bot 4,81783837-9ec8-4afd-8895-003e2faa20a3,0.9,"(28, 11)","(7, 7)","(36, 33)",29,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/81783837-9ec8-4afd-8895-003e2faa20a3.png,2740
+Bot 1,bc5036e7-b1f2-48f6-ac81-e35e3b0e657b,0.9,"(14, 22)","(38, 38)","(25, 13)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bc5036e7-b1f2-48f6-ac81-e35e3b0e657b.png,4911
+Bot 2,b4adfa22-53bd-4db6-82c4-4aa0e611a421,0.9,"(14, 22)","(38, 38)","(25, 13)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b4adfa22-53bd-4db6-82c4-4aa0e611a421.png,4911
+Bot 3,ab41c186-dce8-480c-9e17-1b004f8ab18c,0.9,"(14, 22)","(38, 38)","(25, 13)",42,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ab41c186-dce8-480c-9e17-1b004f8ab18c.png,4911
+Bot 4,02b7f599-284f-4523-b09d-f0210bb3e13f,0.9,"(14, 22)","(38, 38)","(25, 13)",32,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/02b7f599-284f-4523-b09d-f0210bb3e13f.png,4911
+Bot 1,6415800a-421e-4e07-a004-686a384f486e,0.9500000000000001,"(26, 4)","(7, 9)","(14, 15)",11,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/6415800a-421e-4e07-a004-686a384f486e.png,6717
+Bot 2,09a46332-79e7-4af8-9212-a48b609a94fe,0.9500000000000001,"(26, 4)","(7, 9)","(14, 15)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/09a46332-79e7-4af8-9212-a48b609a94fe.png,6717
+Bot 3,f450537a-8f6d-4ccd-a80d-7eb35a37f8f1,0.9500000000000001,"(26, 4)","(7, 9)","(14, 15)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f450537a-8f6d-4ccd-a80d-7eb35a37f8f1.png,6717
+Bot 4,1c8d107d-60d1-407a-8d9f-76995cb739e6,0.9500000000000001,"(26, 4)","(7, 9)","(14, 15)",12,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1c8d107d-60d1-407a-8d9f-76995cb739e6.png,6717
+Bot 1,7522a8e1-9a8d-47ea-ac64-48f176910465,0.9500000000000001,"(30, 4)","(4, 34)","(15, 27)",24,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/7522a8e1-9a8d-47ea-ac64-48f176910465.png,6508
+Bot 2,16934123-e2f6-4182-8070-5b8e0eeb0161,0.9500000000000001,"(30, 4)","(4, 34)","(15, 27)",13,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/16934123-e2f6-4182-8070-5b8e0eeb0161.png,6508
+Bot 3,118abca8-76ee-4303-90e8-d516829d9cc9,0.9500000000000001,"(30, 4)","(4, 34)","(15, 27)",18,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/118abca8-76ee-4303-90e8-d516829d9cc9.png,6508
+Bot 4,9be924da-ef58-4f9f-abbb-de088d3e447e,0.9500000000000001,"(30, 4)","(4, 34)","(15, 27)",25,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9be924da-ef58-4f9f-abbb-de088d3e447e.png,6508
+Bot 1,4046736c-e7cf-4f26-b959-c8c472bfe50f,0.9500000000000001,"(37, 18)","(2, 37)","(28, 38)",20,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4046736c-e7cf-4f26-b959-c8c472bfe50f.png,1355
+Bot 2,9b49e5f2-7fe4-4841-8b06-0592fa3e6c85,0.9500000000000001,"(37, 18)","(2, 37)","(28, 38)",20,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9b49e5f2-7fe4-4841-8b06-0592fa3e6c85.png,1355
+Bot 3,634d95af-ce11-4ba6-ab1d-dc87d1bd1698,0.9500000000000001,"(37, 18)","(2, 37)","(28, 38)",20,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/634d95af-ce11-4ba6-ab1d-dc87d1bd1698.png,1355
+Bot 4,0e3e055c-906d-4a71-aae4-f7372a2b7bb1,0.9500000000000001,"(37, 18)","(2, 37)","(28, 38)",37,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0e3e055c-906d-4a71-aae4-f7372a2b7bb1.png,1355
+Bot 1,eb9b756d-e257-439d-8d60-d0602080710d,0.9500000000000001,"(31, 29)","(37, 8)","(17, 10)",30,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/eb9b756d-e257-439d-8d60-d0602080710d.png,9487
+Bot 2,1183a838-3ac9-432d-b432-aa3654a52d0c,0.9500000000000001,"(31, 29)","(37, 8)","(17, 10)",27,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1183a838-3ac9-432d-b432-aa3654a52d0c.png,9487
+Bot 3,4128c702-bd76-456f-b266-00d6a756bd67,0.9500000000000001,"(31, 29)","(37, 8)","(17, 10)",28,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4128c702-bd76-456f-b266-00d6a756bd67.png,9487
+Bot 4,92f2d4eb-a991-4794-a894-9fe8aef72e25,0.9500000000000001,"(31, 29)","(37, 8)","(17, 10)",29,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/92f2d4eb-a991-4794-a894-9fe8aef72e25.png,9487
+Bot 1,5bab5c86-fc68-40ae-b464-2830c20ed759,0.9500000000000001,"(36, 8)","(17, 12)","(14, 15)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5bab5c86-fc68-40ae-b464-2830c20ed759.png,5835
+Bot 2,389ae617-7859-44a9-ba57-2ae9b74aea5d,0.9500000000000001,"(36, 8)","(17, 12)","(14, 15)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/389ae617-7859-44a9-ba57-2ae9b74aea5d.png,5835
+Bot 3,addb46f2-6f41-4170-b67a-2435dbffdf1f,0.9500000000000001,"(36, 8)","(17, 12)","(14, 15)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/addb46f2-6f41-4170-b67a-2435dbffdf1f.png,5835
+Bot 4,615136fd-eb96-439f-896b-e46e1f90ae85,0.9500000000000001,"(36, 8)","(17, 12)","(14, 15)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/615136fd-eb96-439f-896b-e46e1f90ae85.png,5835
+Bot 1,2edcf4c4-e783-41b7-9bbd-50b364cc0c97,0.9500000000000001,"(3, 35)","(20, 9)","(2, 12)",17,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2edcf4c4-e783-41b7-9bbd-50b364cc0c97.png,2210
+Bot 2,317e4e94-bd22-492c-8f31-2c857b3deb27,0.9500000000000001,"(3, 35)","(20, 9)","(2, 12)",17,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/317e4e94-bd22-492c-8f31-2c857b3deb27.png,2210
+Bot 3,ac88b2e4-f40c-48d7-a6e8-e1b9b45d607d,0.9500000000000001,"(3, 35)","(20, 9)","(2, 12)",24,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/ac88b2e4-f40c-48d7-a6e8-e1b9b45d607d.png,2210
+Bot 4,5ca8c95e-b89a-48fb-a13c-6b70fa61f3b5,0.9500000000000001,"(3, 35)","(20, 9)","(2, 12)",17,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5ca8c95e-b89a-48fb-a13c-6b70fa61f3b5.png,2210
+Bot 1,b29ee561-7da8-425b-b319-d781a851ff52,0.9500000000000001,"(21, 31)","(24, 25)","(29, 26)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b29ee561-7da8-425b-b319-d781a851ff52.png,4601
+Bot 2,429315e5-f7d0-4084-ab94-c7ed2b7ab0a7,0.9500000000000001,"(21, 31)","(24, 25)","(29, 26)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/429315e5-f7d0-4084-ab94-c7ed2b7ab0a7.png,4601
+Bot 3,962ac94c-d923-499e-8217-0bdaf6e4a4d5,0.9500000000000001,"(21, 31)","(24, 25)","(29, 26)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/962ac94c-d923-499e-8217-0bdaf6e4a4d5.png,4601
+Bot 4,5d3bd424-bcdf-4141-a74a-11cdb1f2f5d3,0.9500000000000001,"(21, 31)","(24, 25)","(29, 26)",5,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5d3bd424-bcdf-4141-a74a-11cdb1f2f5d3.png,4601
+Bot 1,38fa34b0-cf32-4cc6-bfa7-8df9d9a24288,0.9500000000000001,"(32, 38)","(11, 31)","(31, 16)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/38fa34b0-cf32-4cc6-bfa7-8df9d9a24288.png,452
+Bot 2,60a14eb8-7e9d-4898-b97e-67f5ed569df4,0.9500000000000001,"(32, 38)","(11, 31)","(31, 16)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/60a14eb8-7e9d-4898-b97e-67f5ed569df4.png,452
+Bot 3,d04ba12f-1a04-4889-b07e-e71545705f17,0.9500000000000001,"(32, 38)","(11, 31)","(31, 16)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d04ba12f-1a04-4889-b07e-e71545705f17.png,452
+Bot 4,47146a90-f43d-4247-a4ae-3125ec4251db,0.9500000000000001,"(32, 38)","(11, 31)","(31, 16)",28,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/47146a90-f43d-4247-a4ae-3125ec4251db.png,452
+Bot 1,526b648c-638f-458e-9c25-ecae4cdfdce0,0.9500000000000001,"(28, 26)","(6, 13)","(9, 23)",14,Bot caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/526b648c-638f-458e-9c25-ecae4cdfdce0.png,9940
+Bot 2,94ffbfbf-9443-48a7-a594-cf6d17bc4231,0.9500000000000001,"(28, 26)","(6, 13)","(9, 23)",14,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/94ffbfbf-9443-48a7-a594-cf6d17bc4231.png,9940
+Bot 3,bacd97e0-6f2e-4325-bffc-0d6f7f618156,0.9500000000000001,"(28, 26)","(6, 13)","(9, 23)",14,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bacd97e0-6f2e-4325-bffc-0d6f7f618156.png,9940
+Bot 4,2bdd3ebb-c6ba-4750-8ed0-43db70b1f1ed,0.9500000000000001,"(28, 26)","(6, 13)","(9, 23)",14,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/2bdd3ebb-c6ba-4750-8ed0-43db70b1f1ed.png,9940
+Bot 1,44e991b5-7a12-42b1-9e38-4f1db1e62ecb,0.9500000000000001,"(21, 33)","(35, 33)","(31, 37)",7,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/44e991b5-7a12-42b1-9e38-4f1db1e62ecb.png,8390
+Bot 2,d76f1347-6d3b-40d5-8e54-260158528f66,0.9500000000000001,"(21, 33)","(35, 33)","(31, 37)",6,No path found,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d76f1347-6d3b-40d5-8e54-260158528f66.png,8390
+Bot 3,e8df6eed-41b8-40ee-af2d-959d65f08e17,0.9500000000000001,"(21, 33)","(35, 33)","(31, 37)",7,Path blocked,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e8df6eed-41b8-40ee-af2d-959d65f08e17.png,8390
+Bot 4,a5003a5a-beb6-4c64-8fb5-914eac2ac554,0.9500000000000001,"(21, 33)","(35, 33)","(31, 37)",7,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a5003a5a-beb6-4c64-8fb5-914eac2ac554.png,8390
+Bot 1,91e91161-6379-4f52-a548-3bd27ea6e809,1.0,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/91e91161-6379-4f52-a548-3bd27ea6e809.png,210
+Bot 2,479bf71c-e0f6-4340-b271-cca4d36ed2ce,1.0,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/479bf71c-e0f6-4340-b271-cca4d36ed2ce.png,210
+Bot 3,51f641a8-e027-41db-9b7b-a87870d4a475,1.0,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/51f641a8-e027-41db-9b7b-a87870d4a475.png,210
+Bot 4,c8d0901b-f916-46cf-bacc-62ad7a563864,1.0,"(21, 8)","(2, 22)","(35, 31)",33,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/c8d0901b-f916-46cf-bacc-62ad7a563864.png,210
+Bot 1,80ba2392-c1f8-4ede-9d99-cd060b93089d,1.0,"(16, 7)","(26, 18)","(20, 31)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/80ba2392-c1f8-4ede-9d99-cd060b93089d.png,8759
+Bot 2,47d9f82a-33ba-4fdf-9ea2-4392502b1815,1.0,"(16, 7)","(26, 18)","(20, 31)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/47d9f82a-33ba-4fdf-9ea2-4392502b1815.png,8759
+Bot 3,4035db5b-7b54-4c68-b3aa-b3100b38e074,1.0,"(16, 7)","(26, 18)","(20, 31)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4035db5b-7b54-4c68-b3aa-b3100b38e074.png,8759
+Bot 4,f0a36c70-d9f1-4b2d-a2d9-b7f3d1d40cfb,1.0,"(16, 7)","(26, 18)","(20, 31)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f0a36c70-d9f1-4b2d-a2d9-b7f3d1d40cfb.png,8759
+Bot 1,74bb4a8a-fba0-43f7-8572-7b8161c57d4f,1.0,"(27, 33)","(22, 12)","(22, 13)",0,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/74bb4a8a-fba0-43f7-8572-7b8161c57d4f.png,6977
+Bot 2,bc383af7-bde1-4e27-8fbe-b59fc7ea41d7,1.0,"(27, 33)","(22, 12)","(22, 13)",0,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bc383af7-bde1-4e27-8fbe-b59fc7ea41d7.png,6977
+Bot 3,8d25872a-b10b-47ad-ba43-1d62287295e7,1.0,"(27, 33)","(22, 12)","(22, 13)",0,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/8d25872a-b10b-47ad-ba43-1d62287295e7.png,6977
+Bot 4,f9e19bca-e74c-4dd8-ab76-12fb17931e6c,1.0,"(27, 33)","(22, 12)","(22, 13)",0,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f9e19bca-e74c-4dd8-ab76-12fb17931e6c.png,6977
+Bot 1,4e9eb8af-716d-449c-b8f0-310ca83911eb,1.0,"(13, 29)","(10, 2)","(23, 27)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4e9eb8af-716d-449c-b8f0-310ca83911eb.png,7284
+Bot 2,33ce39ec-adeb-49e0-b387-767ada1c99e0,1.0,"(13, 29)","(10, 2)","(23, 27)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/33ce39ec-adeb-49e0-b387-767ada1c99e0.png,7284
+Bot 3,aec6ea6b-de9a-4222-aa2d-b6447d3bcd3c,1.0,"(13, 29)","(10, 2)","(23, 27)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/aec6ea6b-de9a-4222-aa2d-b6447d3bcd3c.png,7284
+Bot 4,17b57781-50ae-42da-b220-e3c2262d284b,1.0,"(13, 29)","(10, 2)","(23, 27)",36,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/17b57781-50ae-42da-b220-e3c2262d284b.png,7284
+Bot 1,cd6a4dc1-b15b-42dc-943d-8ceeb1dd67ec,1.0,"(37, 6)","(34, 1)","(22, 29)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/cd6a4dc1-b15b-42dc-943d-8ceeb1dd67ec.png,7286
+Bot 2,90940d15-bbd0-4135-ab36-6cf6818a35d4,1.0,"(37, 6)","(34, 1)","(22, 29)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/90940d15-bbd0-4135-ab36-6cf6818a35d4.png,7286
+Bot 3,e24854f3-e570-4570-bb7d-7e4e886f12c1,1.0,"(37, 6)","(34, 1)","(22, 29)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e24854f3-e570-4570-bb7d-7e4e886f12c1.png,7286
+Bot 4,74707107-292a-4e30-aa36-c9ac27b5611f,1.0,"(37, 6)","(34, 1)","(22, 29)",10,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/74707107-292a-4e30-aa36-c9ac27b5611f.png,7286
+Bot 1,a33583d0-cd98-4144-9670-e5f6601e29d1,1.0,"(27, 37)","(22, 4)","(8, 3)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/a33583d0-cd98-4144-9670-e5f6601e29d1.png,4195
+Bot 2,bd95dab9-9f46-4963-bef2-76cc37287040,1.0,"(27, 37)","(22, 4)","(8, 3)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/bd95dab9-9f46-4963-bef2-76cc37287040.png,4195
+Bot 3,910b18a2-6421-4339-9830-564234d52591,1.0,"(27, 37)","(22, 4)","(8, 3)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/910b18a2-6421-4339-9830-564234d52591.png,4195
+Bot 4,4138864c-2308-4ecf-9436-87124ab79d15,1.0,"(27, 37)","(22, 4)","(8, 3)",18,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/4138864c-2308-4ecf-9436-87124ab79d15.png,4195
+Bot 1,0716df5f-792b-4ab6-abd7-f88e879756f4,1.0,"(36, 3)","(20, 7)","(24, 10)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/0716df5f-792b-4ab6-abd7-f88e879756f4.png,3322
+Bot 2,98fae0f0-bb13-4820-8597-f98e63351286,1.0,"(36, 3)","(20, 7)","(24, 10)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/98fae0f0-bb13-4820-8597-f98e63351286.png,3322
+Bot 3,99efdb08-c336-4cd4-b573-6989833586b4,1.0,"(36, 3)","(20, 7)","(24, 10)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/99efdb08-c336-4cd4-b573-6989833586b4.png,3322
+Bot 4,28c8429f-2f2b-4d11-b596-c6264577c3fb,1.0,"(36, 3)","(20, 7)","(24, 10)",6,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/28c8429f-2f2b-4d11-b596-c6264577c3fb.png,3322
+Bot 1,312790e5-1e96-4171-aab2-b4aa1a9ec85f,1.0,"(33, 7)","(4, 17)","(2, 38)",30,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/312790e5-1e96-4171-aab2-b4aa1a9ec85f.png,4081
+Bot 2,9b2da3fa-103b-4da2-a9dd-d0eca492547c,1.0,"(33, 7)","(4, 17)","(2, 38)",30,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/9b2da3fa-103b-4da2-a9dd-d0eca492547c.png,4081
+Bot 3,fc5dcfa0-df1a-4a7c-8e75-0e59d61917b6,1.0,"(33, 7)","(4, 17)","(2, 38)",30,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/fc5dcfa0-df1a-4a7c-8e75-0e59d61917b6.png,4081
+Bot 4,f0fcfc9f-97dd-4353-9b95-b92ed46e18bb,1.0,"(33, 7)","(4, 17)","(2, 38)",30,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/f0fcfc9f-97dd-4353-9b95-b92ed46e18bb.png,4081
+Bot 1,5b748a16-581c-4fdb-abfa-9e7b019f858c,1.0,"(24, 31)","(12, 30)","(13, 21)",13,Bot ran into fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/5b748a16-581c-4fdb-abfa-9e7b019f858c.png,5282
+Bot 2,b95a1787-260e-4313-803e-5f7aa02708a2,1.0,"(24, 31)","(12, 30)","(13, 21)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/b95a1787-260e-4313-803e-5f7aa02708a2.png,5282
+Bot 3,d6791f2b-f474-451d-839f-5cf603d0e86b,1.0,"(24, 31)","(12, 30)","(13, 21)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d6791f2b-f474-451d-839f-5cf603d0e86b.png,5282
+Bot 4,573f92be-ff93-4be3-8cee-e47e8caadf16,1.0,"(24, 31)","(12, 30)","(13, 21)",13,Button caught fire,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/573f92be-ff93-4be3-8cee-e47e8caadf16.png,5282
+Bot 1,1fc92930-72ad-43f7-9be7-5806a89c5a75,1.0,"(20, 32)","(20, 16)","(2, 28)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/1fc92930-72ad-43f7-9be7-5806a89c5a75.png,4413
+Bot 2,19f68a37-bb03-4358-a403-10cd7eec457d,1.0,"(20, 32)","(20, 16)","(2, 28)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/19f68a37-bb03-4358-a403-10cd7eec457d.png,4413
+Bot 3,d134979a-4f3a-4895-955b-71454584ebdf,1.0,"(20, 32)","(20, 16)","(2, 28)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/d134979a-4f3a-4895-955b-71454584ebdf.png,4413
+Bot 4,e86dba18-8ab7-44e1-9e56-a6226c634c9e,1.0,"(20, 32)","(20, 16)","(2, 28)",22,Success,C:/Users/shaiv/Downloads/ai_project_1-main/final_frames/e86dba18-8ab7-44e1-9e56-a6226c634c9e.png,4413
