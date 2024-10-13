@@ -7,6 +7,7 @@ import matplotlib.animation
 import os
 import csv
 
+# outlines the parameters that define each cell
 class Cell:
     def __init__(self):
         self.parent_i = 0
@@ -15,18 +16,23 @@ class Cell:
         self.g = float('inf')
         self.h = 0
 
+# checking if cell is blocked
 def is_blocked(grid, row, col):
     return grid[row][col] == 1
 
+# checking if cell is within the defined boundary
 def is_valid(row, col, n):
     return (row >= 0) and (row < n) and (col >= 0) and (col < n)
 
+# checking if cell has fire
 def is_fire(grid, row, col):
     return grid[row][col] == 2
 
+# calculating heuristic value (manhattan distance)
 def calculate_h_value(row, col, dest):
     return abs(row - dest[0]) + abs(col - dest[1])
 
+# checking if cell is unblocked (not fire or closed) for all 3 bots
 def is_unblocked_bot_1(grid, row, col, t):
     if t == 0:
         return grid[row][col] == 0 or grid[row][col] == 3 or grid[row][col] == 4 or grid[row][col] == 2
@@ -45,9 +51,11 @@ def is_unblocked_bot_3(grid, row, col, avoid_adjacent_fire=False):
                 return False
     return True
 
+# if bot has reached the button
 def is_destination(row, col, dest):
     return row == dest[0] and col == dest[1]
 
+# number of open neighbours each cell has
 def count_open_neighbours(grid, i, j):
     movement = [(0, 1), (0, -1), (1, 0), (-1, 0)]
     open_neighbours = 0
@@ -147,6 +155,7 @@ def fire_spread(grid, n, q):
                         new_grid[x][y] = 2
     return new_grid
 
+# saves all the results for each simulation
 def log_results(log_data, filename='/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/simulation_results.csv'):
     file_exists = os.path.isfile(filename)
     with open(filename, 'a', newline='') as csvfile:
