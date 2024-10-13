@@ -7,10 +7,10 @@ import numpy as np
 import random
 
 n = 40
-q = 0.4
+q = 0.45
 
-# seed_value = random.randrange(1, 1000)
-seed_value = 27
+seed_value = random.randrange(1, 1000)
+# seed_value = 27
 # seed_value = 999
 # seed_value = 176
 # seed_value = 616
@@ -18,6 +18,8 @@ seed_value = 27
 # seed_value = 604
 # seed_value = 195
 # seed_value = 964
+# seed_value = 867
+seed_value = 809
 print(seed_value)
 random.seed(seed_value)
 np.random.seed(seed_value)

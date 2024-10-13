@@ -123,7 +123,7 @@ def fire_init_fn(grid, n, v):
     x, y = place_element(grid, n, v)
     return x, y
 
-def visualize_simulation(frames, interval=500):
+def visualize_simulation(frames, interval=100):
     cmap = ListedColormap(['white', 'black', 'red', 'blue', 'green'])
     fig, ax = plt.subplots()
     ax.set_title('Grid Simulation')

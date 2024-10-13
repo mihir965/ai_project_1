@@ -4,7 +4,7 @@ import random
 from env_utils import *
 import uuid
 
-def fire_forecast(grid, n, q, forecast_steps=15, seed_value=None):
+def fire_forecast(grid, n, q, forecast_steps=5, seed_value=None):
     probability_grid = np.zeros((n, n))  # Initialize a grid to store fire probabilities
     temp_grid = grid.copy()
 
@@ -137,7 +137,7 @@ def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
         return None
 
 def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, probability_grid):
-    
+
     while len(open_list) > 0:
         p = heapq.heappop(open_list)
         i, j = p[1]
