@@ -86,6 +86,7 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
             path = plan_path_bot2(grid, bot_pos, dest, n)
             if not path:
                 print("Replanning failed, no path found.")
+                log_data['result'] = 'Failure'
                 frames.append(np.copy(grid))
                 break
 

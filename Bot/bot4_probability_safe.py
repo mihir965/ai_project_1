@@ -82,7 +82,7 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
             if not path:
                 print("No safe path found.")
                 frames.append(np.copy(grid))
-                log_data['result'] = 'Path blocked'
+                log_data['result'] = 'Failure'
                 break
 
         # Move the bot one step along the path
@@ -92,7 +92,7 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
             if grid[bot_pos[0]][bot_pos[1]] == 2:
                 print("The bot ran into the fire!")
                 frames.append(np.copy(grid))
-                log_data['result'] = 'Bot ran into fire'
+                log_data['result'] = 'Failure'
                 break
             grid[bot_pos[0]][bot_pos[1]] = 4
             frames.append(np.copy(grid))
@@ -110,12 +110,12 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
         # Check if fire reached the bot or the button
         if grid[bot_pos[0]][bot_pos[1]] == 2:
             print("The bot has caught fire!")
-            log_data['result'] = 'Bot caught fire'
+            log_data['result'] = 'Failure'
             frames.append(np.copy(grid))
             break
         if grid[dest[0]][dest[1]] == 2:
             print("The button has caught fire!")
-            log_data['result'] = 'Button caught fire'
+            log_data['result'] = 'Failure'
             frames.append(np.copy(grid))
             break
 
@@ -124,8 +124,8 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
     log_data['steps'] = t
     log_results(log_data)
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
-    if trial == 0:
-        visualize_simulation(frames)
+    # if trial == 0:
+    #     visualize_simulation(frames)
     return log_data
 
 def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
