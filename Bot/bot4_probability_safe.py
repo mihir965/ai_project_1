@@ -1,4 +1,3 @@
-# Add to environment_utils.py
 import copy
 import random
 from env_utils import *
@@ -101,7 +100,6 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
             log_data['result'] = 'Success'
             break
 
-        # Spread the fire after bot moves
         grid = fire_spread(grid, n, q)
         frames.append(np.copy(grid))
 
@@ -121,7 +119,6 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
 
     log_data['steps'] = t
     log_results(log_data)
-    # Save the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
     if trial == 0:
         visualize_simulation(frames)
