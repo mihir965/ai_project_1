@@ -24,7 +24,7 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     print(f"The bot is placed in position: {src}, button position is: {dest}")
     if is_destination(src[0], src[1], dest):
         print("The bot is placed with the button! LOL")
-        log_data['result'] = 'Bot already at button'
+        log_data['result'] = 'Success'
         return
 
     # Initialize the bot's starting position
@@ -57,7 +57,7 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     path = plan_path_bot_1()
     if not path:
         print("No initial path found.")
-        log_data['result'] = 'Path blocked'
+        log_data['result'] = 'Failure'
         return
 
     while True:
@@ -69,6 +69,7 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
             bot_pos = path.pop(1)
             if grid[bot_pos[0]][bot_pos[1]] == 2:
                 print("The bot ran into the fire!")
+                log_data['result'] = 'Failure'
                 break
             grid[bot_pos[0]][bot_pos[1]] = 4
             frames.append(np.copy(grid))
@@ -87,12 +88,12 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
         if grid[bot_pos[0]][bot_pos[1]] == 2:
             print("The bot has caught fire!")
             frames.append(np.copy(grid))
-            log_data['result'] = 'Bot caught fire'
+            log_data['result'] = 'Failure'
             break
         if grid[dest[0]][dest[1]] == 2:
             print("The button has caught fire!")
             frames.append(np.copy(grid))
-            log_data['result'] = 'Button caught fire'
+            log_data['result'] = 'Failure'
             break
 
         t += 1

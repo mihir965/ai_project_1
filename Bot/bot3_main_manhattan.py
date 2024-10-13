@@ -29,7 +29,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         return
     if is_destination(src[0], src[1], dest):
         print("The bot is placed with the button! LOL")
-        log_data['result'] = 'Bot already at button'
+        log_data['result'] = 'Success'
         return
 
     # Initialize the bot's starting position
@@ -85,7 +85,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         if not path:
             print("The bot has no path to the button due to the fire.")
             frames.append(np.copy(grid))
-            log_data['result'] = 'Path blocked'
+            log_data['result'] = 'Failure'
             break
 
         # Move the bot one step along the path
@@ -94,6 +94,7 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
             bot_pos = path[1]
             if grid[bot_pos[0]][bot_pos[1]] == 2:
                 print("The bot ran into the fire!")
+                log_data['result'] = 'Failure'
                 frames.append(np.copy(grid))
                 break
             grid[bot_pos[0]][bot_pos[1]] = 4
@@ -113,12 +114,12 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
         # Check if fire reached the bot or the button
         if grid[bot_pos[0]][bot_pos[1]] == 2:
             print("The bot has caught fire!")
-            log_data['result'] = 'Bot caught fire'
+            log_data['result'] = 'Failure'
             frames.append(np.copy(grid))
             break
         if grid[dest[0]][dest[1]] == 2:
             print("The button has caught fire!")
-            log_data['result'] = 'Button caught fire'
+            log_data['result'] = 'Failure'
             frames.append(np.copy(grid))
             break
 
