@@ -1,4 +1,3 @@
-# from environment_utils import grid_init, bot_init, button_init, fire_init_fn, fire_spread, is_valid, is_destination, calculate_h_value, visualize_simulation,Cell, is_unblocked_bot_1, log_results, save_final_frame
 from env_utils import *
 import heapq
 import numpy as np
@@ -109,6 +108,7 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
 def track_path_bot1(cell_details, src, dest, n):
     path = []
     i, j = dest
+    #avoiding loops
     visited = set()
     while not (i == src[0] and j == src[1]):
         path.append((i, j))
