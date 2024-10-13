@@ -5,7 +5,7 @@ import numpy as np
 import heapq
 import uuid
 
-def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value):
+def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
 
     run_id = str(uuid.uuid4())
 
@@ -134,7 +134,9 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value):
     log_results(log_data)
     # Save the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
-    visualize_simulation(frames)
+    if trial==0:
+        visualize_simulation(frames)
+    return log_data
 
 def track_path_bot3(cell_details, dest, src, n):
     print("tracking path")

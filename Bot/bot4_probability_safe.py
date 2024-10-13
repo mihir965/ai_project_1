@@ -41,7 +41,7 @@ def calculate_adaptive_h_value(row, col, dest, fire_risk_map):
     fire_risk_penalty = fire_risk_map[row][col] * 10  # Adjust weight of fire risk
     return manhattan_distance + fire_risk_penalty
 
-def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_value):
+def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_value, trial):
     run_id = str(uuid.uuid4())
 
     # For keeping track of results:
@@ -128,7 +128,9 @@ def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_
     log_results(log_data)
     # Save the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
-    visualize_simulation(frames)
+    if trial == 0:
+        visualize_simulation(frames)
+    return log_data
 
 def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
     closed_list = [[False for _ in range(n)] for _ in range(n)]

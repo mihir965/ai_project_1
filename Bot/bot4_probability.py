@@ -113,9 +113,6 @@ def time_lapse_fn_bot4_prob(grid, q, n, frames, src, dest, fire_init, seed_value
     visualize_simulation(frames)
 
 def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
-    """
-    Plan path based on minimizing fire risk using the probability grid.
-    """
     closed_list = [[False for _ in range(n)] for _ in range(n)]
     cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
     open_list = []
@@ -129,7 +126,7 @@ def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
     found_dest = False
     cell_details, found_dest = bot_planning_bot4(closed_list, cell_details, open_list, bot_pos, dest, grid, found_dest, n, probability_grid)
     if found_dest:
-        return track_path_bot3(cell_details, dest, bot_pos, n)  # Reuse bot 3's tracking function
+        return track_path_bot3(cell_details, dest, bot_pos, n)
     else:
         return None
 
