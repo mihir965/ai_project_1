@@ -4,7 +4,7 @@ import random
 from env_utils import *
 import uuid
 
-def fire_forecast(grid, n, q, forecast_steps=5, seed_value=None):
+def fire_forecast(grid, n, q, forecast_steps=2, seed_value=None):
     probability_grid = np.zeros((n, n))  # Initialize a grid to store fire probabilities
     temp_grid = grid.copy()
 
@@ -24,11 +24,24 @@ def fire_forecast(grid, n, q, forecast_steps=5, seed_value=None):
                             new_grid[x][y] = 2  
         temp_grid = new_grid
 
-    #Normalization
+    # Normalization
     probability_grid = probability_grid / forecast_steps
     return probability_grid
 
-def time_lapse_fn_bot4_prob(grid, q, n, frames, src, dest, fire_init, seed_value):
+def find_safe_zones(grid, probability_grid, threshold=0.3):
+    safe_zones = []
+    for i in range(len(grid)):
+        for j in range(len(grid[0])):
+            if probability_grid[i][j] < threshold and grid[i][j] == 0:
+                safe_zones.append((i, j))
+    return safe_zones
+
+def calculate_adaptive_h_value(row, col, dest, fire_risk_map):
+    manhattan_distance = abs(row - dest[0]) + abs(col - dest[1])
+    fire_risk_penalty = fire_risk_map[row][col] * 10  # Adjust weight of fire risk
+    return manhattan_distance + fire_risk_penalty
+
+def time_lapse_fn_bot4_prob_safe(grid, q, n, frames, src, dest, fire_init, seed_value):
     run_id = str(uuid.uuid4())
 
     # For keeping track of results:
@@ -59,10 +72,15 @@ def time_lapse_fn_bot4_prob(grid, q, n, frames, src, dest, fire_init, seed_value
 
         path = plan_path_bot4(grid, bot_pos, dest, n, probability_grid)
         if not path:
-            print("The bot has no path to the button due to the fire.")
-            frames.append(np.copy(grid))
-            log_data['result'] = 'Path blocked'
-            break
+            safe_zones = find_safe_zones(grid, probability_grid)
+            if safe_zones:
+                safe_zone_pos = min(safe_zones, key=lambda z: calculate_adaptive_h_value(z[0], z[1], src, probability_grid))
+                path = plan_path_bot4(grid, bot_pos, safe_zone_pos, n, probability_grid)
+            if not path:
+                print("No safe path found.")
+                frames.append(np.copy(grid))
+                log_data['result'] = 'Path blocked'
+                break
 
         # Move the bot one step along the path
         if len(path) >= 2:
@@ -88,7 +106,7 @@ def time_lapse_fn_bot4_prob(grid, q, n, frames, src, dest, fire_init, seed_value
             frames.append(np.copy(grid))
             break
 
-        
+        # Spread the fire after bot moves
         grid = fire_spread(grid, n, q)
         frames.append(np.copy(grid))
 
@@ -113,9 +131,6 @@ def time_lapse_fn_bot4_prob(grid, q, n, frames, src, dest, fire_init, seed_value
     visualize_simulation(frames)
 
 def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
-    """
-    Plan path based on minimizing fire risk using the probability grid.
-    """
     closed_list = [[False for _ in range(n)] for _ in range(n)]
     cell_details = [[Cell() for _ in range(n)] for _ in range(n)]
     open_list = []
@@ -134,7 +149,6 @@ def plan_path_bot4(grid, bot_pos, dest, n, probability_grid):
         return None
 
 def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, probability_grid):
-
     while len(open_list) > 0:
         p = heapq.heappop(open_list)
         i, j = p[1]
@@ -158,7 +172,7 @@ def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, fou
                 if not closed_list[new_i][new_j] and not is_fire(grid, new_i, new_j):
                     # Include fire probability as part of the cost
                     g_new = cell_details[i][j].g + 1.0 + probability_grid[new_i][new_j]
-                    h_new = calculate_h_value(new_i, new_j, dest)
+                    h_new = calculate_adaptive_h_value(new_i, new_j, dest, probability_grid)
                     f_new = g_new + h_new
                     if cell_details[new_i][new_j].f == float('inf') or cell_details[new_i][new_j].f > f_new:
                         heapq.heappush(open_list, (f_new, (new_i, new_j)))
@@ -168,6 +182,7 @@ def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, fou
                         cell_details[new_i][new_j].parent_i = i
                         cell_details[new_i][new_j].parent_j = j
     return cell_details, found_dest
+
 
 def track_path_bot3(cell_details, dest, src, n):
     print("tracking path")
