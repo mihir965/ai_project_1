@@ -4,7 +4,7 @@ import random
 from env_utils import *
 import uuid
 
-def fire_forecast(grid, n, q, forecast_steps=2, seed_value=None):
+def fire_forecast(grid, n, q, forecast_steps=10, seed_value=None):
     probability_grid = np.zeros((n, n))  # Initialize a grid to store fire probabilities
     temp_grid = grid.copy()
 
