@@ -95,8 +95,8 @@ def time_lapse_fn_bot2(grid, q, n, frames, src, dest, fire_init, seed_value, tri
     log_results(log_data)
     # Save the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
-    if trial == 0:
-        visualize_simulation(frames)
+    # if trial == 0:
+    #     visualize_simulation(frames)
     return log_data
 
 def plan_path_bot2(grid, bot_pos, dest, n):

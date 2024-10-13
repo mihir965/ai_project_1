@@ -105,8 +105,8 @@ def time_lapse_fn_bot_1(grid, q, n, frames, src, dest, fire_init, seed_value, tr
     log_results(log_data)
     # Save the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
-    if trial == 0:
-        visualize_simulation(frames)
+    # if trial == 0:
+    #     visualize_simulation(frames)
     return log_data
 
 def track_path_bot1(cell_details, dest):
@@ -147,7 +147,3 @@ def bot_planning_bot1(closed_list, cell_details, open_list, src, dest, grid, fou
                         cell_details[new_i][new_j].parent_i = i
                         cell_details[new_i][new_j].parent_j = j
     return cell_details, found_dest
-
-# def calculate_euclidean_distance(row, col, dest):
-#     # Euclidean distance = sqrt((x1 - x2)^2 + (y1 - y2)^2)
-#     return ((row - dest[0])**2 + (col - dest[1])**2)**0.5

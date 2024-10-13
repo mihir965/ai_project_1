@@ -187,7 +187,7 @@ def bot_planning_bot4(closed_list, cell_details, open_list, src, dest, grid, fou
 
 
 def track_path_bot3(cell_details, dest, src, n):
-    print("tracking path")
+    # print("tracking path")
     path = []
     i, j = dest
     visited = set()
@@ -206,5 +206,5 @@ def track_path_bot3(cell_details, dest, src, n):
         i, j = temp_i, temp_j
     path.append((src[0], src[1]))  # Add the source cell
     path.reverse()
-    print("Function almost done")
+    # print("Function almost done")
     return path

@@ -134,12 +134,12 @@ def time_lapse_fn_bot3(grid, q, n, frames, src, dest, fire_init, seed_value, tri
     log_results(log_data)
     # Save the final frame
     save_final_frame(frames[-1], filename=f'/Users/drcrocs22/Developer/Rutgers Projects/Intro To AI/PROJECT_1_FINAL/final_frames/{run_id}.png')
-    if trial==0:
-        visualize_simulation(frames)
+    # if trial==0:
+    #     visualize_simulation(frames)
     return log_data
 
 def track_path_bot3(cell_details, dest, src, n):
-    print("tracking path")
+    # print("tracking path")
     path = []
     i, j = dest
     visited = set()
@@ -158,7 +158,7 @@ def track_path_bot3(cell_details, dest, src, n):
         i, j = temp_i, temp_j
     path.append((src[0], src[1]))  # Add the source cell
     path.reverse()
-    print("Function almost done")
+    # print("Function almost done")
     return path
 
 def bot_planning_bot3(closed_list, cell_details, open_list, src, dest, grid, found_dest, n, avoid_adjacent_cells):
